@@ -14,11 +14,8 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - pripad_pro_exorcistu_001.html
   - pripad_pro_exorcistu_002.html
-  - pripad_pro_exorcistu_003.html
   - pripad_pro_exorcistu_004.html
-  - pripad_pro_exorcistu_005.html
   - pripad_pro_exorcistu_006.html
   - pripad_pro_exorcistu_007.html
   - pripad_pro_exorcistu_008.html
@@ -30,10 +27,46 @@ readingOrder:
   - pripad_pro_exorcistu_014.html
   - pripad_pro_exorcistu_015.html
   - pripad_pro_exorcistu_016.html
-  - pripad_pro_exorcistu_017.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: pripad_pro_exorcistu_004.html
+        title: Citát
+        hiddenTitle: true
+      - link: pripad_pro_exorcistu_006.html
+        title: "ŠTĚPÁNOV U\_OLOMOUCE"
+        hiddenTitle: false
+      - link: pripad_pro_exorcistu_007.html
+        title: PROLOG
+        hiddenTitle: false
+      - link: pripad_pro_exorcistu_008.html
+        title: DEN PRVNÍ čtvrtek 1. října
+        hiddenTitle: false
+      - link: pripad_pro_exorcistu_009.html
+        title: DEN DRUHÝ pátek 2. října
+        hiddenTitle: false
+      - link: pripad_pro_exorcistu_010.html
+        title: DEN TŘETÍ sobota 3. října
+        hiddenTitle: false
+      - link: pripad_pro_exorcistu_011.html
+        title: DEN ČTVRTÝ neděle 4. října
+        hiddenTitle: false
+      - link: pripad_pro_exorcistu_012.html
+        title: DEN PÁTÝ pondělí 5. října
+        hiddenTitle: false
+      - link: pripad_pro_exorcistu_013.html
+        title: DEN ŠESTÝ úterý 6. října
+        hiddenTitle: false
+      - link: pripad_pro_exorcistu_014.html
+        title: DEN SEDMÝ středa 7. října
+        hiddenTitle: false
+      - link: pripad_pro_exorcistu_015.html
+        title: DEN OSMÝ čtvrtek 8. října
+        hiddenTitle: false
+      - link: pripad_pro_exorcistu_016.html
+        title: "EPILOG 3. listopad\_– 22. listopad"
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
