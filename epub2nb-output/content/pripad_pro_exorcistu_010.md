@@ -3,7 +3,7 @@ title: DEN TŘETÍ sobota 3. října
 contentType: prose
 ---
 
-## XXIX.
+XXIX.
 
   
 
@@ -125,7 +125,7 @@ Uniformovaný policista vyprovodil Richarda Fořta ven. Ve výslechové místnos
 
 „Tak běžte. Šup šup!“ vstala Marie od stolu. „Já jdu uvařit kafe.“
 
-## XXX.
+XXX.
 
   
 
@@ -137,7 +137,7 @@ Tak Fořt přitvrdil – očekával okamžitou, bezprostřední, bleskovou reak
 
 Poslední dobou se mu nic nedaří. Každou chvíli jeho plány něco zhatilo a na Richarda Fořta doléhala čím dál větší frustrace. Zmařené plány, neuskutečněné záměry, nápady, které nelze dotáhnout do konce. Které nešly dotáhnout do konce. Kterým bylo zabráněno, aby je převedl v činy. Ale on přesně ví, kdy to začalo a kdo za tím vším stojí. Na frustraci a zklamání nejlépe zabírá řádný rozhodný čin. Jak tak Richard Fořt kráčel rušnou širokou třídou směřující od centra města k hlavnímu nádraží, musel uznat, že v poslední době moc těch zásadních činů nejen neuskutečňoval, ale ani nepřipravoval. Ale tohle všechno teď skončí. Dobře věděl, kdo za všechna ta zklamání, neúspěchy a frustrace může, kdo má hlavní vinu na tom, že jeho život je poslední dobou tak neuspokojivý, vyprázdněný, bez směřování. Náhle spatřil cíl své cesty. Nebylo to hlavní nádraží, které svým dopravním ruchem vévodilo konci ulice, bylo to celkové směřování existence, to, k čemu musí dospět. Musí obhájit svou čest. A musí zničit život tomu, kdo jej o vše připravil. Jeden člověk. Karel Karas.
 
-## XXXI.
+XXXI.
 
   
 

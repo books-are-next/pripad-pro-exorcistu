@@ -2,16 +2,16 @@
   "author": "Michal Sýkora",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "sykora-pripad-pro-exorcistu-7171bb4",
+  "identifier": "sykora-pripad-pro-exorcistu-368411f",
   "languagecode": "cs",
   "modified": "2021-03-05T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Případ pro exorcistu",
-  "revision": "7171bb4",
+  "revision": "368411f",
   "generatedAt": {
-    "date": "Mon Apr 04 2022 17:14:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649092449676
+    "date": "Mon Apr 04 2022 17:19:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649092744005
   },
   "documents": [
     {
@@ -90,43 +90,7 @@
           "level": 1,
           "name": "PROLOG",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "I.",
-              "id": "i",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "II.",
-              "id": "ii",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "III.",
-              "id": "iii",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "IV.",
-              "id": "iv",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "V.",
-              "id": "v",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -146,85 +110,7 @@
           "level": 1,
           "name": "DEN PRVNÍ čtvrtek 1. října",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "VI.",
-              "id": "vi",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "VII.",
-              "id": "vii",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "VIII.",
-              "id": "viii",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "IX.",
-              "id": "ix",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "X.",
-              "id": "x",
-              "children": []
-            },
-            {
-              "index": 6,
-              "level": 2,
-              "name": "XI.",
-              "id": "xi",
-              "children": []
-            },
-            {
-              "index": 7,
-              "level": 2,
-              "name": "XII.",
-              "id": "xii",
-              "children": []
-            },
-            {
-              "index": 8,
-              "level": 2,
-              "name": "XIII.",
-              "id": "xiii",
-              "children": []
-            },
-            {
-              "index": 9,
-              "level": 2,
-              "name": "XIV.",
-              "id": "xiv",
-              "children": []
-            },
-            {
-              "index": 10,
-              "level": 2,
-              "name": "XV.",
-              "id": "xv",
-              "children": []
-            },
-            {
-              "index": 11,
-              "level": 2,
-              "name": "XVI.",
-              "id": "xvi",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -244,92 +130,7 @@
           "level": 1,
           "name": "DEN DRUHÝ pátek 2. října",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "XVII.",
-              "id": "xvii",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "XVIII.",
-              "id": "xviii",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "XIX.",
-              "id": "xix",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "XX.",
-              "id": "xx",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "XXI.",
-              "id": "xxi",
-              "children": []
-            },
-            {
-              "index": 6,
-              "level": 2,
-              "name": "XXII.",
-              "id": "xxii",
-              "children": []
-            },
-            {
-              "index": 7,
-              "level": 2,
-              "name": "XXIII.",
-              "id": "xxiii",
-              "children": []
-            },
-            {
-              "index": 8,
-              "level": 2,
-              "name": "XXIV.",
-              "id": "xxiv",
-              "children": []
-            },
-            {
-              "index": 9,
-              "level": 2,
-              "name": "XXV.",
-              "id": "xxv",
-              "children": []
-            },
-            {
-              "index": 10,
-              "level": 2,
-              "name": "XXVI.",
-              "id": "xxvi",
-              "children": []
-            },
-            {
-              "index": 11,
-              "level": 2,
-              "name": "XXVII.",
-              "id": "xxvii",
-              "children": []
-            },
-            {
-              "index": 12,
-              "level": 2,
-              "name": "XXVIII.",
-              "id": "xxviii",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -349,29 +150,7 @@
           "level": 1,
           "name": "DEN TŘETÍ sobota 3. října",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "XXIX.",
-              "id": "xxix",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "XXX.",
-              "id": "xxx",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "XXXI.",
-              "id": "xxxi",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -391,15 +170,7 @@
           "level": 1,
           "name": "DEN ČTVRTÝ neděle 4. října",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "XXXII.",
-              "id": "xxxii",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -419,78 +190,7 @@
           "level": 1,
           "name": "DEN PÁTÝ pondělí 5. října",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "XXXIII.",
-              "id": "xxxiii",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "XXXIV.",
-              "id": "xxxiv",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "XXXV.",
-              "id": "xxxv",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "XXXVI.",
-              "id": "xxxvi",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "XXXVII.",
-              "id": "xxxvii",
-              "children": []
-            },
-            {
-              "index": 6,
-              "level": 2,
-              "name": "XXXVIII.",
-              "id": "xxxviii",
-              "children": []
-            },
-            {
-              "index": 7,
-              "level": 2,
-              "name": "XXXIX.",
-              "id": "xxxix",
-              "children": []
-            },
-            {
-              "index": 8,
-              "level": 2,
-              "name": "XL.",
-              "id": "xl",
-              "children": []
-            },
-            {
-              "index": 9,
-              "level": 2,
-              "name": "XLI.",
-              "id": "xli",
-              "children": []
-            },
-            {
-              "index": 10,
-              "level": 2,
-              "name": "XLII.",
-              "id": "xlii",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -510,29 +210,7 @@
           "level": 1,
           "name": "DEN ŠESTÝ úterý 6. října",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "XLIII.",
-              "id": "xliii",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "XLIV.",
-              "id": "xliv",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "XLV.",
-              "id": "xlv",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -552,57 +230,7 @@
           "level": 1,
           "name": "DEN SEDMÝ středa 7. října",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "XLVI.",
-              "id": "xlvi",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "XLVII.",
-              "id": "xlvii",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "XLVIII.",
-              "id": "xlviii",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "XLIX.",
-              "id": "xlix",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "L.",
-              "id": "l",
-              "children": []
-            },
-            {
-              "index": 6,
-              "level": 2,
-              "name": "LI.",
-              "id": "li",
-              "children": []
-            },
-            {
-              "index": 7,
-              "level": 2,
-              "name": "LII.",
-              "id": "lii",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -622,113 +250,7 @@
           "level": 1,
           "name": "DEN OSMÝ čtvrtek 8. října",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "LIII.",
-              "id": "liii",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "LIV.",
-              "id": "liv",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "LV.",
-              "id": "lv",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "LVI.",
-              "id": "lvi",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "LVII.",
-              "id": "lvii",
-              "children": []
-            },
-            {
-              "index": 6,
-              "level": 2,
-              "name": "LVIII.",
-              "id": "lviii",
-              "children": []
-            },
-            {
-              "index": 7,
-              "level": 2,
-              "name": "LIX.",
-              "id": "lix",
-              "children": []
-            },
-            {
-              "index": 8,
-              "level": 2,
-              "name": "LX.",
-              "id": "lx",
-              "children": []
-            },
-            {
-              "index": 9,
-              "level": 2,
-              "name": "LXI.",
-              "id": "lxi",
-              "children": []
-            },
-            {
-              "index": 10,
-              "level": 2,
-              "name": "LXII.",
-              "id": "lxii",
-              "children": []
-            },
-            {
-              "index": 11,
-              "level": 2,
-              "name": "LXIII.",
-              "id": "lxiii",
-              "children": []
-            },
-            {
-              "index": 12,
-              "level": 2,
-              "name": "LXIV.",
-              "id": "lxiv",
-              "children": []
-            },
-            {
-              "index": 13,
-              "level": 2,
-              "name": "LXV.",
-              "id": "lxv",
-              "children": []
-            },
-            {
-              "index": 14,
-              "level": 2,
-              "name": "LXVI.",
-              "id": "lxvi",
-              "children": []
-            },
-            {
-              "index": 15,
-              "level": 2,
-              "name": "LXVII.",
-              "id": "lxvii",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -748,22 +270,7 @@
           "level": 1,
           "name": "EPILOG 3. listopad – 22. listopad",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "LXIX.",
-              "id": "lxix",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "LXX.",
-              "id": "lxx",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },

@@ -3,7 +3,7 @@ title: DEN ČTVRTÝ neděle 4. října
 contentType: prose
 ---
 
-## XXXII.
+XXXII.
 
   
 

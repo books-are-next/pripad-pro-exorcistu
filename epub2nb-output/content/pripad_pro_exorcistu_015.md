@@ -3,7 +3,7 @@ title: DEN OSMÝ čtvrtek 8. října
 contentType: prose
 ---
 
-## LIII.
+LIII.
 
   
 
@@ -81,7 +81,7 @@ Marie složila hlavu do dlaní.
 
 „Viktore,“ zvedla Marie oči k Vitoušovi, „já se v tom zmatku vůbec neorientuju.“
 
-## LIV.
+LIV.
 
   
 
@@ -217,7 +217,7 @@ Starosta přitakal a všichni nastoupili do vozů. První jel ve služebním au
 
 Přešli cestu k řadovému dvoupatrovému domku s uniformně šedou fasádou. Bydliště domácího násilníka Douly a jeho týrané ženy. Upravená předzahrádka. Trochu oprýskaná barva na vstupních dveřích. Otevřeli branku, prošli předzahrádkou ke dveřím a zazvonili.
 
-## LV.
+LV.
 
   
 
@@ -343,7 +343,7 @@ Kristýna se poškrábala pod ortézou, připadala si v tu chvíli strašně hl
 
 „Ve hře je ještě někdo, na koho jsme zatím nenarazili,“ řekla Marie. „Pavle, jeďte k nádraží, vemte si všechny lidi, co tu teď jsou, a jděte dům od domu, byt po bytě a se všema mluvte. Musíme najít Nemravu a musíme zjistit, na co tam narazil. Berte to tak, že když na to přišel on, musíme na to přijít taky. S Kristýnou půjdem za Pánkem. Ty vraždy spojuje on.“
 
-## LVI.
+LVI.
 
   
 
@@ -371,7 +371,7 @@ Marie mlčky pokývala hlavou.
 
 „Zbytek bude ve zprávě,“ uzavřel doktor Anděl.
 
-## LVII.
+LVII.
 
   
 
@@ -501,7 +501,7 @@ Pánek zakroutil hlavou.
 
 Marie s Kristýnou vyšly na chodbu. Přestávka mezi hodinami skončila a na katedře opět zavládl relativní klid.
 
-## LVIII.
+LVIII.
 
   
 
@@ -511,7 +511,7 @@ Otevření Nemravova služebního vozu nechal Edelweiss na nich. Z Olomouce dor
 
 Edelweiss se posadil do svého auta a nalistoval poslední stránky. Velká Sova měla pravdu – Nemrava skutečně na něco přišel. Začínalo být zřejmé, kam stočit pátrání, když z boční uličky od domků staré dělnické kolonie přiběhl jeden z uniformovaných policistů. „Pane nadporučíku!“ volal. Všichni přítomní – policajti zajišťující místo činu, oba technici i místní čumilové – se po něm otočili, až se běžící policajt zarazil. „Něco tu máme. Jedna paní viděla včera Nemravu a zřejmě i ví, s kým mluvil.“
 
-## LIX.
+LIX.
 
   
 
@@ -565,7 +565,7 @@ Marie s Kristýnou vstaly. Ve dveřích se Marie ještě otočila: „Má vaše
 
 Vyšly na chodbu. Marie se podívala z okna na neútulné nádvoří fakulty. Kristýna napjatě vyčkávala, co bude dál. „Myslím, že to máme,“ řekla Marie Výrová. A právě v tu chvíli jí zazvonil mobil.
 
-## LX.
+LX.
 
   
 
@@ -649,7 +649,7 @@ Hned, co to šéfová zvedla, se neovládl a zajíkavým hlasem oznámil: „M�
 
 Jeho nadšení trvalo jen krátce. „Jo,“ ozvalo se na druhé straně, „my už to máme taky. Právě se chystáme na zatčení Pánka.“
 
-## LXI.
+LXI.
 
   
 
@@ -729,7 +729,7 @@ Pánek zacloumal s rukama za zády. „Vy mě povedete přes celou budovu?“ v
 
 „Bylo nutné zavraždit čtyři lidi?“ řekla Marie a vystrčila ho ze dveří na chodbu.
 
-## LXII.
+LXII.
 
   
 
@@ -781,7 +781,7 @@ Marie ironicky pozvedla obočí: „Genderová diskriminace?“
 
 Vitouš a čtyři další policisté vystoupili z vozů. Dva zůstali venku, Vitouš se zbylými dvěma vešel dovnitř. Za tři minuty odváželi Václava Kulicha na služebnu. Štěpánovský zámečník byl tak překvapený, že než se stačil vzpamatovat, měl na rukou želízka.
 
-## LXIII.
+LXIII.
 
   
 
@@ -833,7 +833,7 @@ Kubík byl natolik v šoku, že zřejmě ani neregistroval bolest; z rány mu 
 
 „Omdlel,“ řekl Pánek a nad loket mu uvázal škrtidlo.
 
-## LXIV.
+LXIV.
 
 _Záznam výslechu Jana Pánka._
 
@@ -1047,7 +1047,7 @@ Edelweiss vstal a šel ke dveřím. „Jo a mimochodem – kde je Josef Nemra
 
 Pavel Edelweiss vyšel ze dveří a na chodbě se opřel o stěnu, aby vydechl. Adrenalin mu zvýšil tepovou frekvenci, srdce mu bušilo tak, že musel zhluboka dýchat, aby nabral dech. První velký samostatný výslech! A nezvoral to. Nezvoral to!
 
-## LXV.
+LXV.
 
   
 
@@ -1071,7 +1071,7 @@ Ne, už jim nemá dál co říct. Tím skončil.
 
 Viktor Vitouš vyšel z výslechové místnosti. Kulicha jeho úsmě­šek nepřešel. Vitouše ovšem také ne a přikázal dát toho debila pod zámek.
 
-## LXVI.
+LXVI.
 
   
 
@@ -1123,7 +1123,7 @@ Jan Pánek povolil igelit a přiložil Zdeně Králové dva prsty na krční te
 
 Edelweiss netrpělivě čekal, až se jeho šéfová dá do výslechu. Marie pokývala hlavou. „No, se Štěpánovou zatím počkám. Vyrukuju na ni s Královou, z toho se nebude moct vykroutit.“
 
-## LXVII.
+LXVII.
 
   
 

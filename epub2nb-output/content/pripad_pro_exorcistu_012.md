@@ -3,7 +3,7 @@ title: DEN PÁTÝ pondělí 5. října
 contentType: prose
 ---
 
-## XXXIII.
+XXXIII.
 
   
 
@@ -135,7 +135,7 @@ Sekretářka vyzvala Marii, ať se posadí – křesla v sekretariátě vypada
 
 Vtom se otevřely dveře a sekretářka uvedla dr. Pánka. Nic se nevyjasnilo. Odpovědi na otázky se zase tryskem vzdalovaly. Tohoto člověka Marie ještě nikdy neviděla. Ve Štěpánově před farou mluvila s někým jiným.
 
-## XXXIV.
+XXXIV.
 
   
 
@@ -369,7 +369,7 @@ Pánkovi to chvíli šrotovalo v hlavě. Díval se Marii přímo do očí, ale 
 
 Marie se rozloučila a odešla.
 
-## XXXV.
+XXXV.
 
   
 
@@ -557,7 +557,7 @@ Pánek zakroutil hlavou. „Jak říkám. Až doteď jsem o existenci někoho t
 
 „Co jste dělal v noci ze středy na čtvrtek minulého týdne?“
 
-## XXXVI.
+XXXVI.
 
   
 
@@ -657,7 +657,7 @@ Marie jen pokrčila rameny.
 
 „Asi jsme to vzali ze špatnýho konce,“ odpověděla Marie. „Únos, vražda, vloupání do kostela, přepadení Pacáka na faře, kde se ale zřejmě nic neztratilo… Zdá se mi, že vůbec nic nedává smysl.“
 
-## XXXVII.
+XXXVII.
 
   
 
@@ -743,7 +743,7 @@ Edelweiss vzdychl. „Víte, já dnes – slíbil jsem manželce, že…“
 
 „Já bych vás tam klidně odvezla,“ chopila se Kristýna dychtivě příležitosti. „Teda, jestli to nevadí…“ Otočila se na Pavla Edelweisse. Tomu to rozhodně nevadilo.
 
-## XXXVIII.
+XXXVIII.
 
   
 
@@ -805,7 +805,7 @@ Když venku nasedali do vozu, Kodet rezignovaně vzdychl: „A takováhle kreat
 
 Kodet cosi zabručel a nastartoval auto.
 
-## XXXIX.
+XXXIX.
 
   
 
@@ -891,7 +891,7 @@ Marie se usmála. „Jo, říkalas mi _tetóó._“
 
 „Moc děkuju, _tetóó_.“
 
-## XL.
+XL.
 
   
 
@@ -1003,7 +1003,7 @@ Vstupní hala vpravo pokračovala dlouhou chodbou, po jejíž levé straně byly
 
 V obývacím pokoji seděl v gigantickém křesle patriarcha rodiny, starý sedlák Josef Karas. Člověk přísných rysů s hustými bílými vlasy zřejmě jako jediný v domě nebyl na návštěvu _zvědavý_. „Esenbáci v domě, to není dobrý,“ zahuhlal, když vnuk hosty představil. Jeho syn, Václav Karas, urostlý, energický šedesátník a správce celého hospodářství, se oběma policistkám omluvil – otci v padesátých letech sebrali hospodářství a coby kulaka ho na deset let poslali do jáchymovských dolů. Farářova matka Božena si zřejmě v tomhle mužském království uvykla do ničeho nemluvit, a tak jen seděla v křesle po boku svého muže a sledovala hovor. Veškerá její účast v debatě se omezovala na to, že návštěvnice stále pobízela, aby nezapomínaly na bohaté občerstvení.
 
-## XLI.
+XLI.
 
   
 
@@ -1013,7 +1013,7 @@ A pak zahlédla pohyb. Nasála vzduch, šedivý čenich se jí chvěl. Přikrč
 
 Vetřelec se k ní blížil. Zastavila se a dvě vteřiny ho pozorovala. On o ní nevěděl, ale zřejmě tušil, že by tu někdo jako ona mohl být. Byl připravený – a na jeho připravenost nebyla připravená Stará Barča. Vetřelec ji uviděl asi pět metrů přímo před sebou. Bára se vzpřímila, naježila a otevřela obrovskou tlamu a vycenila žluté zuby. Vetřelec se nelekl. Zvedl proti ní pravou ruku, a než se Bára stačila hnout, ozvala se rána. Kdyby nebyla okamžitě mrtvá – rychle, na místě, než si stačila cokoliv uvědomit, kromě vteřinové bolesti, než jí kulka proletěla mozkem a vzadu zátylkem ven –, ošklivě a bolestivě by se uhodila o kmen stromu, na který ji výstřel odhodil.
 
-## XLII.
+XLII.
 
   
 

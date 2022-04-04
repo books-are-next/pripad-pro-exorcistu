@@ -3,7 +3,7 @@ title: DEN SEDMÝ středa 7. října
 contentType: prose
 ---
 
-## XLVI.
+XLVI.
 
   
 
@@ -39,7 +39,7 @@ V místnosti to zašumělo. Všichni si její slova správně interpretovali ja
 
 „Cha!“ vyštěkla Marie vítězoslavně.
 
-## XLVII.
+XLVII.
 
   
 
@@ -269,7 +269,7 @@ O hodinu a půl později z okna své kanceláře Marie spolu s Edel­weissem
 
 Pohled na líbající se a objímající dvojici na zastávce v člověku v autě vyvolal mocné podráždění, zášť, odpor a nenávist. Dvojice nastoupila do tramvaje a vyjela směrem k nádraží. Osoba v autě nastartovala, a jakmile se na semaforu rozsvítila zelená, vyrazila za tramvají. Byla natolik pohotová, že dokonce i neoznačený policejní vůz s dvojicí Pacák a Purkyně nechala dvě auta za sebou.
 
-## XLVIII.
+XLVIII.
 
   
 
@@ -355,7 +355,7 @@ Edelweisse ta slova potěšila.
 
 „S tím nepočítejte,“ na to Marie zlověstně. „V pět ať jste u mě.“
 
-## XLIX.
+XLIX.
 
   
 
@@ -443,7 +443,7 @@ Kristýna moc nechápala, Edelweiss se rozesmál.
 
 „To je _taky_ dobře položená otázka. Přemýšlejte o tom a zítra se do toho pustíme zase od začátku.“
 
-## L.
+L.
 
   
 
@@ -471,7 +471,7 @@ Za půl hodiny to v manželské posteli, která také patřila Pánkově ženě
 
 „Počkej trochu,“ řekl Pánek, „kam spěchat? Máme pro sebe celou noc.“
 
-## LI.
+LI.
 
   
 
@@ -521,7 +521,7 @@ Purkyně jen zamručel.
 
 Jiří Pánek zašel do domu. Dneska to teda nebyl úspěšný den. Spíš právě naopak. Lomcoval s ním vztek. Nebyl zvyklý, aby s ním ženské takhle vyjebávaly. A už vůbec ne hned dvě po sobě během pár hodin. Byl ponížený, zahanbený, vzteklý. „Ta čubka, ta mizerná laciná nadržená čubka!“ zařval na celý dům. To ponížení! A navíc si ta kráva myslí, že je to jeho vina, že se mu nepostavil, jenže kdyby ona byla co k čemu, tak… A pak si vzpomněl na Annu. Co když to myslela vážně? Ona to asi doopravdy myslela vážně. Jestli ho vyhodí, skončí na dlažbě. A pak jej napadla ještě jedna věc. Nějak si to neuvědomil, napadlo ho to až teď, ale co když – co když Anna někoho má? Přemýšlel, kdy se s ní naposledy miloval. Je to měsíc? Možná i víc. To ona neměla zájem, to věděl jistě. Najednou neměla zájem o sex, a přitom to vždy měla ráda. Má někoho? Při té představě se jej zmocnila žárlivost. Náhle vše dávalo smysl – Annino chování a snadnost, s jakou na něm přestala být závislá a vůči němu podřízená… Vrátil se nahoru do ložnice, svlékl župan a lehl si do postele. Všude cítil Zdenin typický nasládlý parfém. Jiří Pánek v tu chvíli začal litovat zmařené příležitosti. Všech budoucích příležitostí, které mohla dnešní hádka zmařit. Spěšně na sebe navlékl triko, džíny, svetr a bundu a bez ponožek vklouzl do bot. Dole hrábl po klíčích od auta, ale pak mu došlo, že v labyrintu sídlištních uliček se bude lépe pohybovat pěšky. Aby zkrátil Zdenin náskok, použil svou oblíbenou zkratku: proběhl přes obývák dozadu na terasu a na miniaturní zahrádku a zadní brankou se dostal mezi paneláky. Rozmoklý bahnitý trávník mu při běhu čvach­tal pod nohama. Purkyně s Pacákem tmu v domě vyhodnotili tak, že se hlavní podezřelý Velké Sovy uložil ke spánku.
 
-## LII.
+LII.
 
   
 
