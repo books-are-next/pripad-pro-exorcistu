@@ -1,11 +1,9 @@
 ---
+title: DEN TŘETÍ sobota 3. října
 contentType: prose
 ---
 
-DEN TŘETÍ  
-sobota 3. října
-
-XXIX.
+## XXIX.
 
   
 
@@ -16,6 +14,8 @@ XXIX.
 „Do prdele s tím tvým filmem a do prdele se Satanem!“ ulevila si Kristýna.
 
 Marie Výrová dorazila po deváté. Už to vypadalo, že budou celé dopoledne prodiskutovávat různé aspekty případu, když v deset hodin zavolala služba na vrátnici, že se dostavil nějaký člověk, aby poskytl informace k vraždě v kostele ve Štěpánově.
+
+  
 
 Uniformovaný policista uvedl do výslechové místnosti vysokého hubeného muže s delšími šedými vlasy, neurčitelného věku. První, co Marii napadlo, bylo, že rčení _šaty dělaj člověka_ není pravdivé. Muž měl na sobě dvouřadý šedý oblek s proužkem, který mu zoufale neseděl, ne snad proto, že by měl špatnou velikost, ale protože jeho vlastník na první pohled neuměl obleky nosit. Když bezdomovce vypulírujete, napadlo Marii, a navlečete jej do obleku od Bosse nebo Armaniho, stejně každý pozná, že jde o bezdomovce. Oblek, který měl muž na sobě, byl beznadějně konfekční a svým střihem zapomenutý někde v éře podnikatelských sak začátku 90. let. Muž se v něm pohyboval tak toporně, že bylo okamžitě zřejmé, že obleky nejsou jeho styl. Bílá košile měla límeček sepraný do žluta, uzel na kravatě se širokými pruhy ve třech odstínech šedi, jaké se nosily v osmdesátých letech, vypadal, jako by jej uvázali před půlstoletím a od té doby si kravatu její majitelé pouze přetahovali přes hlavu. Věk příchozího šlo určit jen obtížně; působil sešle, neupraveně, a to i tehdy, když – jako nyní – měl kůži na obličeji zmodralou od čerstvého oholení, jež se však neobešlo bez několika škrábanců na téměř stařecky volné kůži na tenkém krku.
 
@@ -125,7 +125,7 @@ Uniformovaný policista vyprovodil Richarda Fořta ven. Ve výslechové místnos
 
 „Tak běžte. Šup šup!“ vstala Marie od stolu. „Já jdu uvařit kafe.“
 
-XXX.
+## XXX.
 
   
 
@@ -137,7 +137,7 @@ Tak Fořt přitvrdil – očekával okamžitou, bezprostřední, bleskovou reak
 
 Poslední dobou se mu nic nedaří. Každou chvíli jeho plány něco zhatilo a na Richarda Fořta doléhala čím dál větší frustrace. Zmařené plány, neuskutečněné záměry, nápady, které nelze dotáhnout do konce. Které nešly dotáhnout do konce. Kterým bylo zabráněno, aby je převedl v činy. Ale on přesně ví, kdy to začalo a kdo za tím vším stojí. Na frustraci a zklamání nejlépe zabírá řádný rozhodný čin. Jak tak Richard Fořt kráčel rušnou širokou třídou směřující od centra města k hlavnímu nádraží, musel uznat, že v poslední době moc těch zásadních činů nejen neuskutečňoval, ale ani nepřipravoval. Ale tohle všechno teď skončí. Dobře věděl, kdo za všechna ta zklamání, neúspěchy a frustrace může, kdo má hlavní vinu na tom, že jeho život je poslední dobou tak neuspokojivý, vyprázdněný, bez směřování. Náhle spatřil cíl své cesty. Nebylo to hlavní nádraží, které svým dopravním ruchem vévodilo konci ulice, bylo to celkové směřování existence, to, k čemu musí dospět. Musí obhájit svou čest. A musí zničit život tomu, kdo jej o vše připravil. Jeden člověk. Karel Karas.
 
-XXXI.
+## XXXI.
 
   
 
@@ -146,6 +146,8 @@ Přesně o půl desáté večer Kristýna Horová v kanceláři vytiskla posle
 Ve stejnou chvíli se Eva Edelweissová uvelebila svému manželovi v klíně, zavrtěla se a pohybem přítulného psa se mu tvářemi začala otírat o krk a lícní a klíční kost. Zrovna vylezla z vany, měla velmi dobrou náladu a byla pevně rozhodnutá, že dnes večer se její manžel na televizi rozhodně dívat nebude, i když on své plány u večeře formuloval jasně a srozumitelně – ten americký thriller z armádního prostředí prostě chce vidět. Pavel Edelweiss vzdychl – znal tohle manželčino lísání; byla voňavá, vymydlená, svěže chladivá po vlažné sprše a taky zcela nahá a jako každý manžel v sobotu večer, když už děti spí, věděl, že si prostě filmeček v televizi neobhájí, a může stokrát zdůrazňovat, že byl celý den v práci a je unavený. Chvíli se jen tak líbali (přičemž stále jedním okem sledoval zápletku filmu), ale příroda byla mocnější – jakmile manželka zaregistrovala, že její přítulnost i nahota u muže vyvolaly náležitou reakci, vyskočila, stáhla z něj veškeré oblečení a se slastným vzdychnutím se mu do klína znovu usadila. Teď už film sledovat nešlo. Ale zrovna ve chvíli, kdy toho přestal litovat, periferním pohledem zachytil nějaký pohyb ve dveřích obýváku: v bleděmodrém pyžamku, celý rozchuchaný na ně mezi dveřmi mžoural sedmiletý Tomáš. „Mamííí,“ zamručel, „já nemůžu spát, Kačka pořád kňourá a brečí.“ O tři roky mladší sestřička se objevila za jeho zády jako jeho drobnější kopie. „Mamííí,“ zakňourala, jako by imitovala bratříčka. „Já nemůžu spát. Bolí mě bříško.“ Eva Edelweissová vzdychla, v gestu tiché rezignace složila manželovi hlavu na rameno, pak vstala, ze země spěšně sebrala mužovo triko a oblékla si je. „Zůstaň, jak jsi,“ přikázala, „já se vrátím.“
 
 To Marii Výrovou při sledování stejného filmu nic nerušilo. Na­táhla se na gauči v pevném rozhodnutí nemyslet na případ, což se jí celkem dařilo. Nicméně ani ona se nedozvěděla, jak film skončil, a vlastně z něj viděla ještě méně než její kolega – než film přerušil první reklamní blok, Marie tvrdě a nerušeně spala.
+
+  
 
 Ve svém voze zaparkovaném na příjezdové cestě ke hřbitovu a kostelu svatého Vavřince ve Štěpánově podřimoval, byť ne tvrdě a nerušeně, i strážmistr Pacák. Místo činu bylo stále ještě zajištěné, ale on ani nečekal, že by se je kdokoliv pokusil narušit. Seděl v autě sám, poslouchal v rádiu zaručené české hity z jakési rozhlasové stanice, sem tam se zasmál žoviálním řečem rozhlasového moderátora, ale po půlnoci se z vesnice vytratily veškeré známky života, hospoda opodál zavřela a naprosté ticho rušilo jen příležitostné zaštěkání psa v dálce, šumění větru v korunách kratičké lipové aleje, pod níž Pacák zaparkoval služební vůz, a bzučení jedné z pouličních lamp. Ve tři čtvrtě na dvě jej z polospánku cosi vytrhlo. Zamžikal očima a zpozorněl. Rozhlédl se, ale všechno se zdálo, jak má být. Prázdná ulice, natažená policejní páska kolem hřbitovní brány, setmělá fara. Vystoupil z auta a protáhl se. Včerejší večeře už prošla zažívacím traktem a on přemýšlel, kde by si ulevil. Bokem u hřbitovní zdi vedle kontejnerů na odpad stála obecní TOI budka, zřejmě aby návštěvníci hřbitova nemočili na kostel. Už v ní dnes jednou byl a vzhledem k tomu, že někdo z jeho předchůdců neměl zcela zvládnuté hygienické návyky, nechtělo se mu se do budky vracet, nemluvě o skutečnosti, že správa obce rezignovala na snahu nechávat třikrát denně doplňovat toaletní papír, který si místní důchodkyně setrvale odnášely pro soukromou potřebu navzdory důrazné výzvě, aby tak nečinily, podepsané samým starostou. Vzpomněl si, že Velká Sova dala hlídkám za úkol dohlédnout i na spěšně opuštěnou faru, k čemuž dal sám pan farář k dispozici klíče. Rozhodl se ihned – konečně nejde tam krást a i policajti mají právo na důstojné vyměšování. Z přihrádky vzal klíče, zamkl policejní auto a přeběhl silnici. Velký klíč na dřevěná vrata, tenhle menší bude od fabky vchodových dveří.
 

@@ -1,11 +1,9 @@
 ---
+title: DEN PÁTÝ pondělí 5. října
 contentType: prose
 ---
 
-DEN PÁTÝ  
-pondělí 5. října
-
-XXXIII.
+## XXXIII.
 
   
 
@@ -137,7 +135,7 @@ Sekretářka vyzvala Marii, ať se posadí – křesla v sekretariátě vypada
 
 Vtom se otevřely dveře a sekretářka uvedla dr. Pánka. Nic se nevyjasnilo. Odpovědi na otázky se zase tryskem vzdalovaly. Tohoto člověka Marie ještě nikdy neviděla. Ve Štěpánově před farou mluvila s někým jiným.
 
-XXXIV.
+## XXXIV.
 
   
 
@@ -371,7 +369,7 @@ Pánkovi to chvíli šrotovalo v hlavě. Díval se Marii přímo do očí, ale 
 
 Marie se rozloučila a odešla.
 
-XXXV.
+## XXXV.
 
   
 
@@ -517,6 +515,8 @@ Stanc se zasmál. „Tady nic neudržíte v tajnosti. Řekl bych, že jediný �
 
 „No právě proto. Že byla chytrá a bystrá.“
 
+  
+
 Jan Pánek se bratrovi příliš nepodobal. Rozhodně byl o pár let mladší, Marie mu hádala něco přes třicet, a svého staršího sourozence připomínal snad jen nízkým čelem, očima a vysoko posazeným kořenem nosu. Bradou, rty a barvou vlasů to už byl jiný člověk. Na první pohled působil jako klukovský blonďák s veselýma očima. Sympaťák, který si dokáže získat lidi. Tedy až na Marii Výrovou.
 
 Vešla do jeho studené kanceláře v sekci správy počítačové sítě. Pánek seděl za počítačem a cosi odklikával myší. Jakmile Marii uviděl, lekl se a prudce vstal.
@@ -557,7 +557,7 @@ Pánek zakroutil hlavou. „Jak říkám. Až doteď jsem o existenci někoho t
 
 „Co jste dělal v noci ze středy na čtvrtek minulého týdne?“
 
-XXXVI.
+## XXXVI.
 
   
 
@@ -657,7 +657,7 @@ Marie jen pokrčila rameny.
 
 „Asi jsme to vzali ze špatnýho konce,“ odpověděla Marie. „Únos, vražda, vloupání do kostela, přepadení Pacáka na faře, kde se ale zřejmě nic neztratilo… Zdá se mi, že vůbec nic nedává smysl.“
 
-XXXVII.
+## XXXVII.
 
   
 
@@ -666,6 +666,8 @@ Marie ve své kanceláři zvolna propadala depresi. „Je v tom zmatek,“ ukon
 Za oknem se honily říjnové mraky, střídavě stínily slunce a prudké poryvy větru zvedaly čerstvě spadané listí až do výše prvního patra. Přemýšlela, jestli by něčemu pomohlo, kdyby dopoledne víc dotírala na bratry Pánkovy… Asi ne. Pokud v tom skutečně mají prsty, musí nejprve sehnat co nejvíc informací. Odkrýt karty už nyní by vedlo k blamáži. Nepochybovala o tom, že Nejvyšší by se do toho se svou buldozéří jemností rád pustil a podrobil by oba bratry inkvizičnímu výslechu. Marie však o vhodnosti takového postupu silně pochybovala.
 
 Ráno se vydala na univerzitu s přesvědčením, že by se jí dnes mohlo podařit vše rozlousknout. Jenže místo jednoho Pánka se na scéně objevili hned dva, takže počet podezřelých se radostně rozrůstá. Aspoň zvládli identifikovat Veroničina tajného milence.
+
+  
 
 To pondělí Karel Karas definitivně přestal být knězem. Sice nikoliv úředně, formální jednání stále ještě probíhala, ale uvnitř sebe sama, svým rozhodnutím. V neděli odpoledne spolu se svým otcem sbalil na štěpánovské faře všechny věci, knihy, papíry, šaty, stará (a už vlastně zcela nepotřebná) kázání, pak to všechno naskládali do dodávky Karase staršího a odvezli do asi třicet kilometrů vzdálené vesničky nedaleko Litovle, kde Karas starší spolu s Karasem nejstarším vedli statek. Kuchyňské vybavení bylo dílem součástí fary, dílem Karasovo, ale bývalý kněz se rozhodl to málo, co s sebou před léty přivezl, nechat svému nástupci. Rozloučil se se starou paní Skácelovou a jako poděkování za její hospodaření na faře jí dal v kůži vázaný dárkový kancionál, který koupil v pátek v Olomouci v obchodě s církevními potřebami nedaleko chrámu svatého Mořice.
 
@@ -678,6 +680,8 @@ Skoro dvouhodinová chůze lesem ji nakonec zmohla, takže se po návratu odbelh
 Sešel ze svého pokoje dolů do přízemí zeptat se otce, jestli si nepamatuje, že by něco ve Štěpánově zůstalo. Václav Karas o ničem nevěděl. Společně prohledali vůz. Auto bylo prázdné, nic nezůstalo. Zavolal do Štěpánova paní Skácelové a požádal ji, aby zašla na faru. Za půl hodiny volala zpět, že je vše odstěhováno.
 
 Okamžitě mu došlo, co se stalo. Ve svém pokoji našel diář a v něm přímé číslo na Marii Výrovou. Karel Karas vytáhl z kapsy mobil, ještě malou chvíli přemýšlel, jako by si v hlavě formuloval věty, a pak číslo vyťukal na klávesnici.
+
+  
 
 O půl třetí na dveře kanceláře Marie Výrové společně zaklepali Pavel Edelweiss a Kristýna Horová s hlášením, jak splnili zadané úkoly.
 
@@ -739,7 +743,7 @@ Edelweiss vzdychl. „Víte, já dnes – slíbil jsem manželce, že…“
 
 „Já bych vás tam klidně odvezla,“ chopila se Kristýna dychtivě příležitosti. „Teda, jestli to nevadí…“ Otočila se na Pavla Edelweisse. Tomu to rozhodně nevadilo.
 
-XXXVIII.
+## XXXVIII.
 
   
 
@@ -801,7 +805,7 @@ Když venku nasedali do vozu, Kodet rezignovaně vzdychl: „A takováhle kreat
 
 Kodet cosi zabručel a nastartoval auto.
 
-XXXIX.
+## XXXIX.
 
   
 
@@ -887,7 +891,7 @@ Marie se usmála. „Jo, říkalas mi _tetóó._“
 
 „Moc děkuju, _tetóó_.“
 
-XL.
+## XL.
 
   
 
@@ -999,7 +1003,7 @@ Vstupní hala vpravo pokračovala dlouhou chodbou, po jejíž levé straně byly
 
 V obývacím pokoji seděl v gigantickém křesle patriarcha rodiny, starý sedlák Josef Karas. Člověk přísných rysů s hustými bílými vlasy zřejmě jako jediný v domě nebyl na návštěvu _zvědavý_. „Esenbáci v domě, to není dobrý,“ zahuhlal, když vnuk hosty představil. Jeho syn, Václav Karas, urostlý, energický šedesátník a správce celého hospodářství, se oběma policistkám omluvil – otci v padesátých letech sebrali hospodářství a coby kulaka ho na deset let poslali do jáchymovských dolů. Farářova matka Božena si zřejmě v tomhle mužském království uvykla do ničeho nemluvit, a tak jen seděla v křesle po boku svého muže a sledovala hovor. Veškerá její účast v debatě se omezovala na to, že návštěvnice stále pobízela, aby nezapomínaly na bohaté občerstvení.
 
-XLI.
+## XLI.
 
   
 
@@ -1009,7 +1013,7 @@ A pak zahlédla pohyb. Nasála vzduch, šedivý čenich se jí chvěl. Přikrč
 
 Vetřelec se k ní blížil. Zastavila se a dvě vteřiny ho pozorovala. On o ní nevěděl, ale zřejmě tušil, že by tu někdo jako ona mohl být. Byl připravený – a na jeho připravenost nebyla připravená Stará Barča. Vetřelec ji uviděl asi pět metrů přímo před sebou. Bára se vzpřímila, naježila a otevřela obrovskou tlamu a vycenila žluté zuby. Vetřelec se nelekl. Zvedl proti ní pravou ruku, a než se Bára stačila hnout, ozvala se rána. Kdyby nebyla okamžitě mrtvá – rychle, na místě, než si stačila cokoliv uvědomit, kromě vteřinové bolesti, než jí kulka proletěla mozkem a vzadu zátylkem ven –, ošklivě a bolestivě by se uhodila o kmen stromu, na který ji výstřel odhodil.
 
-XLII.
+## XLII.
 
   
 
@@ -1047,7 +1051,11 @@ Kristýna stála vedle Marie ohromená hloubkou strachu starého muže z možno
 
 „Jdu s vámi,“ pověděla Marie tak důrazně, aby bylo jasné, že námitky nemají smysl. Pak se obrátila na ostatní. „Běžte, prosím, nahoru. Všichni. A nerozsvěcejte. Kristýno, ty zůstaň dole, kdyby se někdo chtěl dostat dovnitř.“
 
+  
+
 Ve chvíli, kdy obyvatelé domu plnili pokyny Marie Výrové, se vetřelec v černé šusťákové bundě a tmavých kalhotách ostražitě blížil k domu a pozoroval, jak v něm postupně zhasínají světla. Bylo mu jasné, že teď už o něm vědí, ale jeho umanutost jej nutila jít dál, splnit úkol, který si uložil.
+
+  
 
 Z odvrácené strany domu vyšli na prostorný dvůr Marie Výrová a Václav Karas. Marie si za pasem rozepla pouzdro se zbraní, a zatímco farářův otec rázně kráčel ke stodole, ona se ostražitě rozhlížela tmou.
 
@@ -1067,11 +1075,19 @@ Marie důkladně pohledem propátrávala hospodářská stavení na prostorném 
 
 „Doufám, že je to legální,“ usmál se na Marii nervózně.
 
+  
+
 Muž záhy poznal, že se mu ostražitost vyplatila. Ve světle měsíce zřetelně zahlédl dvě postavy, jak vyšly zpoza domu a mířily pěšinou do zahrady. Neviděl, kdo to je, jen siluety, ale viděl, že muž nese v pravici násadu od krumpáče nebo něco takového, a podle postavy a chůze poznal, že ani jeden z nich není ten, koho hledá. Stál ještě ve stínu stromů, tak se sehnul a vklouzl za starou zahradní lavičku, stojící ve stínu první jabloně v sadu, obrácenou do zahrady a k domu. Po levici měl zahradní altán, a tak se k němu po čtyřech vydal. Z úkrytu za altánem pozoroval, jak se k němu přes zahradu blíží ony dvě postavy.
+
+  
 
 Kristýna Horová osaměla ve velkém pokoji domu Karasových. Rodina se přes schodiště v kuchyni šla ukrýt do patra a ona teď stála ve velkém pokoji, nevědouc, co dělat. Vyhlédla oknem do zahrady, ale viděla jen trávník, černé zryté obdélníky záhonů a za zahradou temnou bariéru sadu. Vytáhla z pouzdra služební zbraň a překontrolovala, je-li vše, jak má být. A v tu chvíli na ni dolehly stres a úzkost. Vyhlédla z pokoje na chodbu. V kuchyni se svítilo a světlo ozařovalo celou dlouhou chodbu až do rozsáhlé předsíně u vchodových dveří, kde v hustém šeru rozeznávala hlavní schodiště do patra a nad ním ochoz nad chodbou, odkud se vcházelo do horních pokojů. Přímo proti ní se vcházelo do koupelny a prádelny. Zoufalost situace jí vehnala slzy do očí. Stres a strach, stres, strach a úzkost. Každý na ně reaguje různě, Kristýna Horová na ně reagovala pokaždé stejně. Musela jít čurat. Strašně moc. Nešlo to zadržet. Čurat a brečet. Ruce se jí třásly, nešlo to ovládnout. Věděla, že jestli se Velká Sova vrátí a najde ji na záchodě, bude si myslet, že se tam šla schovat, nebo že se strachy… Bude si o ní myslet to nejhorší a šance, kterou dostala, se už nikdy znovu nevrátí. Jenže pokud nepůjde na záchod, tak se skutečně počurá. Strachy. Nešlo to jinak – přeběhla chodbu a vklouzla do koupelny. Nerozsvěcela. Světlo dovnitř vnikalo dvěma úzkými okny pod stropem a na šachovnicové vykachlíkované podlaze ozařovalo dva protáhlé obdélníky. Rozhlédla se – a když uviděla záchod, rozběhla se k němu křížem přes místnost, rozepínajíc si kalhoty za pohybu. Sedla a… Bože, ta úleva!
 
+  
+
 Vetřelec pozoroval, jak Marie s Václavem Karasem jdou křížem přes zahradu směrem k sadu. V měsíčním světle je oba poznal. Hlavně ji. Věděl, že tu vyvstala nevítaná komplikace, ale když už se dostal takhle daleko, necouvne. Za žádnou cenu. Zítra si můžou pořídit nového psa, pět psů, zítra tu už určitě bude hlídat banda policajtů – ne, když už je zde, dokončí to.
+
+  
 
 Václav Karas slabě hvízdl. „Báro!“ zavolal tiše.
 
@@ -1091,9 +1107,13 @@ I když měsíc teď svítil jasně, jít mezi stromy se jim nechtělo, protož
 
 „Dobře. Půjdem tam. Oči na šťopkách.“
 
+  
+
 Muž za altánem je sledoval, jak vešli do sadu, a pak se přikrčeně rozběhl k domu. Dvacet třicet rychlých kroků a byl v jeho stínu. Teď už ho vidět nemohli. Byl rád, že počáteční zaváhání překonal, teď už ho nezastaví. Proběhl podél boční zdi domu, skrčil se pod párem osvícených kuchyňských oken a nakoukl za roh. Dvůr byl pustý a prázdný. Drže se stále skrčený při zdi domu, doběhl ke vchodovým dveřím. Z kapsy bundy vytáhl pistoli a levačkou zkusil kliku. Dveře povolily. Zatlačil a dveře se se slabým vrznutím otevřely.
 
 Marie Výrová a Václav Karas se v tu chvíli sadem vzdalovali od domu vstříc zahradní brance na jeho vzdáleném konci.
+
+  
 
 Úleva. Kristýna seděla na záchodě a přepadla ji malátná úleva. Jako by najednou situace zdaleka nebyla tak bezvýchodná. Vstala, utřela se a zrovna se natahovala dolů pro kalhotky, když v tichu zřetelně a jasně uslyšela zavrzat dveře. Nevěděla, které dveře v domě vržou. Bleskem jí hlavou prolétla její cesta na záchod – dveře od pokoje ani od koupelny nevrzaly. Ať to byly kterékoliv, ona sedí na hajzlu, místo aby plnila, co má dělat a co jí uložila Velká Sova.
 
@@ -1101,13 +1121,19 @@ Byla to nesmyslná místnost a strašně pitomá situace. Když ji tady najdou,
 
 A pak je tu ještě ta možnost, že to není nikdo z domu, ani Velká Sova s farářovým otcem, ale že… Znovu ten hrozný strach. Úleva byla náhle ta tam a Kristýna by si znovu nejraději sedla na záchod. Natáhla si džíny, zapnula knoflík i zip, pak opasek. Upravila si svetr. Položila ruku na pouzdro se zbraní a otevřela dveře. Vykoukla na chodbu. Byla prázdná. Skousla spodní ret a přeběhla naproti do pokoje. Ještě že nechala dveře otevřené.
 
+  
+
 Vetřelec vstoupil do domu. Každému jinému by možná došla bezvýchodnost situace, ale on byl v podivném rozpoložení, rozhodnutý splnit úkol, který si předsevzal v podstatě za každou cenu, bez ohledu na cokoliv, bez úvahy o možných důsledcích. Stál v předsíni u schodiště do patra s pistolí v ruce, připravený provést s každým to, co v sadu s čoklem.
+
+  
 
 Kristýna se v pokoji zastavila, aby popadla dech a uklidnila se. Nejsnazší bude dostat se ke vchodovým dveřím, aby vše překontrolovala. Ale současně věděla, že kdyby šla chodbou, byla by snadným terčem útoku a zároveň by neměla krytá záda, protože ještě mohl vetřelec projít pokoji. Rozhodla se, že pokoji projde ona. Opatrně zavřela dveře a přitom zjistila, že mají v zámku klíč. Výborný nápad. Zamkla dveře. Tím bude mít krytá záda. Pak se rozhodla zout si boty, aby ji neprozradilo klapání tvrdých podrážek o ta místa podlahy, kde dřevěné fošny nepokrýval koberec.
 
 Jen v ponožkách prošla Kristýna spojovacími dveřmi z pokoje do pracovny, zamkla je a pak dalšími spojovacími dveřmi do dalšího pokoje, a ty taky zamkla. Adrenalin jí lomcoval tělem, služební zbraň svírala v ruce a našlapovala tiše, jako by snad ani sama nic nevážila. Snad jen její prudký, vzrušený dech ji musel prozrazovat. V každém pokoji si oknem překontrolovala situaci venku – v matném měsíčním světle viděla nejasnou dvojici v dálce v modré tmě sadu. Bylo jasné, že vrznutí dveří musel způsobit někdo jiný. Jak moc si v tu chvíli přála, aby tady nebyla sama! Jak moc si přála někoho, kdo by jí poradil, kdo by z ní sňal to břímě policistky ve službě, která musí se zbraní v ruce tak beznadějně sama, bosa, a navíc zase s nutkáním čurat, komusi tam venku zabránit, aby udělal, co udělat nemá. Byla jen obyčejná vystrašená holka, která se poprvé ocitla v situaci, pro jejíž zvládnutí ji sice školili, ale teď jí to všechno bylo k ničemu, protože jí v tuhle hroznou chvíli dělal společníka jen její hrozný, stěží zvladatelný strach. Byla to vlastně jen šťastná náhoda, že zatímco vetřelec postupoval po chodbě vpřed, ona paralelně s ním postupovala spojovacími dveřmi mezi pokoji zpět, takže se v jednu chvíli minuli. Z posledního pokoje se Kristýna spojovacími dveřmi dostala do rohové ložnice, z níž už žádné další dveře nevedly, takže se vrátila zpět do pokoje a potichu pootevřela dveře na chodbu. Ocitla se v široké vstupní předsíni. Za sebou měla schodiště do prvního patra, chodba se táhla doleva a končila u dveří nejvzdálenějšího obývacího pokoje, kde předtím všichni seděli, a u prostorné kuchyně. Pohlédla na pootevřené vstupní dveře na konci předsíně přímo proti ní, rychle očima švenkla na schodiště, naštěstí prázdné, a pak se ze dveří vyklonila tak, aby viděla do dlouhé chodby napříč domem. A ztuhla hrůzou. To, co nikdy nechtěla, aby přišlo, skutečné zhmotnění jejího nejděsivějšího snu, právě vycházelo z kuchyně.
 
 V budoucnu se jí ve snech bude právě tahle scéna znovu a znovu vracet, později dokonce i v nejrůznějších variantách, se změnami prostředí, ale stále pořád ta stejná prazákladní situace. Proti světlu vidí jen temnou siluetu muže se zbraní v ruce – všechno na něm je tmavé, rozostřené a o to děsivější. Muž zrovna vyšel z kuchyně, vzal za kliku dveří od velkého pokoje a zjistil, že jsou zamčené. Otočil se a na druhém konci chodby, dvanáct, možná patnáct metrů daleko vidí ze dveří nejvzdálenější místnosti vykukovat hlavu mladé ženy. Muž udělá úkrok stranou, mimo rám kuchyňských dveří a z boku tak na něj dopadne světlo. Kristýna vidí, jak se usmívá, jako by byl rád, že ji vidí. Na jeden okamžik Kristýna dostane nápad tryskem přeběhnout chodbu do předsíně a pak těmi otevřenými dveřmi ven a přitom zoufale křičet o pomoc. Ano, to je ten nejlepší nápad, a tak zprvu vůbec nechápe, kde se v ní vzala ta síla, rozhodnost, energie a šílená odvaha rázně vejít do chodby, rozkročit se a s pistolí drže­nou oběma rukama s napřaženými pažemi vykřiknout: „Policie! Odhoďte zbraň!“
+
+  
 
 Marie Výrová s Václavem Karasem se sklonili nad mrtvým psem. Karas si zakryl ústa dlaní v gestu bezmocné bolesti a poklekl do trávy ke staré fence. Ležela zády přitisknutá ke kmenu jabloně, trochu prohnutá. Široký jazyk jí zplihle visel z tlamy, v jednom mrtvém oku se odráželo šedé světlo měsíce, druhé zalila krev, stejně jako trávu kolem její hlavy. Václav Karas jí na nehybný bok položil obě ruce, jenže pod stále ještě teplou srstí už srdce nebilo. Marie, která celý život psy milovala, s ním chtěla sdílet jeho lítost, ale současně musela dávat pozor, a tak věděla, že její ostražité rozhlížení se kolem může vypadat jako lhostejnost a nezájem.
 
@@ -1119,11 +1145,15 @@ Než stačila cokoliv říct, z domu se ozval výstřel. Hned za ním hlučná 
 
 Karas na ni v podřepu nechápavě pohlédl, ale to už Marie utíkala sadem zpět k domu.
 
+  
+
 Až později si Kristýna vzpomněla na oblíbené tvrzení své šéfky, že zločin málokdy dává smysl, že často vzniká z iracionálních pohnutek – z nesmyslné nenávisti nebo z nepochopitelné chamtivosti lidí, kteří už beztak mají všeho dost. Snad až tohle jí pomohlo pochopit to nesmyslné chování onoho muže proměněného v smějící se černou siluetu. Navzdory jejímu jasnému pokynu vetřelec mírně naklonil hlavu, jako by si ji chtěl lépe prohlédnout, a pak zvedl ruku s pistolí.
 
 Ale v tu chvíli se stalo cosi, co odvedlo jeho pozornost, stejně jako pozornost Kristýny. Na ochozu na konci schodiště nad její hlavou se ozval hluk – starý Josef Karas, bývalý hospodář, kulak, pak mukl, rehabilitovaný vězeň, ještě později dlouholetý družstevní traktorista a teď sedlák na penzi rozrazil dveře jednoho z pokojů v prvním patře a ocitl se přímo na ochozu schodiště s výhledem na celou chodbu pod sebou – a s kulovnicí v ruce. „Mě už znovu nedostanete, komunistický svině!“ vykřikl.
 
 V tu chvíli vetřelec vystřelil po Kristýně, ta instinktivně uskočila stranou, jenže jak byla jen v ponožkách, na hladkých a dokonale naleštěných kachlících předsíně jí uklouzly nohy, Kristýna spadla na zem a v tom prudkém pohybu setrvačně sklouzla pravým ramenem a bokem. Mezitím už starý hospodář stihl zamířit a vystřelit po vetřelci. Rána s vetřelcem smýkla do rohu. Kristýna se na zemi bolestivě zastavila o zeď zátylkem, ramenem a krkem – intuitivně natáhla ruku a vystřelila – jednou, podruhé, potřetí do míst, kde před zlomkem vteřiny muž stál. Pak jí zablikalo před očima, hlavou, krkem a ramenem projela vlna bolesti, hned vystřídaná druhou až padesátou další, stejně bolestivou vlnou, obraz chodby v očích vystřídalo černobílé zrnění, jaké jako dítě vídávala v televizi po skončení nočního vysílání, než najeli na nepřetržitý program – a Kristýna ztratila smyslový kontakt s realitou…
+
+  
 
 Marie se zastavila až před domem, kolena se jí podlomila, v hrudi a v plicích ji zabolelo. Na tyhle akce už nemá léta, pomyslela si – a hned nato se jí vybavilo slovo _infarkt_. Zjevilo se jí v mysli bez varování a bez důvodu, ale jeho sugestivní síla Marii ohromila. Předklonila se a levačkou se opřela o koleno. Málem z druhé ruky upustila služební pistoli, kterou vytáhla z pouzdra, když přiběhla k domu, a třikrát se hluboce nadechla, aby v těle dorovnala ztrátu kyslíku způsobenou během. Nohy se jí třásly vysílením. Musím se vzpamatovat, rozkázala si, zatřepala hlavou, setřela pot z čela a přistoupila ke dveřím do domu. Byly pootevřené a škvírou ven prosvítalo světlo. Ještě jednou se zhluboka nadechla, odjistila pojistku na zbrani, zády se opřela o zeď na straně dveřních pantů a levačkou do dveří strčila. Čistý vzduch. S namířenou zbraní prudce rozrazila dveře – předsíň byla prázdná, stejně jako výsek chodby, který viděla. Nějaké zvuky. Po schodech dolů někdo scházel. Ze svého úhlu na schodiště neviděla, tak se bystře prosmýkla předsíňkou, zvedla zbraň – a vtom se do jejího zorného pole dostal otec Karel Karas. Scházel po schodech dolů, v ruce pušku.
 
@@ -1144,6 +1174,8 @@ Na druhé straně chodby v rohu vedle dveří do kuchyně uviděla ještě jedn
 „Žije?“ zavolal na Marii otec Karas.
 
 Ne, ani náhodou. Bylo to vidět na první pohled. Vetřelec se sesul k zemi, s hlavou zalomenou v podivném úhlu v rohu chodby, z ruky mu vyklouzla pistole, kterou Marie obezřetně odkopla mimo dosah. Ale to nebylo potřeba, rána v hrudi jasně znamenala, že muž už nikoho neohrozí.
+
+  
 
 Marie znovu zhluboka vydechla a strčila pistoli do pouzdra.
 

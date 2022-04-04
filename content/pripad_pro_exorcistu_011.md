@@ -1,11 +1,9 @@
 ---
+title: DEN ČTVRTÝ neděle 4. října
 contentType: prose
 ---
 
-DEN ČTVRTÝ  
-neděle 4. října
-
-XXXII.
+## XXXII.
 
   
 
@@ -142,6 +140,8 @@ Z rozměrné tašky vytáhl velký papírový pytlík a také termosku. „Je�
 „Chlape jeden!“ Marie vstala a pohrozila mu prstem. „Vy to ještě někam dotáhnete.“
 
 Na tváři obecního strážníka Nemravy se rozlil úsměv: po ničem jiném netoužil.
+
+  
 
 O půl hodiny později se Marie s Edelweissem spokojeně rozvalili na lavičce. Nedělní říjnové ráno náhle získalo mnohem příjemnější kontury. Před farou zastavila červená Toyota Aygo a z ní vystoupila Kristýna Horová. Rozhlédla se okolo, pak se sklonila zpět do auta a z místa spolujezdce vytáhla papírovou složku.
 
