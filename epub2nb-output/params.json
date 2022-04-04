@@ -40,34 +40,49 @@
             "filename": "pripad_pro_exorcistu_001.md",
             "xhtml": "pripad_pro_exorcistu_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "pripad_pro_exorcistu_002.md",
             "xhtml": "pripad_pro_exorcistu_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "pripad_pro_exorcistu_003.md",
             "xhtml": "pripad_pro_exorcistu_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "pripad_pro_exorcistu_005.md",
+            "xhtml": "pripad_pro_exorcistu_005.xhtml",
+            "id": 4,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "pripad_pro_exorcistu_004.md",
@@ -78,18 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "pripad_pro_exorcistu_005.md",
-            "xhtml": "pripad_pro_exorcistu_005.xhtml",
-            "id": 4,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citát"
           },
           {
             "filename": "pripad_pro_exorcistu_006.md",
@@ -100,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "ŠTĚPÁNOV U OLOMOUCE"
           },
           {
             "filename": "pripad_pro_exorcistu_007.md",
@@ -111,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "PROLOG"
           },
           {
             "filename": "pripad_pro_exorcistu_008.md",
@@ -122,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "DEN PRVNÍ čtvrtek 1. října"
           },
           {
             "filename": "pripad_pro_exorcistu_009.md",
@@ -133,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "DEN DRUHÝ pátek 2. října"
           },
           {
             "filename": "pripad_pro_exorcistu_010.md",
@@ -144,7 +158,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "DEN TŘETÍ sobota 3. října"
           },
           {
             "filename": "pripad_pro_exorcistu_011.md",
@@ -155,7 +171,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "DEN ČTVRTÝ neděle 4. října"
           },
           {
             "filename": "pripad_pro_exorcistu_012.md",
@@ -166,7 +184,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "DEN PÁTÝ pondělí 5. října"
           },
           {
             "filename": "pripad_pro_exorcistu_013.md",
@@ -177,7 +197,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "DEN ŠESTÝ úterý 6. října"
           },
           {
             "filename": "pripad_pro_exorcistu_014.md",
@@ -188,7 +210,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "DEN SEDMÝ středa 7. října"
           },
           {
             "filename": "pripad_pro_exorcistu_015.md",
@@ -199,7 +223,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "DEN OSMÝ čtvrtek 8. října"
           },
           {
             "filename": "pripad_pro_exorcistu_016.md",
@@ -210,18 +236,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EPILOG 3. listopad – 22. listopad"
           },
           {
             "filename": "pripad_pro_exorcistu_017.md",
             "xhtml": "pripad_pro_exorcistu_017.xhtml",
             "id": 16,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -419,6 +448,6 @@
       "user": "books-are-next",
       "repo": "pripad-pro-exorcistu"
     },
-    "generatedAt": 1649091820934
+    "generatedAt": 1649092393658
   }
 }

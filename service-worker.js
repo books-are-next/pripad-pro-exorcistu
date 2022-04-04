@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-eb741ce';
+const CACHE = 'cache-7171bb4';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./pripad_pro_exorcistu_001.html","./pripad_pro_exorcistu_002.html","./pripad_pro_exorcistu_003.html","./pripad_pro_exorcistu_004.html","./pripad_pro_exorcistu_005.html","./pripad_pro_exorcistu_006.html","./pripad_pro_exorcistu_007.html","./pripad_pro_exorcistu_008.html","./pripad_pro_exorcistu_009.html","./pripad_pro_exorcistu_010.html","./pripad_pro_exorcistu_011.html","./pripad_pro_exorcistu_012.html","./pripad_pro_exorcistu_013.html","./pripad_pro_exorcistu_014.html","./pripad_pro_exorcistu_015.html","./pripad_pro_exorcistu_016.html","./pripad_pro_exorcistu_017.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/obalka_pripad_pro_exorcistu.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./favicon.png","./colophon.html","./index.html","./pripad_pro_exorcistu_002.html","./pripad_pro_exorcistu_004.html","./pripad_pro_exorcistu_006.html","./manifest.json","./pripad_pro_exorcistu_007.html","./pripad_pro_exorcistu_008.html","./pripad_pro_exorcistu_009.html","./pripad_pro_exorcistu_010.html","./pripad_pro_exorcistu_012.html","./pripad_pro_exorcistu_013.html","./pripad_pro_exorcistu_015.html","./pripad_pro_exorcistu_016.html","./pripad_pro_exorcistu_014.html","./pripad_pro_exorcistu_011.html","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/Literata-Italic-var.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/upoutavka_eknihy.jpg","./resources/obalka_pripad_pro_exorcistu.jpg","./scripts/bundle.js","./template-images/circles.png","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {
