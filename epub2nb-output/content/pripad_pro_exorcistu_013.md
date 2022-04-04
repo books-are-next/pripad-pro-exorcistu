@@ -1,11 +1,9 @@
 ---
+title: DEN ŠESTÝ úterý 6. října
 contentType: prose
 ---
 
-DEN ŠESTÝ  
-úterý 6. října
-
-XLIII.
+## XLIII.
 
   
 
@@ -17,7 +15,7 @@ Lehce se osprchovala a převlékla do pyžama. V posteli musela několikrát p
 
 Kristýnu roztřásla zima a už zas potřebovala na záchod. Šla se vyčurat a opět se zachumlala do peřin. Vyčerpávající únava volala po spánku, ale sotva zavřela oči, ten obraz byl zpět. Dlouhá chodba, obdélník světla, výhrůžná silueta. Kristýna vyskočila z postele a znovu se ztuhle potácela na záchod. Posadila se na mísu, vzala hlavu do dlaní a dala se do usedavého pláče.
 
-XLIV.
+## XLIV.
 
   
 
@@ -71,7 +69,7 @@ Dr. Anděl ve své pracovně zvedl hlavu od psaní pitevní zprávy a to, že v
 
 „Aspoň nějaké dobré zprávy,“ řekl Edelweiss a ztěžka vstal z křesla.
 
-XLV.
+## XLV.
 
   
 
@@ -83,18 +81,18 @@ V kuchyni si udělala kávu a vajíčka a zapnula mobil. Okamžitě začaly p
 
 Nejprve jí volala Horová, pak její otec, mezitím třikrát Edelweiss i sám Nejvyšší. A pak zase Kristýna. A zprávy:
 
-7:31 – Horova – Zkousela jsem volat. Jsem uz doma z nemocnice. Muzu si dneska vzit volno?
+_7:31 – Horova – Zkousela jsem volat. Jsem uz doma z nemocnice. Muzu si dneska vzit volno?_
 
-7:50 – Horova – Edl. rikal, ze jste doma. Dal mi volno, tak dneska neprijdu. Omlouvam se.
+_7:50 – Horova – Edl. rikal, ze jste doma. Dal mi volno, tak dneska neprijdu. Omlouvam se._
 
-9:01 – Edelweiss – Predbezna zprava od Andela: Krist. Forta nezastrelila.
+_9:01 – Edelweiss – Predbezna zprava od Andela: Krist. Forta nezastrelila._
 
-9:17 – Otec Karas – Pani komisarko, nevim, jestli mohu volat. Rad bych s vami mluvil, jestli je to mozne. Dekuji.
+_9:17 – Otec Karas – Pani komisarko, nevim, jestli mohu volat. Rad bych s vami mluvil, jestli je to mozne. Dekuji._
 
-11:43 – Edelweiss – Zbran, kterou mel Fort, patrila Pacakovi. Mela jste pravdu.
+_11:43 – Edelweiss – Zbran, kterou mel Fort, patrila Pacakovi. Mela jste pravdu._
 
-13:21 – Edelweiss – Bohuzel, stary Karas zemrel. Uz se neprobral.
+_13:21 – Edelweiss – Bohuzel, stary Karas zemrel. Uz se neprobral._
 
-15:35 – Horova – Zkousela jsem volat. Nevim, co mam delat. Edl. ale rikal, ze jsem ho nezastrelila ja. Rikal, ze zadne vysetrovani a vse je pro me OK. Ale ja nevim, muzu zitra prijit do prace?
+_15:35 – Horova – Zkousela jsem volat. Nevim, co mam delat. Edl. ale rikal, ze jsem ho nezastrelila ja. Rikal, ze zadne vysetrovani a vse je pro me OK. Ale ja nevim, muzu zitra prijit do prace?_
 
-15:55 – Edelweiss – Je tady bozi dopusteni. Vsichni na tom delame cely den, ale vůbec to nevypada, ze by Fort byl nas clovek. Hrozny zmatek. Nejvyssi s nacelnikem chteji pripad uzavrit, ale mne se to fakt nezda.
+_15:55 – Edelweiss – Je tady bozi dopusteni. Vsichni na tom delame cely den, ale vůbec to nevypada, ze by Fort byl nas clovek. Hrozny zmatek. Nejvyssi s nacelnikem chteji pripad uzavrit, ale mne se to fakt nezda._

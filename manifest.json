@@ -1,0 +1,863 @@
+{
+  "author": "Michal Sýkora",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "sykora-pripad-pro-exorcistu-eb741ce",
+  "languagecode": "cs",
+  "modified": "2021-03-05T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Případ pro exorcistu",
+  "revision": "eb741ce",
+  "generatedAt": {
+    "date": "Mon Apr 04 2022 17:04:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649091881807
+  },
+  "documents": [
+    {
+      "title": "Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pripad_pro_exorcistu_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "pripad_pro_exorcistu_001.html",
+      "next": "pripad_pro_exorcistu_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_003.html",
+      "words": 7,
+      "chars": 48,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 2,
+      "prev": "pripad_pro_exorcistu_002.html",
+      "next": "pripad_pro_exorcistu_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_004.html",
+      "words": 33,
+      "chars": 176,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 3,
+      "prev": "pripad_pro_exorcistu_003.html",
+      "next": "pripad_pro_exorcistu_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_005.html",
+      "words": 94,
+      "chars": 616,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "pripad_pro_exorcistu_004.html",
+      "next": "pripad_pro_exorcistu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ŠTĚPÁNOV U OLOMOUCE • Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_006.html",
+      "words": 144,
+      "chars": 1040,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 5,
+      "prev": "pripad_pro_exorcistu_005.html",
+      "next": "pripad_pro_exorcistu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ŠTĚPÁNOV U OLOMOUCE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PROLOG • Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_007.html",
+      "words": 3464,
+      "chars": 21078,
+      "ideas": 124,
+      "role": "chapter",
+      "order": 6,
+      "prev": "pripad_pro_exorcistu_006.html",
+      "next": "pripad_pro_exorcistu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PROLOG",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV.",
+              "id": "iv",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V.",
+              "id": "v",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DEN PRVNÍ čtvrtek 1. října • Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_008.html",
+      "words": 13239,
+      "chars": 81255,
+      "ideas": 502,
+      "role": "chapter",
+      "order": 7,
+      "prev": "pripad_pro_exorcistu_007.html",
+      "next": "pripad_pro_exorcistu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DEN PRVNÍ čtvrtek 1. října",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "VI.",
+              "id": "vi",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "VII.",
+              "id": "vii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "VIII.",
+              "id": "viii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IX.",
+              "id": "ix",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "X.",
+              "id": "x",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "XI.",
+              "id": "xi",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "XII.",
+              "id": "xii",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "XIII.",
+              "id": "xiii",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "XIV.",
+              "id": "xiv",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "XV.",
+              "id": "xv",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "XVI.",
+              "id": "xvi",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DEN DRUHÝ pátek 2. října • Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_009.html",
+      "words": 11383,
+      "chars": 70120,
+      "ideas": 285,
+      "role": "chapter",
+      "order": 8,
+      "prev": "pripad_pro_exorcistu_008.html",
+      "next": "pripad_pro_exorcistu_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DEN DRUHÝ pátek 2. října",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "XVII.",
+              "id": "xvii",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "XVIII.",
+              "id": "xviii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "XIX.",
+              "id": "xix",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "XX.",
+              "id": "xx",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "XXI.",
+              "id": "xxi",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "XXII.",
+              "id": "xxii",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "XXIII.",
+              "id": "xxiii",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "XXIV.",
+              "id": "xxiv",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "XXV.",
+              "id": "xxv",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "XXVI.",
+              "id": "xxvi",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "XXVII.",
+              "id": "xxvii",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "XXVIII.",
+              "id": "xxviii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DEN TŘETÍ sobota 3. října • Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_010.html",
+      "words": 2694,
+      "chars": 16796,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 9,
+      "prev": "pripad_pro_exorcistu_009.html",
+      "next": "pripad_pro_exorcistu_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DEN TŘETÍ sobota 3. října",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "XXIX.",
+              "id": "xxix",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "XXX.",
+              "id": "xxx",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "XXXI.",
+              "id": "xxxi",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DEN ČTVRTÝ neděle 4. října • Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_011.html",
+      "words": 1946,
+      "chars": 12016,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 10,
+      "prev": "pripad_pro_exorcistu_010.html",
+      "next": "pripad_pro_exorcistu_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DEN ČTVRTÝ neděle 4. října",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "XXXII.",
+              "id": "xxxii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DEN PÁTÝ pondělí 5. října • Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_012.html",
+      "words": 15192,
+      "chars": 91272,
+      "ideas": 570,
+      "role": "chapter",
+      "order": 11,
+      "prev": "pripad_pro_exorcistu_011.html",
+      "next": "pripad_pro_exorcistu_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DEN PÁTÝ pondělí 5. října",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "XXXIII.",
+              "id": "xxxiii",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "XXXIV.",
+              "id": "xxxiv",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "XXXV.",
+              "id": "xxxv",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "XXXVI.",
+              "id": "xxxvi",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "XXXVII.",
+              "id": "xxxvii",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "XXXVIII.",
+              "id": "xxxviii",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "XXXIX.",
+              "id": "xxxix",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "XL.",
+              "id": "xl",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "XLI.",
+              "id": "xli",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "XLII.",
+              "id": "xlii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DEN ŠESTÝ úterý 6. října • Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_013.html",
+      "words": 1225,
+      "chars": 7239,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 12,
+      "prev": "pripad_pro_exorcistu_012.html",
+      "next": "pripad_pro_exorcistu_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DEN ŠESTÝ úterý 6. října",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "XLIII.",
+              "id": "xliii",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "XLIV.",
+              "id": "xliv",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "XLV.",
+              "id": "xlv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DEN SEDMÝ středa 7. října • Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_014.html",
+      "words": 10051,
+      "chars": 60274,
+      "ideas": 304,
+      "role": "chapter",
+      "order": 13,
+      "prev": "pripad_pro_exorcistu_013.html",
+      "next": "pripad_pro_exorcistu_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DEN SEDMÝ středa 7. října",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "XLVI.",
+              "id": "xlvi",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "XLVII.",
+              "id": "xlvii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "XLVIII.",
+              "id": "xlviii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "XLIX.",
+              "id": "xlix",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "L.",
+              "id": "l",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "LI.",
+              "id": "li",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "LII.",
+              "id": "lii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DEN OSMÝ čtvrtek 8. října • Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_015.html",
+      "words": 11993,
+      "chars": 72343,
+      "ideas": 581,
+      "role": "chapter",
+      "order": 14,
+      "prev": "pripad_pro_exorcistu_014.html",
+      "next": "pripad_pro_exorcistu_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DEN OSMÝ čtvrtek 8. října",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "LIII.",
+              "id": "liii",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "LIV.",
+              "id": "liv",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "LV.",
+              "id": "lv",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "LVI.",
+              "id": "lvi",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "LVII.",
+              "id": "lvii",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "LVIII.",
+              "id": "lviii",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "LIX.",
+              "id": "lix",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "LX.",
+              "id": "lx",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "LXI.",
+              "id": "lxi",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "LXII.",
+              "id": "lxii",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "LXIII.",
+              "id": "lxiii",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "LXIV.",
+              "id": "lxiv",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "LXV.",
+              "id": "lxv",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "LXVI.",
+              "id": "lxvi",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "LXVII.",
+              "id": "lxvii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "EPILOG 3. listopad – 22. listopad • Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_016.html",
+      "words": 3695,
+      "chars": 22567,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 15,
+      "prev": "pripad_pro_exorcistu_015.html",
+      "next": "pripad_pro_exorcistu_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EPILOG 3. listopad – 22. listopad",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "LXIX.",
+              "id": "lxix",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "LXX.",
+              "id": "lxx",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Případ pro exorcistu",
+      "file": "pripad_pro_exorcistu_017.html",
+      "words": 49,
+      "chars": 346,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 16,
+      "prev": "pripad_pro_exorcistu_016.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 75217,
+      "chars": 457235,
+      "ideas": 2692
+    },
+    "chapters": {
+      "words": 75209,
+      "chars": 457186,
+      "ideas": 2687
+    }
+  }
+}

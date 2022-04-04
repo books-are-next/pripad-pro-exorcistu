@@ -1,11 +1,9 @@
 ---
+title: DEN SEDMÝ středa 7. října
 contentType: prose
 ---
 
-DEN SEDMÝ  
-středa 7. října
-
-XLVI.
+## XLVI.
 
   
 
@@ -23,6 +21,8 @@ Marie pokývala hlavou.
 
 Náčelník ji nenechal domluvit: „Podívejte se, jsou toho plné noviny, od rána tady otravují televize a vůbec kdekdo. Na podobný střílečky tady vůbec nejsem zvědavej. Chci výsledky a chci je rychle.“
 
+  
+
 Marie nasupeně vtrhla do kanceláře vyšetřovatelů. Celý tým byl zavalen papírováním a telefonováním. Kodet a Pacák třídili dokumenty; Purkyně komusi telefonoval. Kristýna Horová s ortézou kolem krku, ztuhlá a napřímená jako sfinga, seděla u počítače.
 
 „Poslouchejte mě všichni!“ oslovila Marie přítomné. Práce ustala, hlavy se k ní otočily. Kristýna Horová se na kolečkové židli otočila celá. „Včera jste všichni odvedli znamenitou práci. Chci, abyste věděli, že to vím. Ale Fořt není náš vrah. Ten zmetek pořád ještě lítá venku a my ho musíme najít.“
@@ -39,7 +39,7 @@ V místnosti to zašumělo. Všichni si její slova správně interpretovali ja
 
 „Cha!“ vyštěkla Marie vítězoslavně.
 
-XLVII.
+## XLVII.
 
   
 
@@ -269,7 +269,7 @@ O hodinu a půl později z okna své kanceláře Marie spolu s Edel­weissem
 
 Pohled na líbající se a objímající dvojici na zastávce v člověku v autě vyvolal mocné podráždění, zášť, odpor a nenávist. Dvojice nastoupila do tramvaje a vyjela směrem k nádraží. Osoba v autě nastartovala, a jakmile se na semaforu rozsvítila zelená, vyrazila za tramvají. Byla natolik pohotová, že dokonce i neoznačený policejní vůz s dvojicí Pacák a Purkyně nechala dvě auta za sebou.
 
-XLVIII.
+## XLVIII.
 
   
 
@@ -310,6 +310,8 @@ Znovu zavolala Edelweissovi: „O půl páté posbírejte všechna hlášení z
 „Já jen, že jsem jí slíbil…“
 
 „A vemte s sebou Kristýnu,“ ukončila Marie hovor a zavěsila.
+
+  
 
 K jejímu překvapení za pět minut volal Edelweiss zpátky.
 
@@ -353,7 +355,7 @@ Edelweisse ta slova potěšila.
 
 „S tím nepočítejte,“ na to Marie zlověstně. „V pět ať jste u mě.“
 
-XLIX.
+## XLIX.
 
   
 
@@ -441,7 +443,7 @@ Kristýna moc nechápala, Edelweiss se rozesmál.
 
 „To je _taky_ dobře položená otázka. Přemýšlejte o tom a zítra se do toho pustíme zase od začátku.“
 
-L.
+## L.
 
   
 
@@ -469,7 +471,7 @@ Za půl hodiny to v manželské posteli, která také patřila Pánkově ženě
 
 „Počkej trochu,“ řekl Pánek, „kam spěchat? Máme pro sebe celou noc.“
 
-LI.
+## LI.
 
   
 
@@ -519,7 +521,7 @@ Purkyně jen zamručel.
 
 Jiří Pánek zašel do domu. Dneska to teda nebyl úspěšný den. Spíš právě naopak. Lomcoval s ním vztek. Nebyl zvyklý, aby s ním ženské takhle vyjebávaly. A už vůbec ne hned dvě po sobě během pár hodin. Byl ponížený, zahanbený, vzteklý. „Ta čubka, ta mizerná laciná nadržená čubka!“ zařval na celý dům. To ponížení! A navíc si ta kráva myslí, že je to jeho vina, že se mu nepostavil, jenže kdyby ona byla co k čemu, tak… A pak si vzpomněl na Annu. Co když to myslela vážně? Ona to asi doopravdy myslela vážně. Jestli ho vyhodí, skončí na dlažbě. A pak jej napadla ještě jedna věc. Nějak si to neuvědomil, napadlo ho to až teď, ale co když – co když Anna někoho má? Přemýšlel, kdy se s ní naposledy miloval. Je to měsíc? Možná i víc. To ona neměla zájem, to věděl jistě. Najednou neměla zájem o sex, a přitom to vždy měla ráda. Má někoho? Při té představě se jej zmocnila žárlivost. Náhle vše dávalo smysl – Annino chování a snadnost, s jakou na něm přestala být závislá a vůči němu podřízená… Vrátil se nahoru do ložnice, svlékl župan a lehl si do postele. Všude cítil Zdenin typický nasládlý parfém. Jiří Pánek v tu chvíli začal litovat zmařené příležitosti. Všech budoucích příležitostí, které mohla dnešní hádka zmařit. Spěšně na sebe navlékl triko, džíny, svetr a bundu a bez ponožek vklouzl do bot. Dole hrábl po klíčích od auta, ale pak mu došlo, že v labyrintu sídlištních uliček se bude lépe pohybovat pěšky. Aby zkrátil Zdenin náskok, použil svou oblíbenou zkratku: proběhl přes obývák dozadu na terasu a na miniaturní zahrádku a zadní brankou se dostal mezi paneláky. Rozmoklý bahnitý trávník mu při běhu čvach­tal pod nohama. Purkyně s Pacákem tmu v domě vyhodnotili tak, že se hlavní podezřelý Velké Sovy uložil ke spánku.
 
-LII.
+## LII.
 
   
 
@@ -543,19 +545,23 @@ Obecní policajt Nemrava ze seriálů, na které se díval, věděl, že součá
 
 Podíval se do bloku a znovu si přečetl všechno, co si poznamenal rozechvělým a neumělým rukopisem:
 
-Co sdělit paní Vyšetřovalce Judr. Výrové Marii:
+  
 
-Souvislost případů
+_Co sdělit paní Vyšetřovalce Judr. Výrové Marii:_
 
-Smrt pana FRANTIŠKA SPÁČILA
+_Souvislost případů_
 
-ZAVRAŽDĚNÍ TÉ SLEČNY (teď nevím, jak se jmenuje)
+_Smrt pana FRANTIŠKA SPÁČILA_
 
-Fr. Spáčil povolán k domácí hádce u rodiny Doulových – Dolní konec. Podle výpovědi měl odjet 5:30 až 5:40 (neví se přesně, lze ale zjistit a potvrdit – případ vyšetřovala policie Šternberk)
+_ZAVRAŽDĚNÍ TÉ SLEČNY (teď nevím, jak se jmenuje)_
 
-Pan Farář říkal, že slečna odešla na autobus – první ranní spoj do Olomouce. Říká se mu DĚLNICKÝ. Odjezd spoje 5:35. Slečna ale autobusem neodjela – aspoň jsem to tak slyšel. (Zeptat se paní Vyšetřovatelky!!!)
+_Fr. Spáčil povolán k domácí hádce u rodiny Doulových – Dolní konec. Podle výpovědi měl odjet 5:30 až 5:40 (neví se přesně, lze ale zjistit a potvrdit – případ vyšetřovala policie Šternberk)_
 
-JE TEDY MOŽNÉ ŽE FR. SPÁČIL PŘI ODJEZDU UVIDĚL SLEČNU JAK ČEKÁ NA AUTOBUS NEBO JAK NA AUTOBUS VŮBEC NEČEKÁ. Nabízí se tedy otázka: FR. SPÁČIL – byla to nehoda?
+_Pan Farář říkal, že slečna odešla na autobus – první ranní spoj do Olomouce. Říká se mu DĚLNICKÝ. Odjezd spoje 5:35. Slečna ale autobusem neodjela – aspoň jsem to tak slyšel. (Zeptat se paní Vyšetřovatelky!!!)_
+
+_JE TEDY MOŽNÉ ŽE FR. SPÁČIL PŘI ODJEZDU UVIDĚL SLEČNU JAK ČEKÁ NA AUTOBUS NEBO JAK NA AUTOBUS VŮBEC NEČEKÁ. Nabízí se tedy otázka: FR. SPÁČIL – byla to nehoda?_
+
+  
 
 Rozhodl se to prověřit. Služební škodovku našli stát před kostelem sv. Barbory. Někde tam se měl Spáčil opít. Ale jak? A proč? Jak se tam dostal? Právě to mu na přístupu policajtů ze Šternberka nejvíc nesedělo. Nekladli si otázky. To ta vyšetřovatelka z Olomouce by k tomu přistupovala úplně jinak. Musí s ní o tom promluvit.
 
@@ -564,6 +570,8 @@ Znovu nastartoval vůz a rozjel se na Horní konec k nádraží. Byl detektiv.
 Zastavil u obecní knihovny, na stejném místě jako tehdy Spáčil. Napadla ho ještě jedna věc. Když je tak rozjetý, když mu to tak jde, prohlédne ještě místo činu, tedy to, kde zůstala zaparkovaná obecní škodovka. Vytáhl z vozu baterku. Věděl, že ti diletanti ze Šternberka to neudělali, anebo udělali, ale blbě. Jak by to asi udělal Horácio z Kriminálky Miami, jak se na to tak rád dívá? Prošmejdí pečlivě trávník a určitě něco najde. Vlákno, nit, knoflík, nějaké to déená a zjistí, kdo to udělal Spáčilovi i té holce, protože tyhle dvě věci teď spolu jasně souvisejí. Přišel s baterkou na trávník mezi stromy před zavřeným kostelem z červených cihel. A zarazil se. Prostor byl rozsáhlý, možná čtyřicet metrů čtverečních. Zkusí najít nějaké krvavé stopy. Šmejdil baterkou po asfaltu silnice. Z hospody Na huti šla partička chlápků a začali na něj pokřikovat: „Hele, Orgán! Co hledáš, Orgáne? Upadl ti orgán?“ Řvali a chechtali se. Bylo půl jedenácté, a kdyby se Nemrava nerozhodl, že má na starost důležitější věci, a tudíž je bude ignorovat, mohl by je napomenout za rušení nočního klidu.
 
 Partička přešla a Nemrava v předklonu ve světle baterky bezradně chodil sem tam po kraji silnice před kostelem. Žádná výrazná vlákna, žádné stopy. Jen tráva a bordel. A navíc tma jak v pytli, vůbec nechápal, jak to v televizi v té tmě jen s těma baterkama Horácio s ostatníma vždycky dokážou najít. On nenašel nic.
+
+  
 
 Vrátil baterku zpět do auta a už se chystal jít na nádraží, když si všiml přijíždějícího auta. Žlutá firemní dodávka s nápisem ZÁMEČNICTVÍ KOCYCH – MAKOVIČKA OLOMOUC zabočila do boční uličky a zajela mezi domky staré dělnické čtvrti. Nemravovi kdesi vzadu v hlavě naskočilo cosi, nač si nemohl vzpomenout, ale co určitě slyšel, a měl pocit, že se o tom bavila paní Výrová s tím svým kolegou, co má to německé jméno, na které si teď taky nemohl vzpomenout, stejně jako si nedokázal vybavit, co se mu to objevilo v hlavě.
 
@@ -612,6 +620,8 @@ Snažil se prásknout mu dveřmi před nosem, ale Nemrava pohotově strčil do d
 „Něco ti řeknu, mladej!“ pokračoval Nemrava důrazně, ale přitom kulhavě couval ven na ulici. „Já spolupracuju s policií. A určitě je bude sakra zajímat, co tady provádíš. Protože jestli něco vím fakt moc dobře, tak to je, že tady něco pěkně smrdí!“
 
 Užuž mohl být na ulici, jenže se při couvání nestrefil do dveří a vrazil znovu do futra. Ohlédl se přes rameno, kde je ten správný směr, ale současně periferním pohledem zachytil prudký pohyb. Muž na dvorku cosi popadl a rozmáchl se. Nemrava instinktivně zvedl ruku před obličej, ale k ničemu mu to nebylo.
+
+  
 
 Asi o pět minut později si jeden z té rozjařené čtveřice odcházející z pohostinského zařízení Na hutích náhle vzpomněl, že v hospodě nechal bundu s klíči i mobilem. V tu chvíli se už nacházel skoro v půlce cesty domů, minuli obchod s domácími potřebami a měli nakročeno ke křižovatce s obchodem se zeleninou a květinami a zastávkou olomouckého autobusu. Štamgast zastavil a zvážil situaci. Bundu si může vyzvednout zítra ráno cestou na vlak, kterým pojede do Olomouce do práce. Mobil teď nepotřebuje, kdo by mu taky volal o půl jedenácté v noci. Ale ty klíče… Bude muset zazvonit. Pes – aby chcípl, kripl jeden! – bude štěkat. Vzbudí ženu a děcka. Ale i to by šlo zvládnout. Jenže taky vzbudí tchyni. Základní pravidlo: když štěká pes, štěká i tchyně. Asociací vzpomínek se vrátil ke dni, kdy mu žena navrhla, aby se přestěhovali „do domku k mamince“. Měla tehdy břicho, jako kdyby spolkla slona, garsonka v paneláku přestávala kapacitně vyhovovat, a pak ten argument „maminka mi pomůže s malým, ale jinak nic. Budeme mít vlastní vchod, celé patro, ona bude dole – a uvidíš, všechno to krásně zvládnem.“ Tak hovno! pomyslel si, že jsem si radši nenechal všechny zuby vytrhat. Všechny ty víkendy, kdy musel makat jak negr na baráku, místo, aby poseděl s chlapama Na hutích, protože „maminčin domeček“ se po jejich přistěhování stal černou dírou údržby a oprav. Než spravil střechu, do domku tak zatékalo, že neuplynul měsíc, aby nemusel vymalovat některou z místností, až mu chlapi v hospodě začali říkat Picasso. To vše mu během vteřiny blýsklo hlavou, k tomu jasná představa „maminčina“ monologu, kdyby v jedenáct v noci zazvonil – takže mu nezbývalo než říct: „Kurva, chlapi, já tam nechal klíče.“
 

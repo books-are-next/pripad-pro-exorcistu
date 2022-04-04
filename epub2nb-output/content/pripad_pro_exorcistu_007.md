@@ -1,10 +1,9 @@
 ---
+title: PROLOG
 contentType: prose
 ---
 
-PROLOG
-
-I.  
+## I.  
 (čtvrtek 3. září)
 
   
@@ -85,6 +84,8 @@ Fořt vstal a bez rozloučení odešel.
 
 Redaktor Rosenbaum byl už zvyklý na ledacos. Před časem mu jedna zavrhnutá básnířka (to ještě působil u jiného nakladatelství) bez jakékoliv logické souvislosti vmetla nad vráceným rukopisem do obličeje, že je agent s atomovými zbraněmi. Zvykl si. Nechápal sice, ale neprotestoval. Vzhledem k tomu, že se Fořt už vrátit nehodlal, pokračoval v přípravě edičního plánu. Ale ten název, mihlo mu hlavou. _Satan dnes!_ Ten člověk fakt musí být blázen.
 
+  
+
 Ve skutečnosti Fořtova kniha zdaleka nebyla tak senzační, jak napovídal její název, což lektor ve svém odmítavém posudku neopomněl zdůraznit. Fořtovi neznámý lektor (mladý asistent z pražské filozofické fakulty; rozhodně tedy ani jeden z těch, které autor spisku sám podezříval) rukopis nemilosrdně označil za unikátní dílo v tom, jak se autorovi podařilo spojit zdánlivě nespojitelné: divoké spekulace a suchopárnou nudu. Vyslovil dokonce i nesmělé podezření, zdali to není čirá fikce. Lektor byl zapálený odborník přes náboženské sekty, ale o tom, co si přečetl ve Fořtově třísetstránkovém konvolutu, nikdy neslyšel. Hledal v odborné literatuře, dokonce pátral i po literatuře, ke které odkazoval Fořt (ne že by se to dělo zas tak často), ale s nulovým výsledkem. Na chvíli zapochyboval o své erudici i o oprávněnosti svého pět let starého doktorátu, ale pak to hodil za hlavu a v posudku označil autora za grafomana bez špetky stylistického talentu. Nebyl první, kdo si tohle myslel.
 
 Fořt sám ovšem svou knihu považoval za vědeckou práci a to, že Akademické nakladatelství rukopis odmítlo stejně jako tři další vydavatelé během uplynulých devatenácti měsíců, chápal jako komplot a temné spiknutí. V tom, kdo za tím vším stál, však měl jasno. Jak se šoural po rušné pražské ulici od budovy Akademického nakladatelství směrem k Václavskému náměstí, přesvědčil sám sebe, že už je bezpodmínečně třeba s tím něco udělat.
@@ -95,7 +96,7 @@ Ploužil se centrem města a co chvíli do něj někdo vrazil. Všude samí tur
 
 Hned při vstupu do knihkupectví vrazil u novinkového regálu do mileneckého páru. Dívka se na něj místo omluvy usmála; Fořt se kolem nich prosmýkl a přitom vrazil do jiného páru. Tohle nesnášel. Proč se, proboha, musejí pořád na sebe takhle lepit! I v těchhle úzkých prostorách, kde zaberou tolik místa, zatímco by měli raději třeba chodit za sebou a vyhýbat se lidem. Lepí se na sebe i v knihkupectví, což je ale už vážně hnus a nic jiného než hnus. Rozhlédl se kolem sebe. Bože, tolik lidí! Zaleze si někam v suterénu do koutku v oddělení poezie nebo lékařských knih, tam snad bude klid a dost místa. Další pár! A další. Holky se smějou, ti jejich jim sahají na zadek, a společně lezou do knihkupectví. Když si chcete připadat jako intelektuálové, tak se tak sakra chovejte! Zamířil ke schodišti do suterénu a švenkl očima po všech těch lidech. Další pár! A najednou se zarazil. Zíral na dvojici u polic s knihami o historii. Toho muže znal, ale v tomhle oblečení jej málem nepoznal. Tulila se k němu pohledná tmavovláska – a právě to na tom bylo nejpodivnější. Byl to on? Vklouzl za regál vedle schodiště a zíral na dvojici. Ano, je to on, o tom nemůže být pochyb. Ale tohle! s holkou a na veřejnosti… A pak mu pozvolna začalo docházet, jakou senzační hodnotu má to, co právě zjistil. Co právě vidí. Kdyby tak měl fotoaparát, aby měl jednoznačný důkaz! Usmál se: pravý čas změnit plány. Někdy se to musí. Konečně, jeho rozhodnutí prožít odpoledne v knihkupectví zas tak pevné nebylo. Dívka si doprohlížela knihu, muž se jí zeptal, jestli ji chce, a ona odvětila, že to nestojí za to. Vrátila ji do regálu a společně se otočili k východu. Richard Fořt vyšel zpoza regálu, počkal, až trochu popojdou, a pak se v bezpečné vzdálenosti, ale tak, aby je neztratil z dohledu, vydal za nimi.
 
-II.
+## II.
 
   
 
@@ -139,7 +140,7 @@ Prosklenými dveřmi vešel do haly kněz.
 
 „Není potřeba,“ odvětil otec Perkner suše a se špatně skrývaným nepřátelstvím. „Už jsme měli tu vzájemnou čest.“
 
-III.
+## III.
 
   
 
@@ -181,7 +182,7 @@ Veronika vystrčila hlavu z kupé. „Děje se něco?“
 
 Ve vedlejším voze, zamčený na záchodě, prudce oddechoval Richard Fořt.
 
-IV.  
+## IV.  
 (středa 16. září)
 
   
@@ -208,7 +209,7 @@ Zvědavost zvítězila. Žena odložila hrnek na noční stolek a vyskočila z�
 
 „Víš, kdo to je?“ zvedl oči ke své společnici.
 
-V.  
+## V.  
 (neděle 27. září)
 
   

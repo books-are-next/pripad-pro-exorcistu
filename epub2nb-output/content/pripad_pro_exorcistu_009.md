@@ -1,11 +1,9 @@
 ---
+title: DEN DRUHÝ pátek 2. října
 contentType: prose
 ---
 
-DEN DRUHÝ  
-pátek 2. října
-
-XVII.
+## XVII.
 
   
 
@@ -49,7 +47,7 @@ Marie od včerejška na svého nadřízeného ani jednou přímo nepromluvila, t
 
 „Tak mě, Viktore, dobře poslouchej,“ otočila se k němu Marie. „To, cos včera předvedl s těma farářema, mě tak nasralo, jako už dlouho nic. S loajalitou to nemá nic společnýho. Kdybychom teď nebyli uprostřed vyšetřování vraždy, klidně bych tě nechala v tom průseru vykoupat. Protože když už tak oceňuješ můj nezávislý názor, tak si pamatuj, že s tou stížností na tebe se já plně ztotožňuju. Takže tě žádám, velmi důrazně tě žádám, ať se dál nepleteš do _mýho_ vyšetřování, protože pak bys taky mohl poznat, že má loajalita má svý hranice!“
 
-XVIII.
+## XVIII.
 
   
 
@@ -87,7 +85,7 @@ Další dotazy už nebyly, až na Pavla Edelweisse: „Úkol pro mě?“
 
 „My půjdeme k našemu milému patologovi.“
 
-XIX.
+## XIX.
 
   
 
@@ -245,7 +243,7 @@ Marie se usmála. „Proto s ním dělám.“
 
 Otevřely se dveře a dovnitř nakoukl Edelweiss s mobilem v ruce. „To byl Kodet. Našli tu spolubydlící.“
 
-XX.
+## XX.
 
   
 
@@ -303,7 +301,7 @@ Edelweiss zvedl hlavu, jako by v nadýchaných obláčcích prohánějících s
 
 „No, tak to zatím ještě nevíme,“ řekla Marie. „Ale třeba se to dozvíme zrovna teď u Veroniky doma.“
 
-XXI.
+## XXI.
 
   
 
@@ -327,7 +325,7 @@ Paní Skácelová na zápraží kývla na znamení souhlasu.
 
 Teď už to konečně pochopila. Přijala z jeho ruky vizitku, bez brýlí na ni stejně neviděla, a pozvala arcibiskupského pověřence Timothea Suchého dál.
 
-XXII.
+## XXII.
 
   
 
@@ -371,7 +369,7 @@ Marie se dívala předním oknem ven na cvrkot na ulici.
 
 Pavel Edelweiss nastartoval vůz a vyjeli.
 
-XXIII.
+## XXIII.
 
   
 
@@ -381,6 +379,8 @@ Její vášeň pro Boba Dylana začala přesně 13. července 1985. Byla tehdy 
 
 Už to trvá skoro čtvrt století, uvědomila si Marie. V notebooku si pustila _World Gone Wrong_ a dala se dočtení Karasova spisu.
 
+  
+
 V první částí své knihy – a Marie četla se skutečným zájmem – otec Karas podával přehled současného pohledu církve na exorcismus.
 
 Vlastně začal už šedesátými léty, kdy v duchu modernizace v církvi se na exorcismus nahlíželo jako na něco vyloženě středověkého. Karas obsáhle citoval směrnice druhého vatikánského koncilu, v nichž byl kladen důraz na dobro, naději a soucit. To však bylo něco, co konzervativním duchům esenciálně nevyhovovalo – ti vždy potřebovali ďábla a strach z něj. A jak už to tak bývá, konzervativní síly zvítězily a negace ďábla a zla se postupně z oficiální linie církve vytrácela. Karas citoval papeže Pavla VI.: „Zlo není jen pouhý nedostatek něčeho, nýbrž je to účinně působící síla, živoucí duchovní bytost, zvrácená a rozvracející. Strašlivá realita. Tajemná a vzbuzující hrůzu. Je v rozporu s učením Bible a církve odmítat uznat existenci takové reality nebo ji odmítat považovat za princip sám o sobě, jenž neodvozuje svůj původ od Boha jako každý jiný tvor, nebo ji vysvětlovat jako pseudorealitu, konceptuální smyšlenou personifikaci neznámé příčiny našich osudů.“
@@ -388,6 +388,8 @@ Vlastně začal už šedesátými léty, kdy v duchu modernizace v církvi se 
 Marie přemýšlela, jak moc odvahy potřeboval Karas coby katolický kněz k takovému otevřenému útoku na konzervativní síly v církvi. Otvíraly se před ní naprosto nečekané souvislosti a vazby, otec Karas psal o věcech, o nichž Marie jako laik, jako člověk, který se informace o církvi dozvídá jen náhodně ze zpráv, neměla ani potuchy. Překvapilo ji, že i Jan Pavel II., o němž se domnívala, že jde o uznávaného a všeobecně milovaného papeže, údajně sám praktikoval exorcismus; otec Karas zmiňoval minimálně tři doložené exorcistické rituály vykonávané samotným papežem. Karas ukazoval Jana Pavla II. jako velkého mystika, jenž vrátil do církve velké emoce. Marie si v knize podtrhla údajně autentická papežova slova „Bitva proti ďáblu stále probíhá, protože ďábel stále žije a působí ve světě. Zlo, které nás dnes obklopuje, potíže, které sužují naši společnost, lidská nestálost a nespolehlivost nejsou pouze důsledky prvotního hříchu, nýbrž i důsledkem Satanova všude pronikajícího a temného díla.“
 
 Marii mrazilo v zádech při pomyšlení, že by Karasova kniha mohla mít přece jen nějaký vliv na celý případ. Zatrhla si v knize informaci o devadesátistránkovém oficiálním vatikánském dokumentu z roku 1999 _De exorcismis et supplicationibus quibusdam_ – _O exor­cismu a některých dalších prosbách_, který měl být prvním oficiálním návodem k exorcismu od roku 1614. Na dalších stranách se Karas s nasazením investigativního žurnalisty pustil do osoby kardinála Mediny, ultrakonzervativního kněze, jenž sám řídil vydání exorcistické příručky. Z Medinových názorů na Marii dýchl duch středověku, tedy alespoň toho středověku, jak si jej představovala: Posedlá osoba nehřeší, protože ke hříchu je třeba jednat ze svobodné vůle. Posedlá osoba je ďáblem zotročená. Ďábel je velmi chytrý. Obvykle nejedná prostřednictvím posedlosti, spíše postupuje skrze pokušení. A jelikož démon je lhář, může pokoušet tak, že způsobí, aby zlé věci vypadaly dobře. Ošálí lidi, aby si mysleli, že umějí najít štěstí způsobem, který jedná proti Božímu zákonu. Například způsobí, že lidé si myslí, že nemusejí uposlechnout zákony manželské věrnosti, neboť mohou takovou situaci vyřešit rozvodem. Nebo lidi přiměje věřit, že přerušení těhotenství je v pořádku, protože je přesvědčí, že počaté stvoření není lidská bytost, ale jenom shluk buněk, který se dá vyhodit způsobem, jako když má někdo kašel a odplivne si.
+
+  
 
 Album dohrálo a Marie odložila knihu. Byla zmatená. Kniha působila fantasticky a zcela neuvěřitelně; podávala zprávu o světě, o kterém Marie neměla ani tušení, jako kdyby šlo o reportáž z výpravy na jinou planetu, někde mimo sluneční soustavu. Ale současně – i přes svou čtivost a orientaci spíše na populární stránku problému – zřejmě šlo o seriózní práci. Citáty byly podložené přesnými odkazy, vzadu byl připojen skoro patnáctistránkový seznam literatury, který tak tvořil asi desetinu rozsahu Karasovy knihy. Marie přemýšlela, kolika lidem asi Karas šlápl na kuří oko. Vesnický kněz… Začaly ji napadat fantastické konstrukce; ona, jež na slátaniny Dana Browna reagovala se smíchem, ona, která bytostně odmítala jakékoliv teo­rie spiknutí, protože vždy byla přesvědčená, že v našem světě, kde není možné nic pořádně naplánovat a kde takovou roli hraje náhoda a chaos a kde každý hned všechno vykecá, buď z hlouposti nebo pro peníze, prostě _není možné_, aby fungovaly tajné organizace a důmysl­ná spiknutí – prostě proto, že se to neslučovalo s jejím pohledem na chod světa, prostě proto, že do každého, i nejsofistikovanějšího plánu vstupuje tolik neznámých a neočekávatelných veličin, prostě proto, že se kdykoliv cokoliv může jakkoliv pokazit a nevyjít – prostě proto, že žádná spiknutí neexistují, protože existo­vat nemohou, jelikož by nefungovala – prostě proto… Marie vydechla a opřela si hlavu do dlaní. Vzpomněla si, jak se před mnoha mnoha lety pohádala s tchánem a jak on se urazil, když se vysmála jeho přesvědčení, že sametovou revoluci zorganizovala CIA, anebo KGB, anebo Mossad, nebo všichni tři dohromady a jak tchán tehdy bytostně odmítal připustit, že by se temná hydra komunismu rozpadla prostě jen proto, že každý domeček z karet se jednou rozsype a že takový bordel, co tu byl, se jednou rozloží sám od sebe. Ne, kdepak, žádné spiknutí… Ale teď přišla změna. Začaly ji napadat _věci_ – _věci_, jaké by ani nedokázala vyslovit, v knize o tom nebylo ani slovo – Karas se českou církví nezabýval, zřejmě byl natolik loajální – ale logicky: jsou i u nás exorcisté? A jak se jim asi líbila Karasova kniha? Jak jsou silní? Jaký mají aparát, vliv a moc? A co když…? Ne, tohle hned zavrhla. Veroničina smrt přece jen nemohla být výsledkem nějakého brutálního katolického spiknutí. A to už jen proto, že se Marie optimisticky a zcela menšinově domnívala, že církev už ze své podstaty hraje ve společnosti (aspoň té současné) pozitivní úlohu a že vražda prostě dnes do jejího standardního repertoáru nepatří. Ne, ne, třikrát ne. Marie o tom byla přesvědčená. Nebo aspoň doufala… Pustila si album _Good as I Been to You_ a pokračovala v četbě. Druhá půlka knihy se věnovala exorcismu jako takovému a podávala přehled nejrůznějších projevů posedlosti ďáblem. Marie se dozvěděla, co je to infestace, vexace, obsese a posese. Pak Karas analyzoval čtyři hlavní symptomy posedlosti ďáblem (projevování nadlidské síly; zvládnutí jazyků, které oběť nemůže znát; projevování znalostí a vědomostí, které oběť nemůže znát; zuřivé rouhačství), které následně podrobně analyzoval z hlediska medicínského a zejména psychiatrického. (Marie nalistovala úvod, kde Karas vyjmenovával lékaře a psychiatry, s nimiž problém konzultoval; pracoval důkladně a pečlivě.) Tato část knihy byla nejzábavnější – Karas s vtipem a místy až se škodolibostí dokládal, že za znalost cizích či exotických jazyků bývá považována jakási podivná hatmatilka, kterou se _oběť_ sama dostává do transu, neboť jde o jakýsi rytmizovaný jazyk; navíc zdali je jazyk exotický či nikoliv, posuzuje sám exorcista, jenž podobnému žvatlání sám nerozumí, a tudíž mu připadá jako projev ďábelské posedlosti. A tak dál.
 
@@ -399,7 +401,7 @@ Marie vyšla z kanceláře a sháněla se po Edelweissovi. Kristýna Horová j
 
 „Až přijde Edelweiss,“ na to Marie a zase se zavřela v kanceláři.
 
-XXIV.
+## XXIV.
 
   
 
@@ -439,7 +441,11 @@ PERKNER: A teď narážíte na co?
 
 KARAS: Nevíte? Wiesbaden, březen 1990.
 
+  
+
 A tím rozhovor skončil. Perkner okamžitě odešel ze studia. Šoko­vaný rozhlasový redaktor se zeptal, co se stalo ve Wiesbadenu v březnu 1990, ale Karas odmítl odpovědět s tím, že to je otázka pro Dominika Perknera. Redaktor Havlíček ještě jednou představil Karasovu knihu, položil mu ještě dvě otázky a pak se společně s posluchači rozloučili.
+
+  
 
 „Wiesbaden, březen 1990?“ zopakovala Kristýna. „Co to má být?“
 
@@ -451,7 +457,7 @@ A tím rozhovor skončil. Perkner okamžitě odešel ze studia. Šoko­vaný ro
 
 „Co tak se zeptat přímo u zdroje?“ navrhl Edelweiss.
 
-XXV.
+## XXV.
 
   
 
@@ -467,7 +473,7 @@ Hleděl z okna na svůj kostel. Došlo mu, že se vlastně ani nerozloučil se 
 
 „Tady je Výrová, pane faráři. Právě jsme s kolegy poslouchali vaše vystoupení v rozhlase. Řekněte mi, co se stalo ve Wiesbadenu v březnu 1990?“
 
-XXVI.
+## XXVI.
 
   
 
@@ -479,7 +485,7 @@ Nebyl to zrovna vývoj událostí, jaký si Fořt představoval. V poslední do
 
 Otočil se a pomalu se vydal k autobusové zastávce, aby se vrátil zpět do Olomouce a mohl promyslet další kroky. Proto si nevšiml, jak se brána fary otevřela a obezřetně z ní vycouvala zelená felicie s farářem Karasem za volantem. Farář krátce promluvil s policistou, který odeslal pryč televizní redaktory, cosi mu podal a policista vešel na faru a sám za vycouvavší felicií bránu zavřel. Fořt přešel silnici k zastávce směrem na Olomouc, udělal pár kroků a mechanicky se ohlédl k autu, které projíždělo kolem. Karase za volantem okamžitě poznal, farář se však natolik soustředil na cestu před sebou, že si Fořta nevšiml. Ten pohledem sledoval odjíždějící vůz a pak si v přístřešku autobusové zastávky sedl na lavičku a přemýšlel.
 
-XXVII.
+## XXVII.
 
   
 
@@ -577,7 +583,7 @@ Marie konečně promluvila: „Řeknu vám jen tohle, pane kolego. Dokažte to. 
 
 Pavel Edelweiss mávl rukou a jen řekl: „Údernice v policejních složkách! Tak si pojď pro ten film…“
 
-XXVIII.
+## XXVIII.
 
   
 
@@ -590,6 +596,8 @@ Zprávy skončily a vystřídala je koncentrovaná nuda ve formě sportovního 
 Kristýna vložila DVD do přehrávače, připravila si misku chipsů, láhev vína a usadila se do křesla. Ze začátku se to vyvíjelo dobře. Podle skutečné události… Kristýna pokývala hlavou, filmy ze života měla ráda. Začalo to jako soudní drama… Kristýna zavrněla blahem. Soudní dramata měla také ráda… Ale pak… Kristýna neměla ve zvyku se u filmů bát, ale scéna, jak hlavní hrdinku Emily posedl ďábel, ji dokonale zmrazila. Obrovská prázdná budova univerzitních kolejí. Ve tři hodiny v noci dívku cosi probudí – cítí kouř a slyší divné zvuky. Vejde na chodbu – někdo tam je; spíš ho ale tuší, než vidí. Tři hodiny v noci. Emily ulehne zpět do postele, ale cosi stáhne přikrývku dolů, sklenka s tužkami spadne ze stolku, a pak… Otřesená Kristýna film zastavila a malou chvíli jen tak seděla v křesle a tupě zírala na zčernalou obrazovku. Venku se už setmělo; pouliční lampy házely do pokoje burleskní a zlomyslné stíny. Kristýna Horová rozsvítila lampičku, pak šla do kuchyně – cestou rozsvítila i v předsíni – a důkladně se napila studené vody, aby se vzpamatovala. Fajn, není přece děcko, co se bojí u televize, řekla si a vrátila se zpět k filmu. Jenže to nebylo vše – soudní drama spočívalo v procesu s knězem, během jehož vymítání dívka posedlá ďáblem zemřela. Kněz měl advokátku – a ta se najednou ve tři hodiny v noci probudí, protože cosi slyší a cítí. A… Kristýna se rozklepala strachy. Advokátka vstane z postele a zjistí, že nesvítí světlo. Vrznou dveře. V jejím bytě někdo je. A pak se ďábel zjeví i knězi ve vězení. Ve tři hodiny v noci. Kristýně se chtělo brečet. Je tak sama, tolik stresu všude kolem a k tomu takovýhle film. Scény s vymítáním už byly čistokrevný horor. Nic ze skutečného života, žádné soudní drama, ale čistokrevný horor. Do konce vydržela spíš silou vůle než pro pocit estetické libosti ze sledovaného filmu…
 
 Otřesená šla spát v jedenáct hodin.
+
+  
 
 Probudila ji zima a podivné zvuky. Do ložnice přes žaluzie vnikaly pruhy bledého světla z kandelábru přímo pod oknem. Klep klep klep. Kristýna se natáhla po přikrývce, ale nikde ji nenahmatala. Klep klep klep. Otevřela oči. Klep klep – lokalizovala zvuky: klepalo topení. Posadila se na posteli. Peřina ležela na zemi. Klep klep klep. Copak někdy takhle v noci klepalo topení? Ani topná sezona ještě nezačala. Rozhlédla se po pokoji. Naprosté ticho, tupá hlučná absence zvuku. Pak zas: klep klep klep. V kuchyni v odpověď zachrochtala lednička. Kristýna přejela očima po pokoji – nejprve to zaznamenala jen periferním viděním, ale pak pomalu otočila hlavu. V rohu pokoje na peřináči ze tmy svítily digitální hodiny.
 

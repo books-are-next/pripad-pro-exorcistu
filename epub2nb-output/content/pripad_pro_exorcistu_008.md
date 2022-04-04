@@ -1,11 +1,9 @@
 ---
+title: DEN PRVNÍ čtvrtek 1. října
 contentType: prose
 ---
 
-DEN PRVNÍ  
-čtvrtek 1. října
-
-VI.
+## VI.
 
   
 
@@ -51,7 +49,7 @@ Prošli tepanou branou, tři schůdky ke kostelu a protáhli se po­otevřeným
 
 Měl pravdu. Něco takového ještě nikdy neviděla.
 
-VII.
+## VII.
 
   
 
@@ -165,7 +163,7 @@ Marie chvátala ke dveřím, a když kněze oslovila, podíval se na ni a pohl
 
 „Veronika. Ona není mrtvá, že? Že žije…?“ odpověděl mladý kněz, jako by vůbec nereagoval na otázku, ale spíš si mluvil sám pro sebe. Marie viděla ten šok, děs na jeho tváři, slzy na tvářích… Viděla už hodně takových situací, manželů, rodičů, dětí reagujících na smrt někoho blízkého, takže dovedla poznat, že knězovo zoufalství není zoufalstvím člověka, který vidí smrt někoho, koho zná, ale je re­akcí na smrt někoho skutečně velmi blízkého. Kněz sedící na dlažbě kostela si přikryl obličej rukama a dal se do pláče. Druhý, starší, v Mariině věku, k němu poklekl a zezadu jej oběma rukama pevně objal.
 
-VIII.
+## VIII.
 
   
 
@@ -273,6 +271,8 @@ Marie přitakala.
 
 „Už jsem ostatně byl na cestě, ale tenhle rozruch mě zdržel. Zvědavost zvítězila.“ Znovu se usmál. Původní nervozitu vystřídala nesympatická žoviálnost. Nebo že by to jen hrál? napadlo Marii.
 
+  
+
 Před kostelem mezitím vyvstal další problém. Otec Stárek trval na své přítomnosti u toho, jak bude otec Karas podávat svědectví, a také že neodjedou policejním vozem, ale autem vlastním, kterým před půlhodinou přijeli z Olomouce. Nasupený Vitouš byl proti, Marie však neviděla důvod k tomu, proč nesouhlasit, takže nakonec se podařilo přání kněží prosadit.
 
 Faráři nasedli do zelené felicie, Marie s Viktorem Vitoušem do služební oktávie. Edelweiss dostal za úkol dohlédnout na práce na místě činu a řídit výslechy místních. Pohřebáci zrovna z kostela vynášeli tělo mrtvé dívky ve velkém černém pytli, když Vitouš vztekle práskl dveřmi vozu.
@@ -282,6 +282,8 @@ Faráři nasedli do zelené felicie, Marie s Viktorem Vitoušem do služební o
 Vůz se rozjel a Vitouš ve zpětném zrcátku zkontroloval, že zelená felicie jede za nimi.
 
 „Jak se tam v kostele objímali!“ pokračoval Vitouš.
+
+  
 
 Na policejní stanici uvedli oba kněze do výslechové místnosti a Vitouš se vzdálil s tím, že rozhovor začne za patnáct minut. Marie si šla do automatu pro kávu a pak vstoupila do místnosti k oběma kněžím. Nejvyšší tam ještě nebyl.
 
@@ -315,7 +317,7 @@ Ve výslechové místnosti panovala nervozita. Nikdo ze čtyř přítomných �
 
 Bylo přesně půl jedenácté, když podplukovník Viktor Vitouš zahájil výslech.
 
-IX.
+## IX.
 
   
 
@@ -383,13 +385,15 @@ Efekt jeho slov byl na oba kněze ohromující. Marie vše sledovala a z reakc
 
 „Pane faráři,“ zeptal se Vitouš. „Zabýváte se vymítáním ďábla?“
 
-X.
+## X.
 
   
 
 Pavel Edelweiss byl o patnáct let mladší než Marie Výrová a společně pracovali už tři roky. Ze začátku mu chvíli trvalo, než si přivykl na zvláštnosti své nové šéfové – zejména na její ostentativní ignorování veškeré subordinace, všeho rigidně armádního v policejních složkách. Odmítala používat hodnosti – od kolegů a podřízených vyžadovala, aby ji oslovovali nikoliv jako majorku, ale jako doktorku práv, stejně tak se na Edelweisse neobracela jako na nadporučíka, ale jako na kolegu magistra. Ještě snesla titul vrchní komisařka, ale jak sama říkala, majorkou nikdy nebyla ani nebude.
 
 Obdobně odmítala tykání se svými kolegy. Edelweissovi vždy zdvořile vykala a on sám za chvíli pochopil, že tím vyjadřuje nejen svůj odstup, ale zejména – nevěděl, jak to říct, ale lepší slovo než _úcta_ jej nenapadlo. A to platilo i pro něj – nedokázal si po určité době představit, že by svou šéfovou, přezdívanou všeobecně Velká Sova, oslovoval jinak než jako paní doktorku – a to především proto, že ji měl velmi rád. Vlastně jediní, komu tykala, byl šéf útvaru, dávný spolužák Viktor Vitouš, zvaný Nejvyšší, a pak elévka na oddělení Kristýna Horová, dcera krajského státního zástupce, kterou Marie znala už od dětství. Kupodivu Horová se okamžitě přizpůsobila poměrům a hned po nástupu začala „tetě Marii“ také vykat.
+
+  
 
 Faru postavili přes cestu, naproti kostelu. Podél hřbitovní zdi vede vyasfaltovaná cesta do polí. Vpravo od kostela, za pěšinou do polí, je škola, naproti škole, přes cestu, vpravo od fary sokolovna, což je ušlechtilý název pro jednu z místních hospod, a vedle ní dvou­patrové obchodní středisko z osmdesátých let se samo­obsluhou v přízemí. Nalevo od kostela stojí pár domků a křižovatce s odboč­kou na Liboš, připojenou obec, od Štěpánova oddělenou jen potokem, dominuje místní kino s bankomatem. Za křižovatkou vlevo v zatáčce je místní _pošta_, odkud se dvěma třetinám místních doručuje důchod či podpora v nezaměstnanosti či jiné sociální dávky. Tyto vymoženosti moderního sociálního státu umožňují valné části užívat zaslouženého i nezaslouženého odpočinku, nechodit do práce, být doma a pěstovat brambory a chovat králíky a drůbež.
 
@@ -469,13 +473,15 @@ Proti železné logice hanácké hospodyně nebylo úniku.
 
 „Tak dobře,“ řekl Pavel, „ale jen kousek.“ Další půlka závinu mu přistála na talíři.
 
-XI.
+## XI.
 
   
 
 Mezi Marií Výrovou a Viktorem Vitoušem vládl respekt, ale pracovat spolu by nemohli. Oba to věděli, oba s tím byli srozuměni a smířeni. Vitouš jako šéf oddělení všemu vládl ze své kanceláře, práci v terénu nechal ostatním. Vždy na začátku se seznámil s případem, rozdělil úlohy a pak nechal Marii Výrové jako své nejzdatnější vyšetřovatelce volné pole, byť její práci sledoval a prostřednictvím pravidelných porad i řídil. Šlo o standardní postup. Ale měl rád výslechy. Přímo je miloval a vychutnával si je. Metoda jeho práce byla přímo protikladná té Mariině. Zatímco ona postupně sbírala informace, ohledávala terén, vztahy, příčiny a motivy, Vitoušovi stačilo sebemenší podezření, aby viníka, ať už domnělého či skutečného, podrobil inkviziční proceduře svého vyšetřování. Mělo to své výsledky, samozřejmě pokud zrovna nešlápl zcela vedle a nedeptal člověka nevinného. Byl zavilý, nemilosrdný, otázky dokázal klást s výborným načasováním, byl agresivní, jízlivý a rád chytal za slovo. Marie tenhle styl práce neměla ráda a zvláště, když si sama byla stoprocentně jistá, že vyslýchaný nemá s případem co dělat, jí byly Vitoušovy metody dost proti srsti. Jednou označila Vitoušovy způsoby výslechu za gestapácké; spíš ale měla na mysli slovo estébácké, což pro ni bylo synonymum prvního jmenovaného. Případně, protože o Vitoušově minulosti toho mnoho nevěděla, spíše se domýšlela na základě jemných indicií.
 
 Navíc se jí Vitouš jevil jako naprostý rekordman v počtu sociálních fobií, které si radostně pěstoval a které si dovedl náležitě užít. Jako někdo trpí strachem z pavouků, z výšek nebo uzavřených prostor, Vitouš nesnášel vybrané skupiny lidí napříč celým společenským spektrem. Zde měřil spravedlivě každému stejným metrem. Nesnášel skinheady i anarchisty i národnostní menšiny, členy ODS i ČSSD. Nebylo sexuální úchylky, jíž by nepohrdal. Jeho homofobie byla vyhlášená a slovo lesba znělo z jeho úst jako vulgarismus nejhrubšího zrna, kterým dokázal štědře častovat nejen čtyřprocentní část ženské populace, ale také feministky či jakékoliv ženy ostentativně předvádějící svou nezávislost na mužích. Pedofily by nejraději osobně vykleštil bez poskytnutí sebemenší anestézie. Zelení pro něj byli vandráci, ochránci zvířat úchylové, myslivci vymatlanci s flintičkama, co se jednou navzájem vystřílejí, a bezdomovce vnímal jako bandu páchnoucích povalečů, nemakačenků a chronických lemplů. V televizi a ve filmech jsou takovéhle typy drsných policajtů oblíbené, protože grázlové si lepší zacházení nezaslouží; horší to ale je, když se s takovýmto pitbulem spravedlnosti setká člověk s čistým svědomím. Vitouš by řekl, že takoví mezi občany neexistují, Marie v tomto směru byla rozhodně optimističtější, což se týkalo i otce Karla Karase.
+
+  
 
 „Pane faráři,“ zeptal se tedy Viktor Vitouš, „zabýváte se vymítáním ďábla?“
 
@@ -595,7 +601,7 @@ Vyběhla ze dveří, rychle očima přelétla parkoviště a našla auto otce K
 
 „Nemluvili jste o tom, že odmítáte princip kolektivní viny?“ Farář zakroutil hlavou. Zařadil jedničku a pomalu vyjel z policejního parkoviště.
 
-XII.
+## XII.
 
   
 
@@ -631,7 +637,7 @@ Pět vteřin refrénu a vrčení motoru, pak to strážmistr Purkyně schrousta
 
 „Nechte to být,“ řekla Marie a sama vypnula rádio.
 
-XIII.
+## XIII.
 
   
 
@@ -687,7 +693,7 @@ Pavel se zasmál. „To je teda romantika! Moje tchyně zrovna dočetla _Ptáky 
 
 „Až potom,“ odbyla jej Marie a vzala za kliku.
 
-XIV.
+## XIV.
 
   
 
@@ -843,6 +849,8 @@ Mira chtěl odpovědět něco vtipného, ale jako obvykle ho nic nenapadlo, tak 
 
 Kupodivu se všichni zase rozřehtali a Mira byl šťastný, že přece jen něco vtipného řekl, byť to ani neměl v úmyslu. Všechno z něj spadlo a přišla úleva. Na jeden zátah dopil svůj půllitřík. Život umí být příjemný, stačí jen chtít. Jako třeba teď. Zvedl nad hlavu prázdný půllitr a zavolal na Frantu, ať sem hodí další.
 
+  
+
 U auta Edelweiss řekl: „Ještě se s váma chci rozdělit.“
 
 „S čím?“ zeptala se Marie.
@@ -877,7 +885,7 @@ Edelweiss se rozesmál. „Co bude teď?“
 
 „Teď jdem za otcem Karasem. Třeba nás taky bude chtít podmazat naturáliema.“
 
-XV.
+## XV.
 
   
 
@@ -1011,13 +1019,15 @@ Kněz vstal a přešel k psacímu stolu. Chvíli hledal v mobilu, pak Marii n
 
 „Dobře,“ podala Marie faráři vizitku, „až budete odjíždět, ozvěte se mi, ať vím, kde vás najdu.“
 
+  
+
 Když došli k autu, Marie se prudce otočila na Edelweisse: „Skutečně nevím, o co vám tam šlo. Takový konfrontační tón nám tady rozhodně nepomůže.“
 
 „Mně se zas zdálo, že jste zapomněla, že je to pořád náš hlavní podezřelý z vraždy,“ odvětil Edelweiss stejným tónem.
 
 „Pitomost!“ Marie nasedla, práskla dveřmi od auta a celou cestu do Olomouce seděla mlčky, pohroužená do myšlenek.
 
-XVI.
+## XVI.
 
   
 

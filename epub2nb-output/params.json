@@ -1,28 +1,32 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Případ pro exorcistu",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Michal Sýkora",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-03-05T00:00:00.000Z"
+      "modified": "2021-03-05T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis",
+      "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
+      "brBefore": "MLP_text_bez1radku \nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_text_bez1radku_-12-0-",
+      "brAfter": "MLP_text_-0-12-\nMLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_dopis_bez1radku_-I-\nMLP_text_-I-\nMLP_text_bez1radku_-I-\nMLP_text_uprostred_-I-",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP_tiraz_autor_a_nazev\n MLP_znak_tucne_11b",
       "remove": "",
       "ignore": ""
     },
@@ -30,6 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "pripad_pro_exorcistu_001.md",
@@ -262,67 +267,67 @@
         "xhtml": "pripad_pro_exorcistu_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ŠTĚPÁNOV U OLOMOUCE",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_006.md",
         "xhtml": "pripad_pro_exorcistu_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PROLOG",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_007.md",
         "xhtml": "pripad_pro_exorcistu_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DEN PRVNÍ čtvrtek 1. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_008.md",
         "xhtml": "pripad_pro_exorcistu_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DEN DRUHÝ pátek 2. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_009.md",
         "xhtml": "pripad_pro_exorcistu_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DEN TŘETÍ sobota 3. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_010.md",
         "xhtml": "pripad_pro_exorcistu_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DEN ČTVRTÝ neděle 4. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_011.md",
         "xhtml": "pripad_pro_exorcistu_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DEN PÁTÝ pondělí 5. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_012.md",
         "xhtml": "pripad_pro_exorcistu_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DEN ŠESTÝ úterý 6. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_013.md",
         "xhtml": "pripad_pro_exorcistu_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DEN SEDMÝ středa 7. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_014.md",
         "xhtml": "pripad_pro_exorcistu_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DEN OSMÝ čtvrtek 8. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_015.md",
         "xhtml": "pripad_pro_exorcistu_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "EPILOG 3. listopad – 22. listopad",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_016.md",
         "xhtml": "pripad_pro_exorcistu_016.xhtml"
@@ -414,6 +419,6 @@
       "user": "books-are-next",
       "repo": "pripad-pro-exorcistu"
     },
-    "generatedAt": 1649090595283
+    "generatedAt": 1649091820934
   }
 }

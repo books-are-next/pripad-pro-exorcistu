@@ -1,11 +1,9 @@
 ---
+title: "EPILOG 3. listopad\_– 22. listopad"
 contentType: prose
 ---
 
-EPILOG  
-3\. listopad – 22. listopad
-
-LXIX.
+## LXIX.
 
   
 
@@ -83,7 +81,7 @@ Karel Karas si objednal další kávu, k tomu zákusek a minerálku. Z aktovk
 
 Servírka donesla věci, které si objednal. Chopil se zákusku a pohled mu přitom padl na vizitku od Marie Výrové. Dobře, proč ne, napadlo ho, třeba má Výrová pravdu a on je opravdu zralý na to, aby mu někdo pomohl. Podíval se na hodinky; tři čtvrtě na pět – ještě by nemuselo být tak pozdě. Vylovil z kapsy mobil a vyťukal číslo.
 
-LXX.
+## LXX.
 
   
 
@@ -102,6 +100,8 @@ Marie začínala tušit, co jí paní Nemravová chce, ale ještě nesebrala dos
 „Víte, Františka Spáčila, toho druhého z policistů, všichni berou jako hrdinu,“ doplnil starosta Liška.
 
 „Mému manželovi se smáli. Pořád se mu smějí,“ řekla paní Nemravová tiše.
+
+  
 
 O další týden později se velký sál štěpánovské sokolovny, kde se obvykle konají zábavy, myslivecké či hasičské plesy a velké obecní schůze, zaplnil do posledního místa. Starosta Liška trval i na přítomnosti Pavla Edelweisse a ten teď spolu s Marií a paní Nemravovou seděl na malém pódiu a zčásti nasupeně a zčásti nevěřícně hleděl na přítomné shromáždění. Starosta Liška akci pojal ve velkém stylu. Nejprve vystoupil pěvecký sbor místní základní školy a zapěl dvě slavnostní a zároveň přiměřeně smuteční písně. Pak promluvil starosta a přivítal diváky a zejména dva vzácné hosty od policie v Olomouci, „kteří svou obětavou prací pomohli k tomu, že Štěpánov je zase klidná a bezpečná obec. Všichni je znáte, milí přátelé, všichni jste je viděli v plném pracovním nasazení, když spolu se svými kolegy vyšetřovali ten strašlivý zločin, nejhorší v osmisetleté historii naší obce.“ Starosta se slavnostně odmlčel. „Vážení přátelé, přivítejte váženou paní majorku a doktorku práv Marii Výrovou a jejího kolegu nadporučíka Pavla Edelweisse.“ Potlesk. Oba jmenovaní hosté povstali. „Připadám si jak v americkým filmu,“ zasyčel Edelweiss Marii do ucha, „tam taky na závěr hrdinům dav tleská.“ Jak stáli, zaregistrovali řadu známých tváří – pečlivou paní Semerádovou, pohostinnou Krňávkovou v houfu dalších důchodkyň (manžel zřejmě zas někde vyspával opici), i manžele Doulovy, kupodivu oba tleskající.
 
@@ -146,6 +146,8 @@ Starosta poděkoval a vyzval všechny přítomné k minutě ticha za tragicky 
 „A na závěr – jako výraz našeho poděkování, rada obce jedno­myslně odsouhlasila, aby dvojici policistů, kteří opět obnovili pořádek a klid v naší krásné a milované obci, byly tímto slavnostně předány čestné klíče od obce. A současně oznamuji, že rada rozhodla, že Štěpánov v příštím roce podá kandidaturu do soutěže o vesnici roku.“
 
 „No to mě teda podržte,“ hlesl Edelweiss. Ale to už se k nim hrnul starosta a oběma jim předal dekrety o udělení čestného klíče vyvedené ozdobným písmem na ručním papíře. Na druhé straně pódia se opět houfoval školní pěvecký sbor.
+
+  
 
 Když vyšli ven, vesnice se halila do mlhy a smogu. Z komínů stoupal těžký černý dým, převaloval se nad střechami a padal do zahrad na černé holé koruny ovocných stromů. Silnice a chodníky se mokře leskly, rozšlapaná tráva se přeměnila v bláto. Kostel sv. Vavřince naproti přes silnici se v mlze změnil v temnou zlověstnou siluetu. Škola tak pozdě odpoledne vypadala jako mrtvá budova, zato na faře se už svítilo.
 
