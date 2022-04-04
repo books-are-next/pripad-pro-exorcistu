@@ -3,7 +3,7 @@ title: DEN PRVNÍ čtvrtek 1. října
 contentType: prose
 ---
 
-## VI.
+VI.
 
   
 
@@ -49,7 +49,7 @@ Prošli tepanou branou, tři schůdky ke kostelu a protáhli se po­otevřeným
 
 Měl pravdu. Něco takového ještě nikdy neviděla.
 
-## VII.
+VII.
 
   
 
@@ -163,7 +163,7 @@ Marie chvátala ke dveřím, a když kněze oslovila, podíval se na ni a pohl
 
 „Veronika. Ona není mrtvá, že? Že žije…?“ odpověděl mladý kněz, jako by vůbec nereagoval na otázku, ale spíš si mluvil sám pro sebe. Marie viděla ten šok, děs na jeho tváři, slzy na tvářích… Viděla už hodně takových situací, manželů, rodičů, dětí reagujících na smrt někoho blízkého, takže dovedla poznat, že knězovo zoufalství není zoufalstvím člověka, který vidí smrt někoho, koho zná, ale je re­akcí na smrt někoho skutečně velmi blízkého. Kněz sedící na dlažbě kostela si přikryl obličej rukama a dal se do pláče. Druhý, starší, v Mariině věku, k němu poklekl a zezadu jej oběma rukama pevně objal.
 
-## VIII.
+VIII.
 
   
 
@@ -317,7 +317,7 @@ Ve výslechové místnosti panovala nervozita. Nikdo ze čtyř přítomných �
 
 Bylo přesně půl jedenácté, když podplukovník Viktor Vitouš zahájil výslech.
 
-## IX.
+IX.
 
   
 
@@ -385,7 +385,7 @@ Efekt jeho slov byl na oba kněze ohromující. Marie vše sledovala a z reakc
 
 „Pane faráři,“ zeptal se Vitouš. „Zabýváte se vymítáním ďábla?“
 
-## X.
+X.
 
   
 
@@ -473,7 +473,7 @@ Proti železné logice hanácké hospodyně nebylo úniku.
 
 „Tak dobře,“ řekl Pavel, „ale jen kousek.“ Další půlka závinu mu přistála na talíři.
 
-## XI.
+XI.
 
   
 
@@ -601,7 +601,7 @@ Vyběhla ze dveří, rychle očima přelétla parkoviště a našla auto otce K
 
 „Nemluvili jste o tom, že odmítáte princip kolektivní viny?“ Farář zakroutil hlavou. Zařadil jedničku a pomalu vyjel z policejního parkoviště.
 
-## XII.
+XII.
 
   
 
@@ -637,7 +637,7 @@ Pět vteřin refrénu a vrčení motoru, pak to strážmistr Purkyně schrousta
 
 „Nechte to být,“ řekla Marie a sama vypnula rádio.
 
-## XIII.
+XIII.
 
   
 
@@ -693,7 +693,7 @@ Pavel se zasmál. „To je teda romantika! Moje tchyně zrovna dočetla _Ptáky 
 
 „Až potom,“ odbyla jej Marie a vzala za kliku.
 
-## XIV.
+XIV.
 
   
 
@@ -885,7 +885,7 @@ Edelweiss se rozesmál. „Co bude teď?“
 
 „Teď jdem za otcem Karasem. Třeba nás taky bude chtít podmazat naturáliema.“
 
-## XV.
+XV.
 
   
 
@@ -1027,7 +1027,7 @@ Když došli k autu, Marie se prudce otočila na Edelweisse: „Skutečně nev�
 
 „Pitomost!“ Marie nasedla, práskla dveřmi od auta a celou cestu do Olomouce seděla mlčky, pohroužená do myšlenek.
 
-## XVI.
+XVI.
 
   
 

@@ -3,7 +3,7 @@ title: "EPILOG 3. listopad\_– 22. listopad"
 contentType: prose
 ---
 
-## LXIX.
+LXIX.
 
   
 
@@ -81,7 +81,7 @@ Karel Karas si objednal další kávu, k tomu zákusek a minerálku. Z aktovk
 
 Servírka donesla věci, které si objednal. Chopil se zákusku a pohled mu přitom padl na vizitku od Marie Výrové. Dobře, proč ne, napadlo ho, třeba má Výrová pravdu a on je opravdu zralý na to, aby mu někdo pomohl. Podíval se na hodinky; tři čtvrtě na pět – ještě by nemuselo být tak pozdě. Vylovil z kapsy mobil a vyťukal číslo.
 
-## LXX.
+LXX.
 
   
 

@@ -3,7 +3,7 @@ title: PROLOG
 contentType: prose
 ---
 
-## I.  
+I.  
 (čtvrtek 3. září)
 
   
@@ -96,7 +96,7 @@ Ploužil se centrem města a co chvíli do něj někdo vrazil. Všude samí tur
 
 Hned při vstupu do knihkupectví vrazil u novinkového regálu do mileneckého páru. Dívka se na něj místo omluvy usmála; Fořt se kolem nich prosmýkl a přitom vrazil do jiného páru. Tohle nesnášel. Proč se, proboha, musejí pořád na sebe takhle lepit! I v těchhle úzkých prostorách, kde zaberou tolik místa, zatímco by měli raději třeba chodit za sebou a vyhýbat se lidem. Lepí se na sebe i v knihkupectví, což je ale už vážně hnus a nic jiného než hnus. Rozhlédl se kolem sebe. Bože, tolik lidí! Zaleze si někam v suterénu do koutku v oddělení poezie nebo lékařských knih, tam snad bude klid a dost místa. Další pár! A další. Holky se smějou, ti jejich jim sahají na zadek, a společně lezou do knihkupectví. Když si chcete připadat jako intelektuálové, tak se tak sakra chovejte! Zamířil ke schodišti do suterénu a švenkl očima po všech těch lidech. Další pár! A najednou se zarazil. Zíral na dvojici u polic s knihami o historii. Toho muže znal, ale v tomhle oblečení jej málem nepoznal. Tulila se k němu pohledná tmavovláska – a právě to na tom bylo nejpodivnější. Byl to on? Vklouzl za regál vedle schodiště a zíral na dvojici. Ano, je to on, o tom nemůže být pochyb. Ale tohle! s holkou a na veřejnosti… A pak mu pozvolna začalo docházet, jakou senzační hodnotu má to, co právě zjistil. Co právě vidí. Kdyby tak měl fotoaparát, aby měl jednoznačný důkaz! Usmál se: pravý čas změnit plány. Někdy se to musí. Konečně, jeho rozhodnutí prožít odpoledne v knihkupectví zas tak pevné nebylo. Dívka si doprohlížela knihu, muž se jí zeptal, jestli ji chce, a ona odvětila, že to nestojí za to. Vrátila ji do regálu a společně se otočili k východu. Richard Fořt vyšel zpoza regálu, počkal, až trochu popojdou, a pak se v bezpečné vzdálenosti, ale tak, aby je neztratil z dohledu, vydal za nimi.
 
-## II.
+II.
 
   
 
@@ -140,7 +140,7 @@ Prosklenými dveřmi vešel do haly kněz.
 
 „Není potřeba,“ odvětil otec Perkner suše a se špatně skrývaným nepřátelstvím. „Už jsme měli tu vzájemnou čest.“
 
-## III.
+III.
 
   
 
@@ -182,7 +182,7 @@ Veronika vystrčila hlavu z kupé. „Děje se něco?“
 
 Ve vedlejším voze, zamčený na záchodě, prudce oddechoval Richard Fořt.
 
-## IV.  
+IV.  
 (středa 16. září)
 
   
@@ -209,7 +209,7 @@ Zvědavost zvítězila. Žena odložila hrnek na noční stolek a vyskočila z�
 
 „Víš, kdo to je?“ zvedl oči ke své společnici.
 
-## V.  
+V.  
 (neděle 27. září)
 
   

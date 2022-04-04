@@ -3,7 +3,7 @@ title: DEN DRUHÝ pátek 2. října
 contentType: prose
 ---
 
-## XVII.
+XVII.
 
   
 
@@ -47,7 +47,7 @@ Marie od včerejška na svého nadřízeného ani jednou přímo nepromluvila, t
 
 „Tak mě, Viktore, dobře poslouchej,“ otočila se k němu Marie. „To, cos včera předvedl s těma farářema, mě tak nasralo, jako už dlouho nic. S loajalitou to nemá nic společnýho. Kdybychom teď nebyli uprostřed vyšetřování vraždy, klidně bych tě nechala v tom průseru vykoupat. Protože když už tak oceňuješ můj nezávislý názor, tak si pamatuj, že s tou stížností na tebe se já plně ztotožňuju. Takže tě žádám, velmi důrazně tě žádám, ať se dál nepleteš do _mýho_ vyšetřování, protože pak bys taky mohl poznat, že má loajalita má svý hranice!“
 
-## XVIII.
+XVIII.
 
   
 
@@ -85,7 +85,7 @@ Další dotazy už nebyly, až na Pavla Edelweisse: „Úkol pro mě?“
 
 „My půjdeme k našemu milému patologovi.“
 
-## XIX.
+XIX.
 
   
 
@@ -243,7 +243,7 @@ Marie se usmála. „Proto s ním dělám.“
 
 Otevřely se dveře a dovnitř nakoukl Edelweiss s mobilem v ruce. „To byl Kodet. Našli tu spolubydlící.“
 
-## XX.
+XX.
 
   
 
@@ -301,7 +301,7 @@ Edelweiss zvedl hlavu, jako by v nadýchaných obláčcích prohánějících s
 
 „No, tak to zatím ještě nevíme,“ řekla Marie. „Ale třeba se to dozvíme zrovna teď u Veroniky doma.“
 
-## XXI.
+XXI.
 
   
 
@@ -325,7 +325,7 @@ Paní Skácelová na zápraží kývla na znamení souhlasu.
 
 Teď už to konečně pochopila. Přijala z jeho ruky vizitku, bez brýlí na ni stejně neviděla, a pozvala arcibiskupského pověřence Timothea Suchého dál.
 
-## XXII.
+XXII.
 
   
 
@@ -369,7 +369,7 @@ Marie se dívala předním oknem ven na cvrkot na ulici.
 
 Pavel Edelweiss nastartoval vůz a vyjeli.
 
-## XXIII.
+XXIII.
 
   
 
@@ -401,7 +401,7 @@ Marie vyšla z kanceláře a sháněla se po Edelweissovi. Kristýna Horová j
 
 „Až přijde Edelweiss,“ na to Marie a zase se zavřela v kanceláři.
 
-## XXIV.
+XXIV.
 
   
 
@@ -457,7 +457,7 @@ A tím rozhovor skončil. Perkner okamžitě odešel ze studia. Šoko­vaný ro
 
 „Co tak se zeptat přímo u zdroje?“ navrhl Edelweiss.
 
-## XXV.
+XXV.
 
   
 
@@ -473,7 +473,7 @@ Hleděl z okna na svůj kostel. Došlo mu, že se vlastně ani nerozloučil se 
 
 „Tady je Výrová, pane faráři. Právě jsme s kolegy poslouchali vaše vystoupení v rozhlase. Řekněte mi, co se stalo ve Wiesbadenu v březnu 1990?“
 
-## XXVI.
+XXVI.
 
   
 
@@ -485,7 +485,7 @@ Nebyl to zrovna vývoj událostí, jaký si Fořt představoval. V poslední do
 
 Otočil se a pomalu se vydal k autobusové zastávce, aby se vrátil zpět do Olomouce a mohl promyslet další kroky. Proto si nevšiml, jak se brána fary otevřela a obezřetně z ní vycouvala zelená felicie s farářem Karasem za volantem. Farář krátce promluvil s policistou, který odeslal pryč televizní redaktory, cosi mu podal a policista vešel na faru a sám za vycouvavší felicií bránu zavřel. Fořt přešel silnici k zastávce směrem na Olomouc, udělal pár kroků a mechanicky se ohlédl k autu, které projíždělo kolem. Karase za volantem okamžitě poznal, farář se však natolik soustředil na cestu před sebou, že si Fořta nevšiml. Ten pohledem sledoval odjíždějící vůz a pak si v přístřešku autobusové zastávky sedl na lavičku a přemýšlel.
 
-## XXVII.
+XXVII.
 
   
 
@@ -583,7 +583,7 @@ Marie konečně promluvila: „Řeknu vám jen tohle, pane kolego. Dokažte to. 
 
 Pavel Edelweiss mávl rukou a jen řekl: „Údernice v policejních složkách! Tak si pojď pro ten film…“
 
-## XXVIII.
+XXVIII.
 
   
 

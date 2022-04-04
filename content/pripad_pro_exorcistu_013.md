@@ -3,7 +3,7 @@ title: DEN ŠESTÝ úterý 6. října
 contentType: prose
 ---
 
-## XLIII.
+XLIII.
 
   
 
@@ -15,7 +15,7 @@ Lehce se osprchovala a převlékla do pyžama. V posteli musela několikrát p
 
 Kristýnu roztřásla zima a už zas potřebovala na záchod. Šla se vyčurat a opět se zachumlala do peřin. Vyčerpávající únava volala po spánku, ale sotva zavřela oči, ten obraz byl zpět. Dlouhá chodba, obdélník světla, výhrůžná silueta. Kristýna vyskočila z postele a znovu se ztuhle potácela na záchod. Posadila se na mísu, vzala hlavu do dlaní a dala se do usedavého pláče.
 
-## XLIV.
+XLIV.
 
   
 
@@ -69,7 +69,7 @@ Dr. Anděl ve své pracovně zvedl hlavu od psaní pitevní zprávy a to, že v
 
 „Aspoň nějaké dobré zprávy,“ řekl Edelweiss a ztěžka vstal z křesla.
 
-## XLV.
+XLV.
 
   
 
