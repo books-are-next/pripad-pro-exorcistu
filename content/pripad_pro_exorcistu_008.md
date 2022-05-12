@@ -1,5 +1,5 @@
 ---
-title: DEN PRVNÍ čtvrtek 1. října
+title: DEN PRVNÍ čtvrtek 1\. října
 contentType: prose
 ---
 

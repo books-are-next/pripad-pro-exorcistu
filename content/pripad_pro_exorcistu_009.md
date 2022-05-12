@@ -1,5 +1,5 @@
 ---
-title: DEN DRUHÝ pátek 2. října
+title: DEN DRUHÝ pátek 2\. října
 contentType: prose
 ---
 

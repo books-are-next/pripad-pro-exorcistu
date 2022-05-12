@@ -1,5 +1,5 @@
 ---
-title: DEN OSMÝ čtvrtek 8. října
+title: DEN OSMÝ čtvrtek 8\. října
 contentType: prose
 ---
 

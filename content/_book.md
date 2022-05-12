@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - pripad_pro_exorcistu_002.html
+  - promo.html
   - pripad_pro_exorcistu_004.html
   - pripad_pro_exorcistu_006.html
   - pripad_pro_exorcistu_007.html

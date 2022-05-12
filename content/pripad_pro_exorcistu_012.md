@@ -1,5 +1,5 @@
 ---
-title: DEN PÁTÝ pondělí 5. října
+title: DEN PÁTÝ pondělí 5\. října
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: DEN SEDMÝ středa 7. října
+title: DEN SEDMÝ středa 7\. října
 contentType: prose
 ---
 

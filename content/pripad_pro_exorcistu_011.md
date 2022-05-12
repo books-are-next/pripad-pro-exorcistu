@@ -1,5 +1,5 @@
 ---
-title: DEN ČTVRTÝ neděle 4. října
+title: DEN ČTVRTÝ neděle 4\. října
 contentType: prose
 ---
 
