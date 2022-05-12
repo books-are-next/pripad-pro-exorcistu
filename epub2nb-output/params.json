@@ -52,7 +52,7 @@
             "filename": "pripad_pro_exorcistu_002.md",
             "xhtml": "pripad_pro_exorcistu_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -308,55 +308,55 @@
         "xhtml": "pripad_pro_exorcistu_007.xhtml"
       },
       {
-        "titleSuggest": "DEN PRVNÍ čtvrtek 1. října",
+        "titleSuggest": "DEN PRVNÍ čtvrtek 1\\. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_008.md",
         "xhtml": "pripad_pro_exorcistu_008.xhtml"
       },
       {
-        "titleSuggest": "DEN DRUHÝ pátek 2. října",
+        "titleSuggest": "DEN DRUHÝ pátek 2\\. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_009.md",
         "xhtml": "pripad_pro_exorcistu_009.xhtml"
       },
       {
-        "titleSuggest": "DEN TŘETÍ sobota 3. října",
+        "titleSuggest": "DEN TŘETÍ sobota 3\\. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_010.md",
         "xhtml": "pripad_pro_exorcistu_010.xhtml"
       },
       {
-        "titleSuggest": "DEN ČTVRTÝ neděle 4. října",
+        "titleSuggest": "DEN ČTVRTÝ neděle 4\\. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_011.md",
         "xhtml": "pripad_pro_exorcistu_011.xhtml"
       },
       {
-        "titleSuggest": "DEN PÁTÝ pondělí 5. října",
+        "titleSuggest": "DEN PÁTÝ pondělí 5\\. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_012.md",
         "xhtml": "pripad_pro_exorcistu_012.xhtml"
       },
       {
-        "titleSuggest": "DEN ŠESTÝ úterý 6. října",
+        "titleSuggest": "DEN ŠESTÝ úterý 6\\. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_013.md",
         "xhtml": "pripad_pro_exorcistu_013.xhtml"
       },
       {
-        "titleSuggest": "DEN SEDMÝ středa 7. října",
+        "titleSuggest": "DEN SEDMÝ středa 7\\. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_014.md",
         "xhtml": "pripad_pro_exorcistu_014.xhtml"
       },
       {
-        "titleSuggest": "DEN OSMÝ čtvrtek 8. října",
+        "titleSuggest": "DEN OSMÝ čtvrtek 8\\. října",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_015.md",
         "xhtml": "pripad_pro_exorcistu_015.xhtml"
       },
       {
-        "titleSuggest": "EPILOG 3. listopad – 22. listopad",
+        "titleSuggest": "EPILOG 3\\. listopad – 22\\. listopad",
         "subtitleSuggest": "",
         "filename": "pripad_pro_exorcistu_016.md",
         "xhtml": "pripad_pro_exorcistu_016.xhtml"
@@ -448,6 +448,6 @@
       "user": "books-are-next",
       "repo": "pripad-pro-exorcistu"
     },
-    "generatedAt": 1649092688451
+    "generatedAt": 1652351564222
   }
 }

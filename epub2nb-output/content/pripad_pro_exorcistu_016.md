@@ -1,5 +1,5 @@
 ---
-title: "EPILOG 3. listopad\_– 22. listopad"
+title: "EPILOG 3\\. listopad\_– 22\\. listopad"
 contentType: prose
 ---
 

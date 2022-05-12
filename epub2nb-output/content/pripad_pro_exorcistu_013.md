@@ -1,5 +1,5 @@
 ---
-title: DEN ŠESTÝ úterý 6. října
+title: DEN ŠESTÝ úterý 6\. října
 contentType: prose
 ---
 

@@ -1,22 +1,39 @@
 {
-  "author": "Michal Sýkora",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "sykora-pripad-pro-exorcistu-368411f",
-  "languagecode": "cs",
-  "modified": "2021-03-05T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Případ pro exorcistu",
-  "revision": "368411f",
+  "author": "Michal Sýkora",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "sykora-pripad-pro-exorcistu-cdde1f9",
+  "revision": "cdde1f9",
+  "readingOrder": [
+    "promo.html",
+    "pripad_pro_exorcistu_004.html",
+    "pripad_pro_exorcistu_006.html",
+    "pripad_pro_exorcistu_007.html",
+    "pripad_pro_exorcistu_008.html",
+    "pripad_pro_exorcistu_009.html",
+    "pripad_pro_exorcistu_010.html",
+    "pripad_pro_exorcistu_011.html",
+    "pripad_pro_exorcistu_012.html",
+    "pripad_pro_exorcistu_013.html",
+    "pripad_pro_exorcistu_014.html",
+    "pripad_pro_exorcistu_015.html",
+    "pripad_pro_exorcistu_016.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Apr 04 2022 17:19:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649092744005
+    "date": "Thu May 12 2022 10:42:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352127597
   },
   "documents": [
     {
-      "title": "Případ pro exorcistu",
-      "file": "pripad_pro_exorcistu_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +41,7 @@
       "order": 0,
       "prev": null,
       "next": "pripad_pro_exorcistu_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Případ pro exorcistu",
@@ -42,7 +51,7 @@
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "pripad_pro_exorcistu_002.html",
+      "prev": "promo.html",
       "next": "pripad_pro_exorcistu_006.html",
       "toc": [
         {
@@ -55,7 +64,7 @@
       ]
     },
     {
-      "title": "ŠTĚPÁNOV U OLOMOUCE • Případ pro exorcistu",
+      "title": "ŠTĚPÁNOV U OLOMOUCE",
       "file": "pripad_pro_exorcistu_006.html",
       "words": 144,
       "chars": 1040,
@@ -75,7 +84,7 @@
       ]
     },
     {
-      "title": "PROLOG • Případ pro exorcistu",
+      "title": "PROLOG",
       "file": "pripad_pro_exorcistu_007.html",
       "words": 3464,
       "chars": 21078,
@@ -95,7 +104,7 @@
       ]
     },
     {
-      "title": "DEN PRVNÍ čtvrtek 1. října • Případ pro exorcistu",
+      "title": "DEN PRVNÍ čtvrtek 1. října",
       "file": "pripad_pro_exorcistu_008.html",
       "words": 13239,
       "chars": 81255,
@@ -115,7 +124,7 @@
       ]
     },
     {
-      "title": "DEN DRUHÝ pátek 2. října • Případ pro exorcistu",
+      "title": "DEN DRUHÝ pátek 2. října",
       "file": "pripad_pro_exorcistu_009.html",
       "words": 11383,
       "chars": 70120,
@@ -135,7 +144,7 @@
       ]
     },
     {
-      "title": "DEN TŘETÍ sobota 3. října • Případ pro exorcistu",
+      "title": "DEN TŘETÍ sobota 3. října",
       "file": "pripad_pro_exorcistu_010.html",
       "words": 2694,
       "chars": 16796,
@@ -155,7 +164,7 @@
       ]
     },
     {
-      "title": "DEN ČTVRTÝ neděle 4. října • Případ pro exorcistu",
+      "title": "DEN ČTVRTÝ neděle 4. října",
       "file": "pripad_pro_exorcistu_011.html",
       "words": 1946,
       "chars": 12016,
@@ -175,7 +184,7 @@
       ]
     },
     {
-      "title": "DEN PÁTÝ pondělí 5. října • Případ pro exorcistu",
+      "title": "DEN PÁTÝ pondělí 5. října",
       "file": "pripad_pro_exorcistu_012.html",
       "words": 15192,
       "chars": 91272,
@@ -195,7 +204,7 @@
       ]
     },
     {
-      "title": "DEN ŠESTÝ úterý 6. října • Případ pro exorcistu",
+      "title": "DEN ŠESTÝ úterý 6. října",
       "file": "pripad_pro_exorcistu_013.html",
       "words": 1225,
       "chars": 7239,
@@ -215,7 +224,7 @@
       ]
     },
     {
-      "title": "DEN SEDMÝ středa 7. října • Případ pro exorcistu",
+      "title": "DEN SEDMÝ středa 7. října",
       "file": "pripad_pro_exorcistu_014.html",
       "words": 10051,
       "chars": 60274,
@@ -235,7 +244,7 @@
       ]
     },
     {
-      "title": "DEN OSMÝ čtvrtek 8. října • Případ pro exorcistu",
+      "title": "DEN OSMÝ čtvrtek 8. října",
       "file": "pripad_pro_exorcistu_015.html",
       "words": 11993,
       "chars": 72343,
@@ -255,7 +264,7 @@
       ]
     },
     {
-      "title": "EPILOG 3. listopad – 22. listopad • Případ pro exorcistu",
+      "title": "EPILOG 3. listopad – 22. listopad",
       "file": "pripad_pro_exorcistu_016.html",
       "words": 3695,
       "chars": 22567,
@@ -275,11 +284,11 @@
       ]
     },
     {
-      "title": "Tiráž • Případ pro exorcistu",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 151,
-      "chars": 1015,
-      "ideas": 25,
+      "words": 130,
+      "chars": 859,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "pripad_pro_exorcistu_016.html",
@@ -297,9 +306,9 @@
   ],
   "totals": {
     "all": {
-      "words": 75217,
-      "chars": 457235,
-      "ideas": 2692
+      "words": 75196,
+      "chars": 457079,
+      "ideas": 2685
     },
     "chapters": {
       "words": 75059,

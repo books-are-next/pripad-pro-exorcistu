@@ -1,5 +1,5 @@
 ---
-title: DEN TŘETÍ sobota 3. října
+title: DEN TŘETÍ sobota 3\. října
 contentType: prose
 ---
 
