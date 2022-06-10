@@ -3,9 +3,13 @@ title: DEN TŘETÍ sobota 3\. října
 contentType: prose
 ---
 
+<section>
+
 XXIX.
 
-  
+</section>
+
+<section>
 
 „Jak se ti líbil film?“ zeptal se v sobotu ráno Pavel Edelweiss své mladší kolegyně. Už byl v kanceláři, když dorazila – bledá, unavená, nenalíčená, s kruhy pod očima.
 
@@ -15,7 +19,9 @@ XXIX.
 
 Marie Výrová dorazila po deváté. Už to vypadalo, že budou celé dopoledne prodiskutovávat různé aspekty případu, když v deset hodin zavolala služba na vrátnici, že se dostavil nějaký člověk, aby poskytl informace k vraždě v kostele ve Štěpánově.
 
-  
+</section>
+
+<section>
 
 Uniformovaný policista uvedl do výslechové místnosti vysokého hubeného muže s delšími šedými vlasy, neurčitelného věku. První, co Marii napadlo, bylo, že rčení _šaty dělaj člověka_ není pravdivé. Muž měl na sobě dvouřadý šedý oblek s proužkem, který mu zoufale neseděl, ne snad proto, že by měl špatnou velikost, ale protože jeho vlastník na první pohled neuměl obleky nosit. Když bezdomovce vypulírujete, napadlo Marii, a navlečete jej do obleku od Bosse nebo Armaniho, stejně každý pozná, že jde o bezdomovce. Oblek, který měl muž na sobě, byl beznadějně konfekční a svým střihem zapomenutý někde v éře podnikatelských sak začátku 90. let. Muž se v něm pohyboval tak toporně, že bylo okamžitě zřejmé, že obleky nejsou jeho styl. Bílá košile měla límeček sepraný do žluta, uzel na kravatě se širokými pruhy ve třech odstínech šedi, jaké se nosily v osmdesátých letech, vypadal, jako by jej uvázali před půlstoletím a od té doby si kravatu její majitelé pouze přetahovali přes hlavu. Věk příchozího šlo určit jen obtížně; působil sešle, neupraveně, a to i tehdy, když – jako nyní – měl kůži na obličeji zmodralou od čerstvého oholení, jež se však neobešlo bez několika škrábanců na téměř stařecky volné kůži na tenkém krku.
 
@@ -127,7 +133,9 @@ Uniformovaný policista vyprovodil Richarda Fořta ven. Ve výslechové místnos
 
 XXX.
 
-  
+</section>
+
+<section>
 
 Venku na ulici si Richard Fořt povolil uzel na kravatě a rozepnul si horní knoflíček u košile. Nechápal, co se děje. Včera na Karase poštval televizi, večer marně čekal u zpráv – myslel si, že taková bomba bude událostí dne – ale nic se nedělo. Netušil samozřejmě, že Marie Výrová měla s televizním redaktorem, jejž Fořt na Karase poštval, dlouhý telefonický rozhovor, který ukončily dva sliby – ze strany televizního redaktora o pozdržení veškerého dosud natočeného materiálu, ze strany Marie týkající se exkluzivního rozhovoru.
 
@@ -139,7 +147,9 @@ Poslední dobou se mu nic nedaří. Každou chvíli jeho plány něco zhatilo a�
 
 XXXI.
 
-  
+</section>
+
+<section>
 
 Přesně o půl desáté večer Kristýna Horová v kanceláři vytiskla poslední list a vložila jej do tuhé modré papírové složky nadepsané _Richard Fořt_ – splnění úkolu na dnešní odpoledne, prověření toho, co jim člověk, jehož jméno složka nesla, navykládal. Velká Sova se zítra bude divit. Chtělo se jí strašně spát, ale nechtělo se jí jít domů. Po dnešní hrůzné noci se její byt stal místem nejen osamělým a prázdným, ale i jaksi divně hrůzostrašným a nehostinným. Chvíli jen tak seděla před vypnutým počítačem a sbírala síly a kuráž. Pak ale rázně vstala: Je velká holka, musí se se strachem poprat. Žádní duchové, žádný Satan. Ze skříně poltergeist nevyleze, i když jedna z jejích kamarádek si myslí pravý opak a vždy před spaním překontroluje, zdali má všechny skříně, skříňky a komody pečlivě uzavřené. Vzpomněla si na ni a zasmála se. Ona taková poťáplina není. Vypnula služební počítač, sbalila si kabelku, pozhasínala světla, zamkla kancelář a vydala se domů.
 
@@ -147,10 +157,14 @@ Ve stejnou chvíli se Eva Edelweissová uvelebila svému manželovi v klíně, 
 
 To Marii Výrovou při sledování stejného filmu nic nerušilo. Na­táhla se na gauči v pevném rozhodnutí nemyslet na případ, což se jí celkem dařilo. Nicméně ani ona se nedozvěděla, jak film skončil, a vlastně z něj viděla ještě méně než její kolega – než film přerušil první reklamní blok, Marie tvrdě a nerušeně spala.
 
-  
+</section>
+
+<section>
 
 Ve svém voze zaparkovaném na příjezdové cestě ke hřbitovu a kostelu svatého Vavřince ve Štěpánově podřimoval, byť ne tvrdě a nerušeně, i strážmistr Pacák. Místo činu bylo stále ještě zajištěné, ale on ani nečekal, že by se je kdokoliv pokusil narušit. Seděl v autě sám, poslouchal v rádiu zaručené české hity z jakési rozhlasové stanice, sem tam se zasmál žoviálním řečem rozhlasového moderátora, ale po půlnoci se z vesnice vytratily veškeré známky života, hospoda opodál zavřela a naprosté ticho rušilo jen příležitostné zaštěkání psa v dálce, šumění větru v korunách kratičké lipové aleje, pod níž Pacák zaparkoval služební vůz, a bzučení jedné z pouličních lamp. Ve tři čtvrtě na dvě jej z polospánku cosi vytrhlo. Zamžikal očima a zpozorněl. Rozhlédl se, ale všechno se zdálo, jak má být. Prázdná ulice, natažená policejní páska kolem hřbitovní brány, setmělá fara. Vystoupil z auta a protáhl se. Včerejší večeře už prošla zažívacím traktem a on přemýšlel, kde by si ulevil. Bokem u hřbitovní zdi vedle kontejnerů na odpad stála obecní TOI budka, zřejmě aby návštěvníci hřbitova nemočili na kostel. Už v ní dnes jednou byl a vzhledem k tomu, že někdo z jeho předchůdců neměl zcela zvládnuté hygienické návyky, nechtělo se mu se do budky vracet, nemluvě o skutečnosti, že správa obce rezignovala na snahu nechávat třikrát denně doplňovat toaletní papír, který si místní důchodkyně setrvale odnášely pro soukromou potřebu navzdory důrazné výzvě, aby tak nečinily, podepsané samým starostou. Vzpomněl si, že Velká Sova dala hlídkám za úkol dohlédnout i na spěšně opuštěnou faru, k čemuž dal sám pan farář k dispozici klíče. Rozhodl se ihned – konečně nejde tam krást a i policajti mají právo na důstojné vyměšování. Z přihrádky vzal klíče, zamkl policejní auto a přeběhl silnici. Velký klíč na dřevěná vrata, tenhle menší bude od fabky vchodových dveří.
 
 Prázdná fara působila děsivě – nevelká okna dovnitř nevpouštěla příliš světla, dlouhá temná předsíň se táhla napříč domem, opatřena mnoha temnými výklenky, které ukrývaly dveře do pokojů. Očistil si boty o rohožku, nahmatal vypínač a chodba se zelenkavě rozsvítila. Připadalo mu to divné, ale pak mu došlo, že dojem nazelenalého světla způsobují zeleně natřené zdi. Položil klíče na starou skříňku vedle dveří. Otevřel první dveře. Pokoj. Zkusil to z druhé strany. Komora, spíž, nebo něco takového. Dveře vedle – ano, trefa.
 
 O deset minut později se porozhlédl po faře, v koupelně si opláchl obličej, v kuchyni si natočil do sklenky čerstvou vodu z vodovodu a vydatně se napil. Podíval se na hodinky – ještě čtyři hodiny, než ho v šest přijde někdo vystřídat. Sebral klíče a otevřel dveře – než vůbec stačil zareagovat, temná postava za nimi máchla oběma rukama a rána dřevěným polenem přímo přes levou stranu obličeje vyřadila strážmistra Pacáka na pár hodin ze všech služebních povinností.
+
+</section>

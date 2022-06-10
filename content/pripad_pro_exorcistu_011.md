@@ -3,9 +3,13 @@ title: DEN ČTVRTÝ neděle 4\. října
 contentType: prose
 ---
 
+<section>
+
 XXXII.
 
-  
+</section>
+
+<section>
 
 Telefon zazvonil o tři čtvrtě na šest. Jednou, než Marii Výrové došlo, co se děje, podruhé, než se vyhrabala z peřin (od televize do postele se přesunula někdy kolem čtvrt na dvě) a rozlepila oči, a potřetí – ale to už zvedla. Věděla, že se něco stalo, protože to byl Pavel Edelweiss. Stručně ji informoval. Asi tam musíme jet, že? No, to musíme. Zvládnete to do dvaceti minut? A vy? Dobře, za čtvrt hodiny mě vyzvedněte.
 
@@ -141,7 +145,9 @@ Z rozměrné tašky vytáhl velký papírový pytlík a také termosku. „Je�
 
 Na tváři obecního strážníka Nemravy se rozlil úsměv: po ničem jiném netoužil.
 
-  
+</section>
+
+<section>
 
 O půl hodiny později se Marie s Edelweissem spokojeně rozvalili na lavičce. Nedělní říjnové ráno náhle získalo mnohem příjemnější kontury. Před farou zastavila červená Toyota Aygo a z ní vystoupila Kristýna Horová. Rozhlédla se okolo, pak se sklonila zpět do auta a z místa spolujezdce vytáhla papírovou složku.
 
@@ -174,3 +180,5 @@ Oslovená přisvědčila. „Tak, Pavle, jeďte domů. My už to tady zvládnem.
 „Mám tady ještě něco…“ Kristýna zalovila ve složce. „Napadlo mě podívat se, kdo by tak mohl být oním Veroničiným neznámým milencem. Tím ženáčem, kterej ji učil. Vyjela jsem seznam lidí na katedře zoologie.“
 
 Marie se zadívala na list papíru. Dívala se na seznam jmen a najednou se dostavil pocit, který už dobře znala a který nesnášela: nervózní jistota, že na něco zapomněla, že jí něco uniklo. Jedno ze jmen vypadalo tak povědomě. Vstala, zadumaně si poklepávajíc prstem na bradu, prošla deset kroků dopředu směrem k otevřeným vratům. Vyhlédla na ulici, na budovu školy šikmo naproti. Na kraji chodníku se tam nad silnici nakláněl kandelábr. Trochu nakřivo, opatřený reklamním poutačem. Ničím se nelišil od ostatních v ulici. A to právě Marii připadalo zajímavé.
+
+</section>

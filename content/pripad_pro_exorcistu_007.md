@@ -3,10 +3,14 @@ title: PROLOG
 contentType: prose
 ---
 
+<section>
+
 I.  
 (čtvrtek 3. září)
 
-  
+</section>
+
+<section>
 
 Jedenatřicáté narozeniny oslavil Richard Fořt teprve na jaře, ale každý mu hádal aspoň o deset patnáct let víc. Typově Richard Fořt patřil k té podivné skupině mužů, jimž se jakýmsi danajským darem přírody dařilo vždy a za všech okolností vypadat sešle. Fořt s tím nebojoval, svůj ošuntělý zevnějšek nikterak nezveleboval, a díval-li se do zrcadla, což se stávalo při každém nepravidelném holení, činil tak vždy lhostejně a rozhodně ne z důvodů estetických. Byl hubený až k asketické vyzáblosti, vysoký, s delšími šedými vlasy. Ten den si jako obvykle oblékl své černé džíny, šedé triko, sešlou modrou šusťákovou bundu a přes rameno si přehodil odřenou hnědou aktovku, která dobře ladila s hnědými sešlapanými polobotkami. Když mu sekretářka Akademického nakladatelství přišla otevřít, na zlomek sekundy si myslela, že před ní stojí bezdomovec.
 
@@ -84,7 +88,9 @@ Fořt vstal a bez rozloučení odešel.
 
 Redaktor Rosenbaum byl už zvyklý na ledacos. Před časem mu jedna zavrhnutá básnířka (to ještě působil u jiného nakladatelství) bez jakékoliv logické souvislosti vmetla nad vráceným rukopisem do obličeje, že je agent s atomovými zbraněmi. Zvykl si. Nechápal sice, ale neprotestoval. Vzhledem k tomu, že se Fořt už vrátit nehodlal, pokračoval v přípravě edičního plánu. Ale ten název, mihlo mu hlavou. _Satan dnes!_ Ten člověk fakt musí být blázen.
 
-  
+</section>
+
+<section>
 
 Ve skutečnosti Fořtova kniha zdaleka nebyla tak senzační, jak napovídal její název, což lektor ve svém odmítavém posudku neopomněl zdůraznit. Fořtovi neznámý lektor (mladý asistent z pražské filozofické fakulty; rozhodně tedy ani jeden z těch, které autor spisku sám podezříval) rukopis nemilosrdně označil za unikátní dílo v tom, jak se autorovi podařilo spojit zdánlivě nespojitelné: divoké spekulace a suchopárnou nudu. Vyslovil dokonce i nesmělé podezření, zdali to není čirá fikce. Lektor byl zapálený odborník přes náboženské sekty, ale o tom, co si přečetl ve Fořtově třísetstránkovém konvolutu, nikdy neslyšel. Hledal v odborné literatuře, dokonce pátral i po literatuře, ke které odkazoval Fořt (ne že by se to dělo zas tak často), ale s nulovým výsledkem. Na chvíli zapochyboval o své erudici i o oprávněnosti svého pět let starého doktorátu, ale pak to hodil za hlavu a v posudku označil autora za grafomana bez špetky stylistického talentu. Nebyl první, kdo si tohle myslel.
 
@@ -98,7 +104,9 @@ Hned při vstupu do knihkupectví vrazil u novinkového regálu do mileneckého
 
 II.
 
-  
+</section>
+
+<section>
 
 Vstup z Vinohradské ulice zavřeli kvůli stavebním úpravám, takže Karel Karas musel obejít blok, aby se do Českého rozhlasu dostal zadem. Na město padal zářijový podvečer, na Karla Karase únava: dnes ale prožil jeden z nejkrásnějších dnů svého života, to si uvědomoval zcela jasně, intenzivně, zahlcen pocitem romantického štěstí. Usmál se. Jakýsi muž vycházel z budovy, otevřel mu dveře a Karas poděkoval. Celý den strávil s Veronikou. Do Prahy přijeli ranním pendolinem, chodili po památkách, společně, ruku v ruce, v objetí, společně všechny ty věci, které doma nemohli… Pocit závratného štěstí ho utvrdil, že jeho rozhodnutí bylo, je a bude správné, že odchod je nezbytný a nutný. Ve společných chvílích našli zálibu v tom plánovat si, jaké to bude, až konspirace skončí, až si _spolu_ vyjdou na procházku, na výlet, do kina, do restaurace, na koncert, budou se moci držet za ruku a nebudou se muset skrývat, přetvařovat, lhát. Spolu, spolu.
 
@@ -142,7 +150,9 @@ Prosklenými dveřmi vešel do haly kněz.
 
 III.
 
-  
+</section>
+
+<section>
 
 Vlak hučel, na výhybkách se třásl a v zatáčkách kymácel. Za okny se fialověla noc. Podařilo se jim najít prázdné kupé, zhasli v něm světlo. Karel Karas si sedl k oknu, Veronika mu položila hlavu do klína a nohy si natáhla přes volná sedadla. Prsty jí jezdil ve vlasech a namotával si pramínky na ukazováčky. Právě jí převyprávěl průběh předčasně ukončené rozhlasové debaty – jak se jeho názorový oponent v jednu chvíli zvedl a teatrálně opustil studio. Redaktor Havlíček nicméně i přesto rozhodl, že debata se odvysílá.
 
@@ -185,7 +195,9 @@ Ve vedlejším voze, zamčený na záchodě, prudce oddechoval Richard Fořt.
 IV.  
 (středa 16. září)
 
-  
+</section>
+
+<section>
 
 Jan Pánek seděl ve své pracovně a na monitoru počítače se pomocí myši snažil vyladit obraz. Černobílý záznam ukazoval poněkud roz­ostřenou ulici mírně se stáčející doleva; kamera na vše pohlížela z výšky a sem tam se v jejím zorném poli ukázala nejasná postava, která trhanými pohyby přešla přes cestu nebo dál pokračovala po chodníku, až zmizela ze záběru. V zatáčce stál oprýskaný dům bez předzahrádky, s vysokými vraty do dvora. Přes ulici kamera zabírala rozmlžený parčík. Jan Pánek kurzorem myši klikal na jednotlivé postavy na obrazovce, zastavoval záznam a snažil se obraz zvětšit a zaostřit, aby poznal tvář. Do záběru škubavě vjelo auto, překo­drcalo se zatáčkou a zase zmizelo. Pánek vrátil záznam zpět a pokusil se vyladit obraz tak, aby SPZ byla čitelná. V levém horním rohu obrazovky se v záběru objevila dívčí postava, zastavila se u velkých dřevěných vrat, rozhlédla se a vešla dovnitř. Pánek klikl myší, zastavil záznam a vrátil jej zpět. Klikl na postavičku a zvětšil ji. Něco naťukal na klávesnici a obraz se zaostřil. Pánek byl spokojený, že zařízení konečně začalo správně pracovat.
 
@@ -212,7 +224,9 @@ Zvědavost zvítězila. Žena odložila hrnek na noční stolek a vyskočila z�
 V.  
 (neděle 27. září)
 
-  
+</section>
+
+<section>
 
 Nedělní polední mše skončila před deseti minutami. Kněz Stárek dle svého zvyku sledoval, jak se týden po týdnu řídnoucí skupinka věřících postupně a vzhledem k věku a zdravotnímu stavu přítomných i velmi pozvolna vydává k odchodu.
 
@@ -257,3 +271,5 @@ Kněz položil svou dlaň na Karasovo zápěstí, složené na kostelní lavici.
 „Její spolubydlící mi řekla, že od pátku je pryč.“
 
 Kněz malou chvíli bezradně mlčel. „Pomodlíme se spolu?“ navrhl potom.
+
+</section>
