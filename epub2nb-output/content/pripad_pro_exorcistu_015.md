@@ -3,13 +3,19 @@ title: DEN OSMÝ čtvrtek 8\. října
 contentType: prose
 ---
 
+<section>
+
 LIII.
 
-  
+</section>
+
+<section>
 
 Marii je dvacet pět let. Leží s manželem na pláži. Svatební cesta. Bělostný písek, vyšisovaná blankytná obloha, zelenošedé moře, stříbrná pěna vln. Ozývá se křik. Marie se zvedá. Na břehu leží mrtvý delfín, vedle další. Kam oko dohlédne, na písku umírají delfíni. Desítky zvířat. Lidé se sbíhají a z dálky zvoní telefon. Ten zvuk se přibližuje, jak Marie běží k umírajícím zvířatům. Rozhlíží se a to zvonění najednou přichází z nitra nejbližšího delfína…
 
-  
+</section>
+
+<section>
 
 Marie navyklým pohybem hrábla na noční stolek a nahmatala mobil. Šest hodin! Slepenýma očima zamžourala na displej, kdo volá, a pak zmáčkla tlačítko pro přijetí hovoru. „Jestli to není něco důležitýho, tak ve chvíli, kdy mi začne pracovní doba, obdržíš mou hodinovou výpověď,“ řekla.
 
@@ -41,7 +47,9 @@ Marie se vyhrabala z postele a ze skříně vytáhla župan. Cinkl zvonek. Mar
 
 Svého šéfa přivítala se zubním kartáčkem v ústech. Cosi zahuhlala, z čehož Viktor Vitouš vyrozuměl, že má jít dál.
 
-  
+</section>
+
+<section>
 
 O pět minut později už společně seděli v kuchyni a čekali, až dobublá kávovar. Viktor Vitouš podával Marii zprávu o nočních událostech. Kolem půl dvanácté někdo zavolal na tísňovou linku a nahlásil, že nějaký muž v Jílové ulici hodil do kontejneru cosi, co vypadalo jako tělo. Dokonce uvedl i „espézetku“ auta, kterým měl muž přijet. Poslali tam hlídku a ta skutečně nahlásila nález mrtvé ženy v kontejneru na sklo. „Ještě jsme netušili, kdo to je, tak jsem tam vyrazil já. Byl se mnou Kodet a ten mrtvou poznal – byla to ta, co poskytla Pánkovi alibi. Nahlášená espézetka patřila taky Pánkovi. Osobně jsem zkontroloval Pacáka s Purkyněm – kupodivu nespali. Nahlásili, že Králová byla u Pacáka, ale že odešla. Podle nich byl Pacák celý večer doma, sledovali, jak se pohybuje po domě. „Autem nikam nevyjel. Dokonce jsme se šli sami přesvědčit; oknem garáže jsme viděli, že tam to auto fakt stojí.“
 
@@ -83,7 +91,9 @@ Marie složila hlavu do dlaní.
 
 LIV.
 
-  
+</section>
+
+<section>
 
 Ucpané ranní silnice je zpomalily, takže než se dostaly do Štěpánova, hodiny na palubní desce služební oktávie hlásily čtvrt na osm. Na křižovatce u prodejny zeleniny odbočily doleva směrem k vlakovému nádraží. Situace byla podobná jako před osmi dny. Po vesnici se už rozkřiklo, že se zas něco děje, a tak směrem k nádraží proudily hloučky zvědavců a babiček v šátcích a teplých svetrech udatně šlapajících do pedálů letitých bicyklů.
 
@@ -219,7 +229,9 @@ Přešli cestu k řadovému dvoupatrovému domku s uniformně šedou fasádou.
 
 LV.
 
-  
+</section>
+
+<section>
 
 Dveře domku otevřela mladá žena a za zády jí vykukovala dvě děvčátka. Paní Doulová mohla mít kolem pětatřiceti, ale vypadala o deset let starší; obličej oteklý únavou, zplihlé mastné vlasy pod uši, čelo poseté vyrážkami. Na sobě měla dlouhé červené triko do půlky stehen, zpod něhož vykukovaly holé, sádrově bílé nohy – baňatá nafialovělá kolena s tlustou popraskanou kůží a lýtka obrostlá tmavými chloupky. Každému z návštěvníků při pohledu na ni vytanuly jiné pocity. Kristýna si představila, co by s touhle opotřebovanou matkou dvou dětí, která nebude o moc starší než ona, udělaly kadeřnice, průměrná stylistka a něco kvalitní kosmetiky. Edelweisse zcela neprofesionálně napadlo, že některé týrané ženy si o těch pár facek přímo říkají. Marii jí bylo prostě a jednoduše líto.
 
@@ -345,7 +357,9 @@ Kristýna se poškrábala pod ortézou, připadala si v tu chvíli strašně hl
 
 LVI.
 
-  
+</section>
+
+<section>
 
 Nejprve ale vyhledaly doktora Anděla. Zrovna dokončoval pitvu Zdeny Králové. Pár minut čekaly ve vykachlíkovaném předsálí, pak je doktor Anděl v zeleném operačním plášti a igelitové zástěře pozval dovnitř. Na stole uprostřed místnosti leželo tělo, celé zahalené v zeleném prostěradle. Ven vykukovala jen drobná ženská chodidla s nalakovanými nehty. Kristýna v pitevně ještě nikdy nebyla, takže se ztuhle rozhlížela a snažila se silou vůle nemyslet na to, že by jí třeba mohlo být špatně.
 
@@ -373,7 +387,9 @@ Marie mlčky pokývala hlavou.
 
 LVII.
 
-  
+</section>
+
+<section>
 
 Hlídka ve voze šikmo přes ulici neměla sebemenší tušení o Pánkově nočním výletu. Po dvou hodinách napjatého ticha spolu Pacák a Purkyně začali komunikovat, což ovšem nebylo známkou obno­vení přátelských vztahů, ale projevem zcela utilitární potřeby neusnout.
 
@@ -381,7 +397,9 @@ Ve tři čtvrtě na dvě je přišel zkontrolovat sám Nejvyšší. Museli poda
 
 V šest ráno je vystřídali. Purkyně s Pacákem zajeli do vedlejší ulice a oba vystoupili do studeného rána, aby se protáhli. Na louce za městem se převaloval opar, oranžové slunce se pomalu klubalo nad východní siluetou města. Společně stáli na jednom z nejvyšších bodů na západní straně města, takže se jim v průhledu mezi paneláky naskytl nádherný výhled na pokročilou fázi svítání s panorámatem olomouckých kostelních věží vylupujících se z oranžovošedé mlhy. Jenže Pacák ani Purkyně nebyli příliš poeticky založení, což překvapovalo zejména u druhého jmenovaného, jenž svým zájmem o hudbu vhodnou k poslechu u táborových ohňů mohl vzbuzovat klamné zdání romantické duše. Po pravdě řečeno, v jeho případě šlo spíše o pózu a pouhý hudební vkus, příroda mu v podstatě lezla na nervy. Ohně, igelit ve stínu lesa a rosa na kolejích jej nelákaly od jedné neblahé noci pod širákem před sedmi lety, jejímž následkem prodělal těžkou klíšťovou encefalitidu.
 
-  
+</section>
+
+<section>
 
 Kdyby dr. Jiří Pánek věděl, jak důkladné má alibi, asi by mu to v ono čtvrteční ráno dokázalo zvednout náladu. Probudil se něco před osmou, kdy už ti dva dávno spali, a hned vyrazil na katedru. Auto opět nechal v garáži, neměl kam spěchat a včerejší procházka přes půl města se mu kupodivu celkem líbila. Ve tři čtvrtě na deset mu začala výuka, ornitologické cvičení pro druhý ročník, během kterého si výrazně ulevil od špatné nálady tím, že zdupal, zesměšnil a pak z učebny vyhodil peroxidovou barbínu (za mimořádnou manuální nešikovnost v kombinaci s už tak dost sníženou mentální výkonností), a to přesto, že ji loni zařadil do kategorie _šukatelná_ s velmi pozitivní perspektivou. Když pak ve čtvrt na dvanáct zamykal učebnu a viděl, jak se za rohem chodby vynořily ty dvě policajtky ze včerejška, stupnice na teploměru jeho nálady opět neradostně klesla hluboko pod nulu.
 
@@ -503,7 +521,9 @@ Marie s Kristýnou vyšly na chodbu. Přestávka mezi hodinami skončila a na 
 
 LVIII.
 
-  
+</section>
+
+<section>
 
 „Vy nás dneska proháníte,“ řekl Edelweissovi na přivítanou šéf týmu specialistů na ohledání místa činu. „Napřed v noci ta vražda, teď zas tohle.“ Šéf techniků byl poněkud dýchavičný padesátník, který trpěl nadváhou a v jednom kuse se potil. „Přijeli jsme jen dva,“ řekl. „Pokud se tu neobjeví žádné další mrtvoly, tak to auto máme za chvilku hotový.“
 
@@ -513,7 +533,9 @@ Edelweiss se posadil do svého auta a nalistoval poslední stránky. Velká Sov
 
 LIX.
 
-  
+</section>
+
+<section>
 
 „Co vlastně dělá vaše žena?“ zeptala se Marie, když Pánek po pár minutách otevřel dveře učebny.
 
@@ -567,7 +589,9 @@ Vyšly na chodbu. Marie se podívala z okna na neútulné nádvoří fakulty. K
 
 LX.
 
-  
+</section>
+
+<section>
 
 Karolína Semerádová nabídla Pavlu Edelweissovi židli a toho na malou chvíli opět pojal děs, že místo rychlého šetření, co se stalo s nebohým obecním policajtem Nemravou, bude muset opět čelit vyčerpávající hanácké pohostinnosti. Paní Semerádovou objevil rotný Kubík. Spolu s třemi dalšími procházel domky dělnické kolonie – a měl štěstí, že narazil na informovaný zdroj.
 
@@ -651,7 +675,9 @@ Jeho nadšení trvalo jen krátce. „Jo,“ ozvalo se na druhé straně, „my 
 
 LXI.
 
-  
+</section>
+
+<section>
 
 „Nemrava je mrtvý, Pavle,“ uzavřela Marie Výrová hovor. „Jakýkoliv optimismus není namístě. No nic, je na čase těm zmetkům utnout tipec. Malý moment…,“ otočila se na Kristýnu, která bedlivě poslouchala Mariin hovor. „Kristýno, zavolej pro posily. Ať přijedou rychle, ale bez humbuku. Aspoň dva vozy. Pavle, kolik tam máte lidí?“
 
@@ -663,7 +689,9 @@ LXI.
 
 „Toho štěpánovskýho! Měla by tam být Anna Pánková, tak ji seberte. A dávejte při tom na sebe pozor!“
 
-  
+</section>
+
+<section>
 
 „Tak jdem!“ řekla Kristýně, když zavěsila. „Máš zbraň?“
 
@@ -697,7 +725,9 @@ Kristýna vyrovnala s Marií krok. „Nebylo by lepší počkat na ty posily?�
 
 „Pánka zvládnem,“ řekla Marie a pak se na Kristýnu ohlédla: „Zmetka, co se mi vyloženě smál do obličeje, si musím zatknout sama.“
 
-  
+</section>
+
+<section>
 
 Chodba IT sekce byla jako vždy vzorně uklizená a prokazatelně nedávno vymalovaná. Zastavili se před bílými dveřmi se jmenovkou Jana Pánka.
 
@@ -731,7 +761,9 @@ Pánek zacloumal s rukama za zády. „Vy mě povedete přes celou budovu?“ v
 
 LXII.
 
-  
+</section>
+
+<section>
 
 Venku před budovou přírodovědecké fakulty už čekaly čtyři služební vozy, dostavil se i sám Nejvyšší. „Vidím, že jste si, dámy, poradily i bez nás,“ zvolal na přivítanou. Na rušné třídě proudily davy chodců a zvonily tramvaje. Pánek byl vyděšený, zmateně se rozhlížel kolem a pak se otočil k budově fakulty a zvedl hlavu k oknům. V tu chvíli mu ovšem došlo, že se takto sice dozví, kdo všechno se dívá, ale současně mu potenciální zvědavci uvidí do obličeje – a tak bez jakéhokoliv zdráhání nastoupil do policejního vozu.
 
@@ -765,7 +797,9 @@ Marie rychle vytáhla mobil.
 
 „Bez obav!“
 
-  
+</section>
+
+<section>
 
 Zámečnická firma Kocych a Makovička sídlila v jedné z bočních uliček v centru města nedaleko náměstí. Zaparkovali u vchodu do výrobny klíčů patřící firmě.
 
@@ -783,7 +817,9 @@ Vitouš a čtyři další policisté vystoupili z vozů. Dva zůstali venku, V
 
 LXIII.
 
-  
+</section>
+
+<section>
 
 Čtyři vraždy. Tři určitě, čtvrtá pravděpodobně. Když Pavel Edelweiss vystupoval ve společnosti mladého a snaživého rotného Kubíka (objevil paní Semerádovou, tak ho „za odměnu“ vzal s sebou) z vozu na druhém konci Štěpánova, uvědomil si, že čtyřnásobnou vražednici ještě nikdy nezatýkal. Jak někdo takový může vypadat? Jeho dosavadní zkušenosti mu jasně říkaly, že nejspíš zcela všedně a banálně.
 
@@ -1033,7 +1069,9 @@ EDELWEISS: Státní zástupce zohlední vaši ochotu spolupracovat a pravdomluv
 
 _Konec záznamu._
 
-  
+</section>
+
+<section>
 
 Edelweiss vstal a šel ke dveřím. „Jo a mimochodem – kde je Josef Nemrava nebo jeho tělo?“
 
@@ -1049,7 +1087,9 @@ Pavel Edelweiss vyšel ze dveří a na chodbě se opřel o stěnu, aby vydechl
 
 LXV.
 
-  
+</section>
+
+<section>
 
 Václava Kulicha si vzal na starost sám Nejvyšší. Když vešel do výslechové místnosti, našel Kulicha rozvaleného na židli a dožadujícího se cigaret, které zůstaly ležet na jeho stole v zámečnické dílně. Měl na sobě pracovní kombinézu se skvrnami od oleje, z náprsních kapes mu trčel jakýsi hadr, který zřejmě sloužil jako utěrka na hrubé ruce s olámanými nehty, téměř tmavě hnědé od zažrané špíny a cigaret. Hygiena zřejmě nebyla Kulichovou nejsilnější stránkou. Štiplavá směs potu, piva a cigaretového kouře už stačila zaplnit uzavřenou místnost, takže sotva Vitouš strčil hlavu dovnitř, rychle vycouval a spustil klimatizaci. Kulich na něj hleděl drobnýma očima v zarud­lém, odulém obličeji. Na pravé lícní kosti mu vyskočila narůžovělá vyrážka, zřejmě navíc ještě podrážděná nedávným holením. Drze a sebevědomě se usmíval. Vitouš se na něj usmál taky – měl rád tenhle typ úsměšku na tvářích lidí jako Kulich. Měl to rád, protože se vždycky těšil na okamžik, kdy těmhle lidem dojde, že jsou úplně v prdeli, a ten úsměšek jim z jejich samolibých ksichtů zmizí.
 
@@ -1073,7 +1113,9 @@ Viktor Vitouš vyšel z výslechové místnosti. Kulicha jeho úsmě­šek nep�
 
 LXVI.
 
-  
+</section>
+
+<section>
 
 Doktor Anděl předal Marii složku, pak s ní asi pět minut tiše hovořil a procházel s ní obsah dokumentů, které pro ni připravil. Pak si Marie přečetla Pánkovu výpověď. Zaměřila se hlavně na vraždu Zdeny Králové. Pánek nešetřil detaily…
 
@@ -1119,13 +1161,17 @@ Jan Pánek povolil igelit a přiložil Zdeně Králové dva prsty na krční te
 
 „Je.“ Vystoupil a rozhlédl se. Z jedné strany byli kryti přístřeškem na popelnice, z druhé řadou bříz lemujících Jílovou ulici. Navlékl si rukavice a otevřel víko jednoho z kontejnerů. Byl plný. Ale vedlejší zelený kontejner na sklo zřejmě nedávno vyvezli. Společně vytáhli Zdenu Královou z vozu. I přes velká ňadra byla drobná a lehká. Pánkovi nečinilo žádné potíže přehodit ji přes okraj kontejneru, zatímco jeho švagrová držela víko. Přehodil horní půlku těla přes hranu kontejneru. To, co ještě před chvílí bylo živou Zdenou Královou, se přelomené v pase zhouplo, Pánek nadzvedl nohy a tělo sklouzlo přes okraj. Ozvalo se žuchnutí a třesk skla. Anna plná šťastného uspokojení s vervou zavřela víko zeleného plastového kontejneru s nálepkou SKLO a pokyny, co vše se dovnitř smí nebo nesmí házet. O tělech tam samozřejmě nebyla ani zmínka. Pomalu přestávalo pršet.
 
-  
+</section>
+
+<section>
 
 Edelweiss netrpělivě čekal, až se jeho šéfová dá do výslechu. Marie pokývala hlavou. „No, se Štěpánovou zatím počkám. Vyrukuju na ni s Královou, z toho se nebude moct vykroutit.“
 
 LXVII.
 
-  
+</section>
+
+<section>
 
 Ve vyšetřovně už čekala Anna Pánková se svým právníkem. Z vedlejší místnosti přes sklo vše sledovali Pavel Edelweiss s Kristýnou Horovou; jakmile vešel starý doktor, Edelweiss vstal a uvolnil mu svou židli.
 
@@ -1203,10 +1249,14 @@ Marie vstala. „A z toho, co o Veronice Štěpánové vím, mohu jen soudit,
 
 „To už nechte na nás,“ řekla Marie a odešla z vyšetřovny.
 
-  
+</section>
+
+<section>
 
 Prošla chodbou – mezitím z výslechové místnosti vyšli Edelweiss, Kristýna i doktor – a aniž by si kohokoliv všimla, práskla za sebou dveřmi své kanceláře. Ruce se jí třásly, lomcoval s ní neuvěřitelný vztek a bezmoc a zuřivá nenávist vůči takové míře krutosti a bezcitnosti. Šokovaná svou vlastní citovou angažovaností otevřela v notebooku příslušné soubory a pustila si tu písničku, která se tak hodila k tomuhle vyšetřování. A když přišel její závěr – _Ale vy, co filozofujete o hanbě a kritizujete každou zbabělost, teď si teprve pořádně zakryjte tvář, protože teď přišel čas na vaše slzy_[1](./resources/undefined) –, udělala to, o čem mladý Bob Dylan zpíval.
 
 * * *
 
 [1](./resources/undefined) Citát z písně Boba Dylana v překladu Michala Bystrova.
+
+</section>

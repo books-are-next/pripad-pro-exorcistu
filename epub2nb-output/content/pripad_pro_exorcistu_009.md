@@ -3,9 +3,13 @@ title: DEN DRUHÝ pátek 2\. října
 contentType: prose
 ---
 
+<section>
+
 XVII.
 
-  
+</section>
+
+<section>
 
 Druhý den začal v kanceláři policejního ředitele. Bylo něco před devátou, ředitel seděl za svým stolem (ze zdi na něj přísně shlížel prezident, z vitríny za jeho zády jako připomínka lepších dní všemožná ocenění, sošky, trofeje a dva neidentifikovatelné diplomy), Viktor Vitouš a Marie Výrová stáli proti němu (což samo o sobě bylo špatné znamení) a policejní ředitel je informoval o návštěvě arcibiskupova náměstka v doprovodu arcibiskupského právníka. Když skončil, podíval se přímo na Vitouše a doporučil mu, ať okamžitě po návratu do své kanceláře napíše osobní omluvný dopis oběma kněžím – to za prvé – a podá si žádost o dovolenou – to za druhé –, která bude okamžitě schválena a okamžitě nastoupena. Vitouš mlčel, jen na krku mu naskákaly karmínové fleky.
 
@@ -49,7 +53,9 @@ Marie od včerejška na svého nadřízeného ani jednou přímo nepromluvila, t
 
 XVIII.
 
-  
+</section>
+
+<section>
 
 O dvacet minut později se konala porada k případu vraždy Veroniky Štěpánové. V zasedačce se sešlo deset lidí, Marie vyhlásila vyšetřo­vání vraždy za prioritní a stáhla kolegy z méně významných případů. Viktor Vitouš seděl až vzadu v rohu a do porady nikterak nezasahoval.
 
@@ -87,7 +93,9 @@ Další dotazy už nebyly, až na Pavla Edelweisse: „Úkol pro mě?“
 
 XIX.
 
-  
+</section>
+
+<section>
 
 „Chcete ji vidět?“ zeptal se doktor Anděl, jakmile se Výrová s Edel­weissem ocitli v jeho kanceláři.
 
@@ -245,7 +253,9 @@ Otevřely se dveře a dovnitř nakoukl Edelweiss s mobilem v ruce. „To byl 
 
 XX.
 
-  
+</section>
+
+<section>
 
 Z Ústavu soudního lékařství v areálu fakultní nemocnice by to vzdušnou čarou pěšky na ulici Heyrovského zabralo jen takových pět minut. Stačilo by sejít z vršku nemocničního areálu, podchodem projít pod výpadovkou na Brno a v panelákovém labyrintu sídliště na samém kraji města najít ten správný dům. Autem to však bylo mnohem složitější a Edelweissovi trvalo přes dvacet minut, než se zorientoval v úzkých jednosměrkách mezi paneláky a našel všechny správné odbočky. Naštěstí tohle sídliště znal. Kdysi dávno – už to bylo dobrých dvaadvacet let – „docházel“ za jednou spolužačkou bydlící na Jánského ulici, sousedící s Heyrovského. Jel tenkrát na kole a na první rande dorazil se skoro půlhodinovým zpožděním – protože zabloudil. Zamotal se v úzkých uličkách a zazmatkoval. Teď už byl klidnější, přesto se mu nezdálo, že by socialističtí stavitelé sídliště v sedmdesátých a v první půlce let osmdesátých udělali cokoliv, aby návštěvníkům či nováčkům orientaci jakkoliv usnadnili. Panelák jeden jako druhý, lišící se jen počtem pater, nalepené blízko sebe, mezi chaoticky se klikatícími uličkami.
 
@@ -303,7 +313,9 @@ Edelweiss zvedl hlavu, jako by v nadýchaných obláčcích prohánějících s
 
 XXI.
 
-  
+</section>
+
+<section>
 
 Geniální a rafinovaný plán Richarda Fořta (aspoň o něm takto smýšlel) hned ze začátku poněkud naboural fakt, že musel jet do Štěpánova autobusem. Kdyby tak měl vlastní vůz, nebo kdyby tak měl řidičák a mohl si k tomu účelu půjčit BMW nebo jinou luxusní limuzínu…! Jenže řidičák neměl a vlastně ani netušil, jak se taková luxusní limuzína půjčuje. Kde. Za kolik. Přesto ale věděl, že pro člověka jeho postavení by BMW bylo jaksi příhodnější než autobus. Vystoupil na zastávce u kina za kostelem. Měl na sobě svůj šedý oblek, velmi zachovalý, protože v něm byl snad všeho všudy čtyřikrát. Promoce, bratrova svatba, nějaký ten pohřeb. Pak ještě jednou, ale to už si nepamatoval, věděl jen, že v něm kdesi ještě jednou byl. Umyl si vlasy a pečlivě je načesal, takže se mu zdálo, že by mohl skutečně vypadat seriózně. Oblékl si šedý baloňák. Starší, ale elegantní. (Aspoň si to myslel.) Pod něj si vzal svůj nejlepší oblek a bílou košili. Od minula se nějak seprala, takže rukávy si nemohl zapnout, ale to pod sakem stejně nebylo vidět. Taky měl střídmou, ale vysoce elegantní (dle jeho názoru) šedou vázanku. Byla sice po otci a žádný soudný současník by si ji na krk dobrovolně neuvázal, ale Richard Fořt byl proti těmto jemným módním nuancím imunní, což mu umožňovalo se domnívat, že jeho retro kravata může být vnímána jako projev konzervativní důstojnosti, kterou ten den svým úřadem zastával.
 
@@ -327,7 +339,9 @@ Teď už to konečně pochopila. Přijala z jeho ruky vizitku, bez brýlí na n
 
 XXII.
 
-  
+</section>
+
+<section>
 
 Pokud na Jindru Šádovou smrt její spolubydlící nějak zapůsobila, rozhodně to nedala na sobě znát. Seděla s Marií v obýváku, zatímco kolega Edelweiss spolu s Kodetem a Šťávou prohledávali Veroničin pokoj. Ty dvě spolu učily na stejném gymnáziu, sdílely spolu jeden dvoupokojový panelákový byt, ale to bylo asi tak všechno. Zřejmě si k srdci nepřirostly. Nebo aspoň Jindra nedávala na sobě znát, že by byla zmožená žalem. Byla malá, hubená, s plochým hrudníkem a neadekvátně velkou hlavou s širokým obličejem. K její atraktivitě nepřispívaly ani malé, od sebe daleko posazené oči těsně nad placatým nosem. Na otázky po osobním životě Veroniky odpovídala negativně. Neví, s kým chodila. Nestarala se o to. O jejích rodičích nic neví – vlastně ano, Veronika žádné neměla. Ne, Veronika si sem nikdy nikoho nevodila. Taková byla domluva. Marie ji pozorovala a napadlo ji, že pokud si sem Veronika nikoho nevodila, bylo to z ohleduplnosti k téhle nesympatické, žábě podobné bytosti, zapšklé, bez emocí, frustrované celým světem. Svěřila se jí Veronika někdy s něčím osobním? Ne. Vlastně ano. Jednou se v opilosti přiznala, že dává přednost mužům s velkým penisem. Připadá jí to nechutné, dodala a Marie si vzpomněla na otce Karase. Loni prý chodila s nějakým ženatým mužem. To ještě studovala. Myslí si, že to byl někdo z její katedry. Připadá jí to vrcholně nechutné, rozvracet rodinu. Tenkrát jí Veronika řekla, že má na rameni vytetovaného kolibříka. Protože je to ornitolog. Jestli může být upřímná a opravdu upřímně říct, co si myslí, tak Štěpánová byla zcela amorální. A nejspíš posedlá sexem. Ne, nikdy si sem nikoho nepřivedla, ale v poslední době skoro pořád bývala na noc mimo. Jak často je skoro pořád? No aspoň dvakrát týdně. A to, jestli to teda může říct upřímně, pracovala s mladými lidmi. Ona si teda myslí, pokývala Jindra Šádová svou velikou hlavou na tenkém krčku, že když někdo učí, měl by jít mladým lidem příkladem. A to dokonce Veronika měla tu drzost vést nějaký zoologický kroužek v dětském domově. Každou sobotu ráno. Představte si, obrátila se Šádová na Marii, v pátek v noci pravidelně nespávala doma a hned ráno jde vést zoologický kroužek. Beztak to byl zas někdo ženatej. Co by na to asi tak řekli rodiče těch dětí! Marii napadlo, že rodičům těch dětí to zřejmě bude šumafuk, protože jinak by své potomky nenechávali v dětském domově. Aby byla upřímná, jestli teda může být upřímná, tak to taky Štěpánové řekla a od té doby se spolu moc nebavily. Ona sama učí matematiku a fyziku a povolání učitele na střední škole je natolik náročné, že si nedovede představit, že by takhle trávila noci někde venku, místo aby se pravidelně připravovala nebo pracovala na svém sebevzdělání. Ona sama třeba odebírá hned tři odborné časopisy, včetně didaktického bulletinu pro výuku matematiky, ale Štěpánová nic. Jestli teda může být upřímná, osobně si upřímně myslí, že v pátek v noci nebývala doma, protože to dělala za peníze. _To_. Samozřejmě to neví, protože se o takové věci nezajímá, ale myslí si to. A teď si představte, že po takové noci jde vést zoologický kroužek pro děti.
 
@@ -371,7 +385,9 @@ Pavel Edelweiss nastartoval vůz a vyjeli.
 
 XXIII.
 
-  
+</section>
+
+<section>
 
 Po obědě se Marie zavřela ve své kanceláři, pootevřela okno, aby dovnitř pustila vlahý říjnový vítr; podzim stále předváděl svou nejlepší stránku – blankytná obloha, svěží větřík rozhánějící napadané listí, hřejivé slunce. Marie se chvíli kochala pohledem z okna, byť jen na pár stromů na policejním parkovišti, pak zapnula svůj notebook a přemýšlela nad nejvhodnějším hudebním doprovodem k četbě knihy Karla Karase. Že to bude Bob Dylan, to se rozumělo samo sebou, teď to chtělo jen vybrat některé z alb. Dcera jí do notebooku stáhla celou diskografii – vzhledem k tomu, že Marie všechna alba vlastnila i ve fyzické podobě jako originální cédéčka, a pár kousků i jako možná zcela raritní elpíčka, za pirátství to nepovažovala a měla před zákonem čisté svědomí. Marie sice byla skalní fanynka, ale ne tolik, aby ze všeho nejvíc preferovala akustická šedesátá léta. Tyto dřevní nahrávky vlastně téměř neposlouchala, dávala přednost hlavně sedmdesátým létům a zejména Dylanově tvorbě za posledních deset let; takové album _Time Out Of Mind_ se jí nikdy neoposlouchalo.
 
@@ -379,7 +395,9 @@ Její vášeň pro Boba Dylana začala přesně 13. července 1985. Byla tehdy 
 
 Už to trvá skoro čtvrt století, uvědomila si Marie. V notebooku si pustila _World Gone Wrong_ a dala se dočtení Karasova spisu.
 
-  
+</section>
+
+<section>
 
 V první částí své knihy – a Marie četla se skutečným zájmem – otec Karas podával přehled současného pohledu církve na exorcismus.
 
@@ -389,7 +407,9 @@ Marie přemýšlela, jak moc odvahy potřeboval Karas coby katolický kněz k t
 
 Marii mrazilo v zádech při pomyšlení, že by Karasova kniha mohla mít přece jen nějaký vliv na celý případ. Zatrhla si v knize informaci o devadesátistránkovém oficiálním vatikánském dokumentu z roku 1999 _De exorcismis et supplicationibus quibusdam_ – _O exor­cismu a některých dalších prosbách_, který měl být prvním oficiálním návodem k exorcismu od roku 1614. Na dalších stranách se Karas s nasazením investigativního žurnalisty pustil do osoby kardinála Mediny, ultrakonzervativního kněze, jenž sám řídil vydání exorcistické příručky. Z Medinových názorů na Marii dýchl duch středověku, tedy alespoň toho středověku, jak si jej představovala: Posedlá osoba nehřeší, protože ke hříchu je třeba jednat ze svobodné vůle. Posedlá osoba je ďáblem zotročená. Ďábel je velmi chytrý. Obvykle nejedná prostřednictvím posedlosti, spíše postupuje skrze pokušení. A jelikož démon je lhář, může pokoušet tak, že způsobí, aby zlé věci vypadaly dobře. Ošálí lidi, aby si mysleli, že umějí najít štěstí způsobem, který jedná proti Božímu zákonu. Například způsobí, že lidé si myslí, že nemusejí uposlechnout zákony manželské věrnosti, neboť mohou takovou situaci vyřešit rozvodem. Nebo lidi přiměje věřit, že přerušení těhotenství je v pořádku, protože je přesvědčí, že počaté stvoření není lidská bytost, ale jenom shluk buněk, který se dá vyhodit způsobem, jako když má někdo kašel a odplivne si.
 
-  
+</section>
+
+<section>
 
 Album dohrálo a Marie odložila knihu. Byla zmatená. Kniha působila fantasticky a zcela neuvěřitelně; podávala zprávu o světě, o kterém Marie neměla ani tušení, jako kdyby šlo o reportáž z výpravy na jinou planetu, někde mimo sluneční soustavu. Ale současně – i přes svou čtivost a orientaci spíše na populární stránku problému – zřejmě šlo o seriózní práci. Citáty byly podložené přesnými odkazy, vzadu byl připojen skoro patnáctistránkový seznam literatury, který tak tvořil asi desetinu rozsahu Karasovy knihy. Marie přemýšlela, kolika lidem asi Karas šlápl na kuří oko. Vesnický kněz… Začaly ji napadat fantastické konstrukce; ona, jež na slátaniny Dana Browna reagovala se smíchem, ona, která bytostně odmítala jakékoliv teo­rie spiknutí, protože vždy byla přesvědčená, že v našem světě, kde není možné nic pořádně naplánovat a kde takovou roli hraje náhoda a chaos a kde každý hned všechno vykecá, buď z hlouposti nebo pro peníze, prostě _není možné_, aby fungovaly tajné organizace a důmysl­ná spiknutí – prostě proto, že se to neslučovalo s jejím pohledem na chod světa, prostě proto, že do každého, i nejsofistikovanějšího plánu vstupuje tolik neznámých a neočekávatelných veličin, prostě proto, že se kdykoliv cokoliv může jakkoliv pokazit a nevyjít – prostě proto, že žádná spiknutí neexistují, protože existo­vat nemohou, jelikož by nefungovala – prostě proto… Marie vydechla a opřela si hlavu do dlaní. Vzpomněla si, jak se před mnoha mnoha lety pohádala s tchánem a jak on se urazil, když se vysmála jeho přesvědčení, že sametovou revoluci zorganizovala CIA, anebo KGB, anebo Mossad, nebo všichni tři dohromady a jak tchán tehdy bytostně odmítal připustit, že by se temná hydra komunismu rozpadla prostě jen proto, že každý domeček z karet se jednou rozsype a že takový bordel, co tu byl, se jednou rozloží sám od sebe. Ne, kdepak, žádné spiknutí… Ale teď přišla změna. Začaly ji napadat _věci_ – _věci_, jaké by ani nedokázala vyslovit, v knize o tom nebylo ani slovo – Karas se českou církví nezabýval, zřejmě byl natolik loajální – ale logicky: jsou i u nás exorcisté? A jak se jim asi líbila Karasova kniha? Jak jsou silní? Jaký mají aparát, vliv a moc? A co když…? Ne, tohle hned zavrhla. Veroničina smrt přece jen nemohla být výsledkem nějakého brutálního katolického spiknutí. A to už jen proto, že se Marie optimisticky a zcela menšinově domnívala, že církev už ze své podstaty hraje ve společnosti (aspoň té současné) pozitivní úlohu a že vražda prostě dnes do jejího standardního repertoáru nepatří. Ne, ne, třikrát ne. Marie o tom byla přesvědčená. Nebo aspoň doufala… Pustila si album _Good as I Been to You_ a pokračovala v četbě. Druhá půlka knihy se věnovala exorcismu jako takovému a podávala přehled nejrůznějších projevů posedlosti ďáblem. Marie se dozvěděla, co je to infestace, vexace, obsese a posese. Pak Karas analyzoval čtyři hlavní symptomy posedlosti ďáblem (projevování nadlidské síly; zvládnutí jazyků, které oběť nemůže znát; projevování znalostí a vědomostí, které oběť nemůže znát; zuřivé rouhačství), které následně podrobně analyzoval z hlediska medicínského a zejména psychiatrického. (Marie nalistovala úvod, kde Karas vyjmenovával lékaře a psychiatry, s nimiž problém konzultoval; pracoval důkladně a pečlivě.) Tato část knihy byla nejzábavnější – Karas s vtipem a místy až se škodolibostí dokládal, že za znalost cizích či exotických jazyků bývá považována jakási podivná hatmatilka, kterou se _oběť_ sama dostává do transu, neboť jde o jakýsi rytmizovaný jazyk; navíc zdali je jazyk exotický či nikoliv, posuzuje sám exorcista, jenž podobnému žvatlání sám nerozumí, a tudíž mu připadá jako projev ďábelské posedlosti. A tak dál.
 
@@ -403,7 +423,9 @@ Marie vyšla z kanceláře a sháněla se po Edelweissovi. Kristýna Horová j
 
 XXIV.
 
-  
+</section>
+
+<section>
 
 Po dvou hodinách v terénu mohla Kristýna Horová jen potvrdit, že názor Jindry Šádové na svou spolubydlící skutečně zkreslovala frust­race nebo žárlivost – nebo obojí. Ve škole, kde učila, na Veroniku pěli samou chválu. Ředitelku dětského domova, kde vedla zoologický kroužek a zdarma brala děti na exkurze a výlety do přírody, zpráva o Veroničině smrti skutečně zdrtila a mrtvou dívku charakterizovala jako nesmírně vstřícnou, vnímavou, obětavou, ochotnou a zejména mezi dětmi oblíbenou, což ilustrovala tím, že během tři čtvrtě roku její práce s dětmi stoupl zájem o zoologický kroužek trojnásobně a Veronika z původních sedmi dětí nyní pracovala vlastně s celým osazenstvem (kromě asi pěti ignorantů).
 
@@ -441,11 +463,15 @@ PERKNER: A teď narážíte na co?
 
 KARAS: Nevíte? Wiesbaden, březen 1990.
 
-  
+</section>
+
+<section>
 
 A tím rozhovor skončil. Perkner okamžitě odešel ze studia. Šoko­vaný rozhlasový redaktor se zeptal, co se stalo ve Wiesbadenu v březnu 1990, ale Karas odmítl odpovědět s tím, že to je otázka pro Dominika Perknera. Redaktor Havlíček ještě jednou představil Karasovu knihu, položil mu ještě dvě otázky a pak se společně s posluchači rozloučili.
 
-  
+</section>
+
+<section>
 
 „Wiesbaden, březen 1990?“ zopakovala Kristýna. „Co to má být?“
 
@@ -459,7 +485,9 @@ A tím rozhovor skončil. Perkner okamžitě odešel ze studia. Šoko­vaný ro
 
 XXV.
 
-  
+</section>
+
+<section>
 
 Karel Karas ve své pracovně na štěpánovské faře třídil papíry. Nastal čas balení. Z okna se díval na kostel. Na _svůj_ kostel. Na svůj _bývalý_ kostel. Teď obehnaný policejní páskou. Přes mřížoví brány viděl, jak policejní technici stále ještě prohledávají hřbitov. Na příjezdové cestě ke kostelu stálo zaparkované policejní auto a v něm seděla hlídka. A _jeho_ kostel je zavřený…
 
@@ -475,7 +503,9 @@ Hleděl z okna na svůj kostel. Došlo mu, že se vlastně ani nerozloučil se 
 
 XXVI.
 
-  
+</section>
+
+<section>
 
 Richard Fořt stál několik metrů od fary u budovy místního kina.
 
@@ -487,7 +517,9 @@ Otočil se a pomalu se vydal k autobusové zastávce, aby se vrátil zpět do 
 
 XXVII.
 
-  
+</section>
+
+<section>
 
 Pavel Edelweiss s Kristýnou Horovou sledovali telefonní hovor své šéfové s otcem Karasem. Vyrozuměli z něj, že se ve Štěpánově objevila televize, že proto Velká Sova dovolila faráři odjet do jakési vesnice u Litovle, kde měl Karasův otec zemědělské hospodářství, a že farář poskytne klíče od fary policistovi střežícímu místo činu. Následně zavolala strážmistru Pacákovi a přikázala mu okamžitě odkázat televizní štáb na tiskové oddělení policie. A hlídat faru.
 
@@ -585,7 +617,9 @@ Pavel Edelweiss mávl rukou a jen řekl: „Údernice v policejních složkác
 
 XXVIII.
 
-  
+</section>
+
+<section>
 
 Kristýna Horová měla milostný poměr s ženatým mužem, takže večery obvykle trávila sama. Po příchodu domů umyla nádobí za poslední tři dny (ne že by toho bylo tolik, v klidu to zvládla za pět minut), deset minut telefonovala s oním ženatým pánem, dalších pět minut s krajským státním zástupcem JUDr. Horou, který se zajímal o průběh vyšetřování (také se zajímal o dceřin citový život, ale po dvou ostrých hádkách se už zdržoval jakýchkoliv otázek či komentářů), dalších dvacet minut poseděla nad svým profilem na Facebooku, kam – poté, co si přečetla, že její kamarádi a kamarádky jdou zapařit, do kina, na rande, či kamkoliv jinam, kam se chodí ve dvou – nakonec nenapsala, že bude doma, sama, a bude se koukat na film, který jí v souvislosti s případem doporučil kolega. Připadala by si jako trubka. Je jí sedmadvacet. Je mladá, chytrá, hezká, sexy, ale je doprdele v pátek večer sama doma, o víkendu bude doprdele taky sama doma a je takový zoufalec, že v sobotu půjde do práce, i když by doprdele vůbec nemusela. Vypnula počítač. Sedmadvacet. Ještě pár let bude takhle pokračovat a stane se z ní stará panna (i když to panenství už naštěstí není fyzicky možné). V obýváku svého panelového dvoupokojáčku zapnula televizi a dokoukala konec zpráv. Edelweissovo DVD na stolku podle obalu vypadalo slibně. Naštěstí se má pořád ještě na co těšit. Na to, že si teď pustí film. Na to, že se v neděli odpoledne uvidí se svým ženatým pánem. Na to, že tenhle případ se pro ni vyvíjí dobře, protože Velká Sova si všimla jejích schopností a možná se v rámci týmu dostane někam výš. Když přede dvěma roky oznámila otci, že i když vystudovala práva, nepůjde k němu na státní zastupitelství, ani do soukromé praxe, ale že by chtěla k policii (a pak absolvovala příslušné kurzy), otec ji varoval, že je to mužský svět a že to vůbec nebude mít lehké. Jenže otec znal léta Velkou Sovu a ta Kristýně už během studií umožnila praxi na svém oddělení, a to bylo rozhodující. Byla tenkrát u toho. U toho, po čem Nejvyšší Marii Výrové přidělil jako parťáka Edelweisse. Mělo to být rutinní zatýkání. Chlápek zabil milence své manželky, kterou pak ten samý večer přejel autem. Nebylo těžké pachatele najít. Seděl naprosto zhrouceně v kuchyni řadového domku své matky v okrajové čtvrti Olomouce, na klíně choval malého bílého špice a drbal ho za ušima. Ke všemu se přiznal, byl klidný, smutný, smířený. Už se jej chystali odvést, když najednou požádal, zdali by mohl ještě psovi dát čistou vodu a krmení, protože jeho matka měla odkudsi přijít až pozdě večer. Marie souhlasila. Kristýna se spolu s kolegy Purkyněm a Kodetem už v předsíni chystala k odchodu. Marie se otočila, že muže doprovodí. Ten v kuchyni otevřel dvířka spodní skříňky kuchyňské linky, ale místo krmení pro psa vytáhl dlouhý kuchyňský nůž, aby si podřezal žíly. Velká Sova se mu v tom neprozřetelně pokusila zabránit. Z předsíně uslyšeli nějaký hluk, a když vběhli do kuchyně, našli vraha z nešťastné lásky s přeťatými zápěstími, z nichž tryskala krev na vyděšeného bělostného špice tisknoucího se mu k boku, a Marii sedící na zemi opodál, s vytřeštěnýma očima a tisknoucí si obě ruce k hluboké ráně v levém boku, těsně pod žebry. Mezi prsty jí crčela krev a Marie rychle upadala do šoku. Na modrém svetříku pod černým kostýmem se roztahovala gigantická černá skvrna; a Kristýna na tu spoušť zírala, neschopná jakkoliv zareagovat. Purkyně s Kodetem okamžitě zkoušeli zastavit krvácení a byli to oni dva, kdo ji na sto procent zachránili, ne bezmocná, ztuhlá Kristýna. Víc než čtvrt roku se jí potom o té hrůze zdálo, vracela se jí ta scéna znovu a znovu a bála se podívat Marii Výrové do očí, aby v nich nevyčetla, že ji všichni mají za zbabělce. Faktem ale bylo, že si na Kristýnu nikdo ani nevzpomněl a Velká Sova byla po vražedném útoku dostatečně mimo sebe, než aby vnímala, že Kristýna jejímu zachraňování jen roztřeseně přihlížela.
 
@@ -597,10 +631,14 @@ Kristýna vložila DVD do přehrávače, připravila si misku chipsů, láhev v�
 
 Otřesená šla spát v jedenáct hodin.
 
-  
+</section>
+
+<section>
 
 Probudila ji zima a podivné zvuky. Do ložnice přes žaluzie vnikaly pruhy bledého světla z kandelábru přímo pod oknem. Klep klep klep. Kristýna se natáhla po přikrývce, ale nikde ji nenahmatala. Klep klep klep. Otevřela oči. Klep klep – lokalizovala zvuky: klepalo topení. Posadila se na posteli. Peřina ležela na zemi. Klep klep klep. Copak někdy takhle v noci klepalo topení? Ani topná sezona ještě nezačala. Rozhlédla se po pokoji. Naprosté ticho, tupá hlučná absence zvuku. Pak zas: klep klep klep. V kuchyni v odpověď zachrochtala lednička. Kristýna přejela očima po pokoji – nejprve to zaznamenala jen periferním viděním, ale pak pomalu otočila hlavu. V rohu pokoje na peřináči ze tmy svítily digitální hodiny.
 
 Velké zřetelné žluté číslice: 3:00. Ze sedu přešla prudce do kleku, postel se otřásla a z psacího stolu hned vedle jejího dvojlůžka se s rachotem skácel červený plastový kelímek s propiskami a fixy. Klep klep klep, přidalo se topení. Kristýna se natáhla pro peřinu, rychle ji vytáhla k sobě nahoru a zabalila se do ní. Klep klep klep, odsouhlasilo to topení. Číslice na hodinách umanutě setrvávaly na trojce a dvou nulách. Všechny souvislosti z večerního filmu Kristýně naskakovaly v hlavě. Klep klep klep, posmívalo se jejímu strachu topení. Může být něco pod postelí? napadlo Kristýnu. Rozsvítila lampičku na nočním stolku. Klep klep klep, na to topení nesouhlasně. Kristýna se postavila na posteli, stále zabalená do přikrývky, a skočila ke dveřím, aby ji nic, co by se mohlo skrývat pod postelí, nemohlo chytit. Ramenem se udeřila o futro, zakopla o práh, druhá noha se jí zamotala do přikrývky, která jí při skoku sklouzla z ramen, ale vyrovnala to; v obýváku se rychle otočila a zavřela za sebou dveře. Chtěla je zamknout, ale klíč byl z druhé strany. Hmátla po vypínači a pokoj se rozzářil. Běžela do předsíně, rozsvítila a překontrolovala, jestli jsou bytové dveře zavřené. Klíč klimbal v zámku, řetízek byl na svém místě. Rozsvítila v kuchyni, v koupelně i na záchodě. Byla jí zima a potřebovala čurat. Potom se v obýváku posadila v křesle, studené nohy složila pod sebe a zabalila se do peřiny. Hodiny na starém videorekordéru u televize poskočily na 3:02. Kristýna upřeně hleděla na dveře do ložnice a téměř fyzicky cítila, jak za nimi něco číhá. V kuchyni znovu zachrochtala lednička. A pak se rozhostilo ticho; stejně fyzické jako strach a zima, která s Kristýnou třásla. Byl to jen film, byl to jen film, uklidňovala sama sebe, ale pak zlomyslná paměť vydolovala úvodní titulek, že jde o příběh podle skutečné událostí. Čirá hrůza, čirý děs. Jestli se dožiju rána, tak Edelweisse zabiju.
 
 Do ložnice se tu noc už neodvážila. Spánek ji nakonec přemohl, ale probudila se už ve tři čtvrtě na šest, polámaná a prokřehlá, nohy zmrtvělé. Vysoukala se z křesla a šla pozhasínat všechna světla. Ložnice zela pochmurnou prázdnotou. Lampička na nočním stolku nesvítila. Kristýnino racionálnější já převzalo kontrolu – třesoucíma se rukama vyšroubovala žárovku a ujistila se, že skutečně praskla.
+
+</section>

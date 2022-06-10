@@ -3,9 +3,13 @@ title: DEN ŠESTÝ úterý 6\. října
 contentType: prose
 ---
 
+<section>
+
 XLIII.
 
-  
+</section>
+
+<section>
 
 Pršelo, asfaltová silnice se leskla jako tulení hřbet. Šedivé nebe se tlačilo na město. Střecha protějšího domu se ztrácela v bezútěšném popelavém oparu. Všechno zšedlo, den byl zcela bez barev. Kristýna Horová si malou chvíli z okna prohlížela tu podzimní bezútěšnost; nejprve jen sledovala, jak její otec odjíždí do práce, ale pak zůstala u okna, protože nevěděla, co jiného by měla dělat. A aby taky nic jiného dělat nemusela.
 
@@ -17,7 +21,9 @@ Kristýnu roztřásla zima a už zas potřebovala na záchod. Šla se vyčurat 
 
 XLIV.
 
-  
+</section>
+
+<section>
 
 Dr. Anděl ve své pracovně zvedl hlavu od psaní pitevní zprávy a to, že ve dveřích vidí stát Pavla Edelweisse, jej vlastně ani nepřekvapilo.
 
@@ -71,7 +77,9 @@ Dr. Anděl ve své pracovně zvedl hlavu od psaní pitevní zprávy a to, že v
 
 XLV.
 
-  
+</section>
+
+<section>
 
 Marie Výrová spala dvanáct hodin. Když se kolem páté probudila, pro deštivé šero za oknem ložnice nemohla poznat, jestli ručičky na budíku ukazují ráno nebo večer, jestli se dívá na úsvit nebo soumrak. Když jí nastartoval mozek, došlo jí, že tma venku má být denní světlo. Spala intenzivně a bez přerušování; v noci si vzala prášek na spaní a ten ve spolupráci s únavou a vyčerpáním okamžitě zabral, přesto (anebo právě proto) se cítila nevyspalá a rozlámaná.
 
@@ -96,3 +104,5 @@ _13:21 – Edelweiss – Bohuzel, stary Karas zemrel. Uz se neprobral._
 _15:35 – Horova – Zkousela jsem volat. Nevim, co mam delat. Edl. ale rikal, ze jsem ho nezastrelila ja. Rikal, ze zadne vysetrovani a vse je pro me OK. Ale ja nevim, muzu zitra prijit do prace?_
 
 _15:55 – Edelweiss – Je tady bozi dopusteni. Vsichni na tom delame cely den, ale vůbec to nevypada, ze by Fort byl nas clovek. Hrozny zmatek. Nejvyssi s nacelnikem chteji pripad uzavrit, ale mne se to fakt nezda._
+
+</section>
