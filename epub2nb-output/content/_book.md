@@ -13,6 +13,7 @@ meta:
   modified: '2021-03-05T00:00:00.000Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2502-0
 readingOrder:
   - promo.html
   - pripad_pro_exorcistu_004.html
