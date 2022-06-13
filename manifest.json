@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "sykora-pripad-pro-exorcistu-6c5b3d9",
-  "revision": "6c5b3d9",
+  "identifier": "sykora-pripad-pro-exorcistu-2f8e42c",
+  "revision": "2f8e42c",
   "readingOrder": [
     "promo.html",
     "pripad_pro_exorcistu_004.html",
@@ -27,8 +27,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:32:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655155945760
+    "date": "Mon Jun 13 2022 22:01:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157687718
   },
   "documents": [
     {
