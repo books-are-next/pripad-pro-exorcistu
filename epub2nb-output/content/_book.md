@@ -28,7 +28,7 @@ readingOrder:
   - pripad_pro_exorcistu_014.html
   - pripad_pro_exorcistu_015.html
   - pripad_pro_exorcistu_016.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

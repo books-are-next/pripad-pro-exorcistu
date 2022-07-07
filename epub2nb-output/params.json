@@ -65,7 +65,7 @@
             "filename": "pripad_pro_exorcistu_003.md",
             "xhtml": "pripad_pro_exorcistu_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -77,7 +77,7 @@
             "filename": "pripad_pro_exorcistu_005.md",
             "xhtml": "pripad_pro_exorcistu_005.xhtml",
             "id": 4,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -245,7 +245,7 @@
             "filename": "pripad_pro_exorcistu_017.md",
             "xhtml": "pripad_pro_exorcistu_017.xhtml",
             "id": 16,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -449,6 +449,6 @@
       "user": "books-are-next",
       "repo": "pripad-pro-exorcistu"
     },
-    "generatedAt": 1655979472014
+    "generatedAt": 1657182367921
   }
 }
