@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "sykora-pripad-pro-exorcistu-ed5384a",
-  "revision": "ed5384a",
+  "identifier": "sykora-pripad-pro-exorcistu-de8ca4b",
+  "revision": "de8ca4b",
   "readingOrder": [
     "promo.html",
     "pripad_pro_exorcistu_004.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:53:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187624291
+    "date": "Thu Jul 21 2022 14:45:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414713164
   },
   "documents": [
     {
@@ -287,7 +287,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 143,
-      "chars": 946,
+      "chars": 947,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -307,7 +307,7 @@
   "totals": {
     "all": {
       "words": 75339,
-      "chars": 458025,
+      "chars": 458026,
       "ideas": 2703
     },
     "chapters": {
