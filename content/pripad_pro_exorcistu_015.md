@@ -1253,10 +1253,10 @@ Marie vstala. „A z toho, co o Veronice Štěpánové vím, mohu jen soudit,
 
 <section>
 
-Prošla chodbou – mezitím z výslechové místnosti vyšli Edelweiss, Kristýna i doktor – a aniž by si kohokoliv všimla, práskla za sebou dveřmi své kanceláře. Ruce se jí třásly, lomcoval s ní neuvěřitelný vztek a bezmoc a zuřivá nenávist vůči takové míře krutosti a bezcitnosti. Šokovaná svou vlastní citovou angažovaností otevřela v notebooku příslušné soubory a pustila si tu písničku, která se tak hodila k tomuhle vyšetřování. A když přišel její závěr – _Ale vy, co filozofujete o hanbě a kritizujete každou zbabělost, teď si teprve pořádně zakryjte tvář, protože teď přišel čas na vaše slzy_[1](./resources/undefined) –, udělala to, o čem mladý Bob Dylan zpíval.
+Prošla chodbou – mezitím z výslechové místnosti vyšli Edelweiss, Kristýna i doktor – a aniž by si kohokoliv všimla, práskla za sebou dveřmi své kanceláře. Ruce se jí třásly, lomcoval s ní neuvěřitelný vztek a bezmoc a zuřivá nenávist vůči takové míře krutosti a bezcitnosti. Šokovaná svou vlastní citovou angažovaností otevřela v notebooku příslušné soubory a pustila si tu písničku, která se tak hodila k tomuhle vyšetřování. A když přišel její závěr – _Ale vy, co filozofujete o hanbě a kritizujete každou zbabělost, teď si teprve pořádně zakryjte tvář, protože teď přišel čas na vaše slzy_[^1] –, udělala to, o čem mladý Bob Dylan zpíval.
 
 * * *
 
-[1](./resources/undefined) Citát z písně Boba Dylana v překladu Michala Bystrova.
+[^1]: Citát z písně Boba Dylana v překladu Michala Bystrova.
 
 </section>
