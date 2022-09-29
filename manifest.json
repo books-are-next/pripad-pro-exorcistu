@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "sykora-pripad-pro-exorcistu-de8ca4b",
-  "revision": "de8ca4b",
+  "identifier": "sykora-pripad-pro-exorcistu-da00bdf",
+  "revision": "da00bdf",
   "readingOrder": [
     "promo.html",
     "pripad_pro_exorcistu_004.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:45:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414713164
+    "date": "Thu Sep 29 2022 21:32:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487161814
   },
   "documents": [
     {
@@ -247,7 +247,7 @@
       "title": "DEN OSMÝ čtvrtek 8. října",
       "file": "pripad_pro_exorcistu_015.html",
       "words": 11993,
-      "chars": 72343,
+      "chars": 72344,
       "ideas": 581,
       "role": "chapter",
       "order": 11,
@@ -307,12 +307,12 @@
   "totals": {
     "all": {
       "words": 75339,
-      "chars": 458026,
+      "chars": 458027,
       "ideas": 2703
     },
     "chapters": {
       "words": 75059,
-      "chars": 456176,
+      "chars": 456177,
       "ideas": 2663
     }
   }
